@@ -1,0 +1,888 @@
+{
+  "title": "Food Bundle Comparison \u2014 Batch 7",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "food_pair_120",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_120_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g7MDyGPMI4KKEfG-vO3-5Bf_RrQ07FFj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Del Monte Lite Fruit Cups Variety - 24/4 oz.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of four-ounce fruit cups featuring a variety of light fruit options, perfect for convenient snacking or healthy on-the-go meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oQVpJHfQr3Zsk1ZW52GVzw7Pwa_fDAlH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dr. McDougall's Right Foods Vegan Black Bean &amp; Lime Soup, 3.4-Ounce Cups (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of six 3.4-ounce cups of vegan black bean and lime soup, perfect for a quick, flavorful meal option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g7MDyGPMI4KKEfG-vO3-5Bf_RrQ07FFj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Del Monte Lite Fruit Cups Variety - 24/4 oz.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of four-ounce fruit cups featuring a variety of light fruit options, perfect for convenient snacking or healthy on-the-go meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OHXSJIQYKd7yXxqLUABB23_ZAGORaTe5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Annie's Homegrown Organic Vegan Fruit Snacks Variety Pack 24 (0.8oz)Pouches</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A collection of organic, vegan fruit snacks packaged in convenient 0.8-ounce pouches, offering a variety of fruity flavors.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_120_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_120_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_120_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_121",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_121_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1duQnQCkKh1Co0vMtFUK1mJdbkbFIFlGy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mary Jane, 16 Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 16-ounce package contains a classic taffy candy known for its chewy texture and sweet, nostalgic flavor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WmsUX2-l5thDhFXXoJuLyiie8LqwFev_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">5 Lb. Bulk Bag Mary Janes Candy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A large bulk bag of chewy taffy candy, featuring a unique blend of flavors and a nostalgic appeal, perfect for sharing or for use in party favors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1z9goCeS0bFifkIS03INFZkEnpz4k696A&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mary Jane Candy 2 Pound Snack Pack Approx. 110 pcs.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bulk pack of chewy, peanut butter-flavored taffy candies, offering approximately 110 pieces ideal for sharing or snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-EhQO1mUUJtHTsTqM96fGmH_Pu0W-Elh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mary Janes: 5LBS</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a bulk package of chewy taffy candy known for its rich, sweet flavor and nostalgic appeal, perfect for sharing or enjoying as a treat.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1duQnQCkKh1Co0vMtFUK1mJdbkbFIFlGy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mary Jane, 16 Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 16-ounce package contains a classic taffy candy known for its chewy texture and sweet, nostalgic flavor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WmsUX2-l5thDhFXXoJuLyiie8LqwFev_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">5 Lb. Bulk Bag Mary Janes Candy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A large bulk bag of chewy taffy candy, featuring a unique blend of flavors and a nostalgic appeal, perfect for sharing or for use in party favors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a4PAz7Pw2TDBNDIZBjlxfE43vicaRru1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ghirardelli SQUARES Double Fudge,  4.63-Ounce Package</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 4.63-ounce package of rich, double fudge chocolate squares that offer a decadent treat for chocolate lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1z9goCeS0bFifkIS03INFZkEnpz4k696A&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mary Jane Candy 2 Pound Snack Pack Approx. 110 pcs.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bulk pack of chewy, peanut butter-flavored taffy candies, offering approximately 110 pieces ideal for sharing or snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-EhQO1mUUJtHTsTqM96fGmH_Pu0W-Elh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mary Janes: 5LBS</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a bulk package of chewy taffy candy known for its rich, sweet flavor and nostalgic appeal, perfect for sharing or enjoying as a treat.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_121_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_121_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_121_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_122",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_122_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1D5bbZ2gZvMTknzKbk4iYLsgNIlQ3mYQG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Quoc Viet Foods Beef Flavored &quot;Pho&quot; Soup Base, 10 oz jar (1 unit)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a concentrated beef-flavored soup base designed for making traditional Vietnamese pho, conveniently packaged in a 10 oz jar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z2BTEXD8y_58HVmC5zUFhM41C9U4ok5u&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DaVinci Gourmet Sugar Free Syrup, Vanilla, 25.4 Ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of three bottles of vanilla-flavored sugar-free syrup, ideal for enhancing beverages and desserts without added sugar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14pstI4_sCv0P1e8Zsg0xlCJegLVsF4F3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bob's Red Mill Organic Soy Flour, 16-Ounce (Pack of 4)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of four 16-ounce bags of organic soy flour, a versatile ingredient used for baking and cooking that provides a gluten-free alternative to traditional wheat flour.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pC7lkfS-DOQO3Myjw55nrZQjynKAltuZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Barrie House Coffee Decaf Donut Shop Blend Coffee (10 oz bag)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A smooth and flavorful decaffeinated coffee blend, perfect for enjoying the classic donut shop experience at home.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-Y5n6xhoSWe6qilaLoTslC-YnRrCgVBs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Carbquik Baking Mix Now in a 3 lb. Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A low-carb baking mix designed for making biscuits and other baked goods, packaged in a convenient 3 lb. box.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cd04kGB5tp8TwcXd1XFbn2GcLjEXWU56&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NOW Foods Xanthan Gum,  6 Ounce Bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A thickening agent derived from fermented corn sugar, commonly used in gluten-free baking and cooking to improve texture and stability in recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxrQ0JgwC_uA6Y7C0JEiQcxfUh3XDhqV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sparkling ICE Spring Water, Orange Mango, 17-Ounce Bottles (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A refreshing, flavored sparkling water in a convenient 17-ounce bottle, available in a pack of 12, featuring a blend of orange and mango.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1osBHduSn_vFyyqdk7r1E4mgS4QrOMHkU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smucker's Sugar Free Breakfast Syrup, Low Calorie, Kosher OU, Sweetened with NutraSweet, Pack of One 14.5 oz Bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A low-calorie syrup sweetened with NutraSweet, ideal for adding flavor to pancakes and waffles without the sugar.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z2BTEXD8y_58HVmC5zUFhM41C9U4ok5u&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DaVinci Gourmet Sugar Free Syrup, Vanilla, 25.4 Ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of three bottles of vanilla-flavored sugar-free syrup, ideal for enhancing beverages and desserts without added sugar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pC7lkfS-DOQO3Myjw55nrZQjynKAltuZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Barrie House Coffee Decaf Donut Shop Blend Coffee (10 oz bag)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A smooth and flavorful decaffeinated coffee blend, perfect for enjoying the classic donut shop experience at home.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-Y5n6xhoSWe6qilaLoTslC-YnRrCgVBs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Carbquik Baking Mix Now in a 3 lb. Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A low-carb baking mix designed for making biscuits and other baked goods, packaged in a convenient 3 lb. box.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cd04kGB5tp8TwcXd1XFbn2GcLjEXWU56&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NOW Foods Xanthan Gum,  6 Ounce Bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A thickening agent derived from fermented corn sugar, commonly used in gluten-free baking and cooking to improve texture and stability in recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1osBHduSn_vFyyqdk7r1E4mgS4QrOMHkU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smucker's Sugar Free Breakfast Syrup, Low Calorie, Kosher OU, Sweetened with NutraSweet, Pack of One 14.5 oz Bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A low-calorie syrup sweetened with NutraSweet, ideal for adding flavor to pancakes and waffles without the sugar.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_122_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_122_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_122_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_123",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_123_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z2BTEXD8y_58HVmC5zUFhM41C9U4ok5u&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DaVinci Gourmet Sugar Free Syrup, Vanilla, 25.4 Ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of three bottles of vanilla-flavored sugar-free syrup, ideal for enhancing beverages and desserts without added sugar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cd04kGB5tp8TwcXd1XFbn2GcLjEXWU56&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NOW Foods Xanthan Gum,  6 Ounce Bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A thickening agent derived from fermented corn sugar, commonly used in gluten-free baking and cooking to improve texture and stability in recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxrQ0JgwC_uA6Y7C0JEiQcxfUh3XDhqV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sparkling ICE Spring Water, Orange Mango, 17-Ounce Bottles (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A refreshing, flavored sparkling water in a convenient 17-ounce bottle, available in a pack of 12, featuring a blend of orange and mango.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z2BTEXD8y_58HVmC5zUFhM41C9U4ok5u&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DaVinci Gourmet Sugar Free Syrup, Vanilla, 25.4 Ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of three bottles of vanilla-flavored sugar-free syrup, ideal for enhancing beverages and desserts without added sugar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxrQ0JgwC_uA6Y7C0JEiQcxfUh3XDhqV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sparkling ICE Spring Water, Orange Mango, 17-Ounce Bottles (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A refreshing, flavored sparkling water in a convenient 17-ounce bottle, available in a pack of 12, featuring a blend of orange and mango.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_123_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_123_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_123_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_124",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_124_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17GKLZGm05_lMOlFNLN4B2ZU6lJWe8mu_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Libby's Organic Whole Kernel Sweet Corn, 15-Ounce  Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 15-ounce cans of organic whole kernel sweet corn, ideal for adding a nutritious and sweet vegetable option to various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_wWpmHwFPEpj6eEQ-4lmWaQu58bpLjqK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Swanson Chicken Broth, 49.5 Ounce Can</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A savory liquid made from simmered chicken and vegetables, ideal for enhancing the flavor of soups, stews, and various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gNnhdtyenQ6yIANrVmoCIhRjxuM8UkIr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Simply Organic Garlic Powder Certified Organic, 3.64-Ounce Container</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 3.64-ounce container of certified organic garlic powder, perfect for adding robust garlic flavor to a variety of dishes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxn7r6vSCmGdUqyTQTHfYkBdsnOka1hi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Farmers Market Organic Pumpkin, 15-Ounce,(Pack Of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 15-ounce cans of organic pumpkin puree, ideal for baking pies and other desserts or incorporating into savory dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17GKLZGm05_lMOlFNLN4B2ZU6lJWe8mu_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Libby's Organic Whole Kernel Sweet Corn, 15-Ounce  Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 15-ounce cans of organic whole kernel sweet corn, ideal for adding a nutritious and sweet vegetable option to various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18V2JbRCFa2OxnpQv3tB_bwlO0ctTOakR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wild Planet Wild Alaskan Pink Salmon, Boneless &amp; Skinless, 6-Ounce Cans (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of six 6-ounce cans of boneless and skinless wild-caught pink salmon, offering a convenient source of protein and omega-3 fatty acids for various meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19tMpIS0m5Tn4LThKXESkDweFH_eV9fxy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Thai Kitchen Pure Coconut Milk Lite, 13.66-Ounce Unit (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 13.66-ounce cans of reduced-fat coconut milk, ideal for cooking, baking, and adding creaminess to a variety of dishes while being lower in calories.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_124_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_124_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_124_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_125",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_125_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxn7r6vSCmGdUqyTQTHfYkBdsnOka1hi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Farmers Market Organic Pumpkin, 15-Ounce,(Pack Of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 15-ounce cans of organic pumpkin puree, ideal for baking pies and other desserts or incorporating into savory dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tjP3Lsaebl3h9jhBPvxDH17BIIsn7oyT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nutiva Organic Virgin Coconut Oil, 54-Ounce Containers (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of two 54-ounce containers of organic virgin coconut oil, ideal for cooking, baking, and as a versatile ingredient in various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19tMpIS0m5Tn4LThKXESkDweFH_eV9fxy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Thai Kitchen Pure Coconut Milk Lite, 13.66-Ounce Unit (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 13.66-ounce cans of reduced-fat coconut milk, ideal for cooking, baking, and adding creaminess to a variety of dishes while being lower in calories.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxn7r6vSCmGdUqyTQTHfYkBdsnOka1hi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Farmers Market Organic Pumpkin, 15-Ounce,(Pack Of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 15-ounce cans of organic pumpkin puree, ideal for baking pies and other desserts or incorporating into savory dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tjP3Lsaebl3h9jhBPvxDH17BIIsn7oyT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nutiva Organic Virgin Coconut Oil, 54-Ounce Containers (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of two 54-ounce containers of organic virgin coconut oil, ideal for cooking, baking, and as a versatile ingredient in various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=134hNvgkwUpyBaH3ROwhpmBKWyfxzzifx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">King Arthur Flour Multipurpose Flour, Gluten Free, 24-ounces</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This gluten-free flour is designed for versatile cooking and baking, providing a reliable substitute for traditional wheat flour in various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rYx9iX_Rtxg1lrsnmX5xcHN3TvVpUt-7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bob's Red Mill - Baking Powder Double Aluminum Free Acting Gluten Free - 16 oz.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A gluten-free leavening agent that helps baked goods rise without the use of aluminum.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EtJrUJCSMxuR96R7My-qS2Lu_kGTFr4B&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">McCormick Pure Vanilla Extract-16 OZ</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile liquid flavoring derived from vanilla beans, commonly used in baking and cooking to enhance the taste of desserts and other dishes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_125_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_125_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_125_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_126",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_126_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Vkd_QTGEygPogviV-PW7sI7sKKXBGq2X&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">6 Color Set of ELECTRIC Colors - 4.5oz Soft Gel Paste Electric Colors Cake Decorating Food Color - The Most popular 6 colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes six vibrant gel paste colors specifically designed for cake decorating, providing intense hues that enhance the visual appeal of baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RgtH_-u0cwF1nk06MglqKFv-V5y_5dII&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chefmaster Food Coloring Kit: Ten 1-Ounce Colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This kit includes ten 1-ounce bottles of vibrant food coloring, ideal for enhancing the visual appeal of baked goods, confections, and other culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DbM_nq5072q_dOt4sNa4OwKhK-hg45r2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gourmet Writer Food Decorator Pens, Assorted Colors, Set of 10</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are edible ink pens in various colors, designed for decorating and personalizing cakes, cookies, and other baked goods with intricate designs or messages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lkSDa-mteD88xCkOMVfQu9s0TdtrYJKo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CK Products Artificial Cr&egrave;me Bouquet Flavor Enhancer, 8 ounce bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A concentrated flavor enhancer in an 8-ounce bottle, designed to add a rich cr\u00e8me bouquet taste to baked goods and confections.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AjikN-bi6rHjjB5Xmv6_FUgvzPZC84ox&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmeriColor Student Soft Gel Paste Food Color 12 Pack Kit</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This kit contains 12 vibrant gel paste food colors designed for easy mixing and use in baking, decorating, and crafting, allowing for precise color customization in various culinary applications.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m_wd1yipXGb-KmBPfWCOERhuj3cFBJUu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">6 AmeriMist 9oz Electric Colors Set Airbrush Cake Decorating Color</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of six vibrant, ready-to-use airbrush food colors designed for decorating cakes and other baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14ioEYJz7OxztijrezkYNser0nAfsFpHC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fondarific Strawberry Fondant, 2-Pounds</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pliable and sweet fondant designed for cake decorating, providing a smooth finish and vibrant strawberry flavor.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Vkd_QTGEygPogviV-PW7sI7sKKXBGq2X&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">6 Color Set of ELECTRIC Colors - 4.5oz Soft Gel Paste Electric Colors Cake Decorating Food Color - The Most popular 6 colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes six vibrant gel paste colors specifically designed for cake decorating, providing intense hues that enhance the visual appeal of baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RgtH_-u0cwF1nk06MglqKFv-V5y_5dII&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chefmaster Food Coloring Kit: Ten 1-Ounce Colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This kit includes ten 1-ounce bottles of vibrant food coloring, ideal for enhancing the visual appeal of baked goods, confections, and other culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DbM_nq5072q_dOt4sNa4OwKhK-hg45r2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gourmet Writer Food Decorator Pens, Assorted Colors, Set of 10</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are edible ink pens in various colors, designed for decorating and personalizing cakes, cookies, and other baked goods with intricate designs or messages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lkSDa-mteD88xCkOMVfQu9s0TdtrYJKo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CK Products Artificial Cr&egrave;me Bouquet Flavor Enhancer, 8 ounce bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A concentrated flavor enhancer in an 8-ounce bottle, designed to add a rich cr\u00e8me bouquet taste to baked goods and confections.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AjikN-bi6rHjjB5Xmv6_FUgvzPZC84ox&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmeriColor Student Soft Gel Paste Food Color 12 Pack Kit</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This kit contains 12 vibrant gel paste food colors designed for easy mixing and use in baking, decorating, and crafting, allowing for precise color customization in various culinary applications.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m_wd1yipXGb-KmBPfWCOERhuj3cFBJUu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">6 AmeriMist 9oz Electric Colors Set Airbrush Cake Decorating Color</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of six vibrant, ready-to-use airbrush food colors designed for decorating cakes and other baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Px95vDsLYW_um9RKANgHvg4NeuRshYAd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Isomalt Sticks, One 12Pk - Orange</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve orange-colored isomalt sticks, used as a sugar substitute in cooking and baking for a low-calorie sweetening option.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_126_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_126_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_126_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_127",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_127_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16XNhuwFgX6pI-PEio6E5CNMr-FmPIsDR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Apples, 16 Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are dehydrated apple slices, packaged in a 16-ounce bag, ideal for snacking, baking, or adding to cereals and salads.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DCiiOmmLjdDvPyCJzWWJfAyVtHwOc__D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lemon Peel Cut &amp; Sifted Organic - 1 lb,(Frontier)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Dried and finely cut organic lemon peel, ideal for adding citrus flavor to recipes, teas, and baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kt3ywfd4qyyy07NBuBJpWIPaIyF6LYaH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Harmony House Foods Freeze-Dried Blackberries, whole (4 oz, Quart Size Jar)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a quart-sized jar containing whole freeze-dried blackberries, ideal for easy storage and convenient use in camping or hiking meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1T8_M_1OfmCoIyOIkW8QgRfsNsgZBjHj2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dryden And Palmer Old fashioned Rock Candy Amber Sugar Crystals, 5lbs Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 5-pound box of amber sugar crystals, ideal for sweetening beverages or as a decorative topping for desserts.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1w20UVmPdn63XcpW8TZ34BlCiDtbgZBOm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Orange, Sweet Essential Oil 4 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 4 oz bottle contains sweet orange essential oil, commonly used in aromatherapy for its uplifting scent and potential mood-enhancing properties.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iRY6FoSG8I8oV56Y-Qjc_Pohdt4iEr48&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Frontier Natural Products Organic Orange Peel Cut and Sifted -- 1 lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Dried and cut orange peel, this ingredient is commonly used to add citrus flavor and aroma to culinary dishes, teas, and baking recipes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16XNhuwFgX6pI-PEio6E5CNMr-FmPIsDR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Apples, 16 Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are dehydrated apple slices, packaged in a 16-ounce bag, ideal for snacking, baking, or adding to cereals and salads.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DCiiOmmLjdDvPyCJzWWJfAyVtHwOc__D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lemon Peel Cut &amp; Sifted Organic - 1 lb,(Frontier)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Dried and finely cut organic lemon peel, ideal for adding citrus flavor to recipes, teas, and baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kt3ywfd4qyyy07NBuBJpWIPaIyF6LYaH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Harmony House Foods Freeze-Dried Blackberries, whole (4 oz, Quart Size Jar)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a quart-sized jar containing whole freeze-dried blackberries, ideal for easy storage and convenient use in camping or hiking meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iRY6FoSG8I8oV56Y-Qjc_Pohdt4iEr48&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Frontier Natural Products Organic Orange Peel Cut and Sifted -- 1 lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Dried and cut orange peel, this ingredient is commonly used to add citrus flavor and aroma to culinary dishes, teas, and baking recipes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_127_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_127_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_127_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_128",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_128_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16XNhuwFgX6pI-PEio6E5CNMr-FmPIsDR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Apples, 16 Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are dehydrated apple slices, packaged in a 16-ounce bag, ideal for snacking, baking, or adding to cereals and salads.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DCiiOmmLjdDvPyCJzWWJfAyVtHwOc__D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lemon Peel Cut &amp; Sifted Organic - 1 lb,(Frontier)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Dried and finely cut organic lemon peel, ideal for adding citrus flavor to recipes, teas, and baked goods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iRY6FoSG8I8oV56Y-Qjc_Pohdt4iEr48&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Frontier Natural Products Organic Orange Peel Cut and Sifted -- 1 lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Dried and cut orange peel, this ingredient is commonly used to add citrus flavor and aroma to culinary dishes, teas, and baking recipes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16XNhuwFgX6pI-PEio6E5CNMr-FmPIsDR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Apples, 16 Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are dehydrated apple slices, packaged in a 16-ounce bag, ideal for snacking, baking, or adding to cereals and salads.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=156ebTwEIOy-uPe6fCTAZNFABZbbe0ybh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pineapple Chunks - Dried Fruit 1 lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are bite-sized pieces of dried pineapple, offering a sweet and tangy flavor, perfect for snacking, baking, or adding to trail mixes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ii57rAiwy-pYo9p9sFEacRRWeevlooGC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Mango, 1lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of sweet, chewy mango slices that have been dried to preserve their flavor and nutrients, making them a convenient snack or ingredient for various recipes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_128_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_128_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_128_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_129",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_129_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m3wUWEz8V_ZBn9h7R2ENXuJfPml4rbSN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LifeAID Beverage, Fit Aid, 12 Ounce (Pack of 24)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pack of 24 fitness-focused beverages designed to support post-workout recovery with natural ingredients and electrolytes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kua7NrmnvG_3iYmdXFtnyx1e1QoaNK8h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Yogi Tea Ginkgo Clarity, Herbal Supplement, Tea Bags, 16 ct</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This herbal tea blend features ginkgo biloba to support mental clarity and focus, packaged in convenient tea bags for easy brewing.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m3wUWEz8V_ZBn9h7R2ENXuJfPml4rbSN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LifeAID Beverage, Fit Aid, 12 Ounce (Pack of 24)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pack of 24 fitness-focused beverages designed to support post-workout recovery with natural ingredients and electrolytes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-W8XL8MEoY9qXTcAx9_u_B5RFJTxZ2zP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KIND Minis Variety Pack, 12-Count, 0.8oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This variety pack contains 12 individually wrapped, 0.8-ounce nutrition bars that provide a convenient and healthy snack option, featuring a mix of flavors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nByc_9wj5SbnPFTqgkibC9UjepFH0X9m&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tanka Bar, Spicy Pepper Blend, 1-Ounce Bars (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of six 1-ounce bars made with a spicy pepper blend, offering a savory, protein-rich snack option.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_129_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_129_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_129_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_130",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_130_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MZBFXKSomdH5ZeXLpKZwF65IkINXKdJL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Burton's Digestive Biscuits, 14 Ounce Roll</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 14-ounce roll of crumbly, sweet biscuits commonly enjoyed as a snack or paired with tea.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1h5o6haEaMi-oHzHzYXb4dlLwWtJbH9WW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Duchy Originals Organic Original Oaten Biscuits, 5.3-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are organic oaten biscuits, crafted with wholesome ingredients, ideal for a crunchy snack or pairing with tea.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1epGyBKRXYTiTXw4YRdAa_hGnZ3_m1e9X&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Osem Chocolate Coated Matzah Crackers, Orange, 7 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are crispy matzah crackers coated in a layer of chocolate with a hint of orange flavor, offering a unique sweet and savory snack experience.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MZBFXKSomdH5ZeXLpKZwF65IkINXKdJL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Burton's Digestive Biscuits, 14 Ounce Roll</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 14-ounce roll of crumbly, sweet biscuits commonly enjoyed as a snack or paired with tea.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1h5o6haEaMi-oHzHzYXb4dlLwWtJbH9WW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Duchy Originals Organic Original Oaten Biscuits, 5.3-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are organic oaten biscuits, crafted with wholesome ingredients, ideal for a crunchy snack or pairing with tea.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=151azQkFbKcBoVjpw4lhiOkvXMnGKuvSQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bamba Peanut Snack, 8-Count, 0.7oz Packages</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A popular Israeli snack, these individually packaged peanut-flavored puffed corn snacks are light, crunchy, and perfect for on-the-go munching.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gg4tQp-7dz0vYNWfgjBPvXb0u2_mqDBe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manischewitz Flavored Matzo Cracker, Mediterranean, 9 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These Mediterranean-flavored matzo crackers are a crunchy snack option, perfect for pairing with dips or enjoying on their own.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1epGyBKRXYTiTXw4YRdAa_hGnZ3_m1e9X&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Osem Chocolate Coated Matzah Crackers, Orange, 7 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are crispy matzah crackers coated in a layer of chocolate with a hint of orange flavor, offering a unique sweet and savory snack experience.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_130_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_130_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_130_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_131",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_131_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qyPsdAQ1LRYPwVdfLucMyuEXnB0gf82Z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kitchens of India Paste for Butter Chicken Curry, 3.5-Ounce Boxes (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A ready-to-use paste designed for making authentic butter chicken curry, conveniently packaged in six 3.5-ounce boxes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TfCNOu6TPN3EjQl5bmi5vvB5Lnq1N-SV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lime (Citron Vert) Teisseire all natural Lime (Citron Vert) Syrup 600 ml 20.3oz, One</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This all-natural lime syrup is designed for mixing with beverages, offering a refreshing citrus flavor in a convenient 600 ml bottle.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gWOkkIemRhZjk1zXDtrW1SCxKdlje7hK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Frontera Pouch, Fajita Skillet, 8-Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient pouch containing a pre-blended seasoning mix specifically designed to enhance the flavor of fajitas, ideal for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Bajeg6zkUis7uqUDNbAXcgPaDHWQ3j4v&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sqwincher 060107-GR Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Grape Flavor, 0.11 oz Bag (Pack of 50)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 50 single-serving, sugar-free electrolyte drink mixes in grape flavor, designed to help rehydrate and replenish electrolytes during physical activity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1geXKrgFhXCzdQonxNS7AAfoR2B9gaj2f&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bbq Bros Rubs (Southern Style)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavorful blend of spices designed to enhance the taste of grilled meats and vegetables with a Southern flair.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KZUnv4AsI9Lsw9JsPSDBzziSQwnMFzi0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Monin Premium Gourmet Blackcurrant Syrup 750ml Bottle (black currant)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This syrup is a concentrated flavoring made from blackcurrants, ideal for enhancing beverages, desserts, and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZEsXiO8cKccy2lt0nVswkt_Kj7PM2fuR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teisseire Blackcurrant Syrup 20.3 Fl Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a sweet blackcurrant-flavored syrup designed for mixing with water or other beverages to create a refreshing drink.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UutqFp9RUVi4bV38BfPjY_VinXijKkF5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Taste of Bombay Basmati Rice, 5 Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 5-pound bag of premium basmati rice known for its long grains, fragrant aroma, and fluffy texture when cooked, making it ideal for a variety of dishes, including curries and pilafs.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qyPsdAQ1LRYPwVdfLucMyuEXnB0gf82Z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kitchens of India Paste for Butter Chicken Curry, 3.5-Ounce Boxes (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A ready-to-use paste designed for making authentic butter chicken curry, conveniently packaged in six 3.5-ounce boxes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UutqFp9RUVi4bV38BfPjY_VinXijKkF5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Taste of Bombay Basmati Rice, 5 Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 5-pound bag of premium basmati rice known for its long grains, fragrant aroma, and fluffy texture when cooked, making it ideal for a variety of dishes, including curries and pilafs.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_131_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_131_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_131_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_132",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_132_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TfCNOu6TPN3EjQl5bmi5vvB5Lnq1N-SV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lime (Citron Vert) Teisseire all natural Lime (Citron Vert) Syrup 600 ml 20.3oz, One</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This all-natural lime syrup is designed for mixing with beverages, offering a refreshing citrus flavor in a convenient 600 ml bottle.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gWOkkIemRhZjk1zXDtrW1SCxKdlje7hK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Frontera Pouch, Fajita Skillet, 8-Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient pouch containing a pre-blended seasoning mix specifically designed to enhance the flavor of fajitas, ideal for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Bajeg6zkUis7uqUDNbAXcgPaDHWQ3j4v&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sqwincher 060107-GR Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Grape Flavor, 0.11 oz Bag (Pack of 50)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 50 single-serving, sugar-free electrolyte drink mixes in grape flavor, designed to help rehydrate and replenish electrolytes during physical activity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1geXKrgFhXCzdQonxNS7AAfoR2B9gaj2f&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bbq Bros Rubs (Southern Style)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavorful blend of spices designed to enhance the taste of grilled meats and vegetables with a Southern flair.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KZUnv4AsI9Lsw9JsPSDBzziSQwnMFzi0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Monin Premium Gourmet Blackcurrant Syrup 750ml Bottle (black currant)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This syrup is a concentrated flavoring made from blackcurrants, ideal for enhancing beverages, desserts, and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZEsXiO8cKccy2lt0nVswkt_Kj7PM2fuR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teisseire Blackcurrant Syrup 20.3 Fl Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a sweet blackcurrant-flavored syrup designed for mixing with water or other beverages to create a refreshing drink.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gWOkkIemRhZjk1zXDtrW1SCxKdlje7hK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Frontera Pouch, Fajita Skillet, 8-Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient pouch containing a pre-blended seasoning mix specifically designed to enhance the flavor of fajitas, ideal for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1U57pNOX7VYM22jzvKgiU2gCyKtdgh-b9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Reduced Carb/Flax, Oat Bran &amp; Whole Wheat Tortillas, 6 tortillas</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These tortillas are a low-carb option made with flax, oat bran, and whole wheat, suitable for wraps or as a side in various meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gyJAhHGEyNgvTUUbXm_OhTTdiyHzxldi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Herdez Salsa Casera, 7-Ounce (Pack of 24)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 7-ounce jar of salsa is a flavorful blend of tomatoes, peppers, and spices, perfect for dipping or as a topping for various dishes, and comes in a pack of 24 for ample supply.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FwnxKTbWOwgmD7kort4tFAiRKvxK9hzK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Del Monte Diced Tomatoes Basil, Garlic and Oregano, 14.5-Ounce (Pack of 8)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of diced tomatoes seasoned with basil, garlic, and oregano, ideal for enhancing sauces, soups, and various dishes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_132_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_132_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_132_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_133",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_133_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FSZBgsEjCADdSZvWBuP7pNiYVQ_hZxNz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Erin Baker's Breakfast Cookie Peanut Butter Chocolate Chunk, Vegan, 3-Ounce Individually Wrapped Cookies (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 individually wrapped vegan breakfast cookies featuring peanut butter and chocolate chunks, designed for a convenient and nutritious on-the-go snack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BzFhpWSC_dhq-jAoHBX4bKn53aTv5r78&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Erin Baker's Breakfast Cookies, Fruit &amp; Nut, 3-Ounce Individually Wrapped Cookies (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually wrapped breakfast cookies made with fruit and nuts, sold in a pack of twelve, designed for a convenient and nutritious on-the-go snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hD5RpYQAeb4uFWHREbZRHWsEdLUpvs8O&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Erin Baker's Breakfast Cookies, Double Chocolate Chunk, 3-Ounce Individually Wrapped Cookies (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually wrapped, soft-baked cookies featuring a rich double chocolate chunk flavor, ideal for a convenient and indulgent breakfast or snack option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FSZBgsEjCADdSZvWBuP7pNiYVQ_hZxNz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Erin Baker's Breakfast Cookie Peanut Butter Chocolate Chunk, Vegan, 3-Ounce Individually Wrapped Cookies (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 individually wrapped vegan breakfast cookies featuring peanut butter and chocolate chunks, designed for a convenient and nutritious on-the-go snack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BzFhpWSC_dhq-jAoHBX4bKn53aTv5r78&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Erin Baker's Breakfast Cookies, Fruit &amp; Nut, 3-Ounce Individually Wrapped Cookies (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually wrapped breakfast cookies made with fruit and nuts, sold in a pack of twelve, designed for a convenient and nutritious on-the-go snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vpza7l3KfHomMYZNx1B9jdQmkR8kdIUg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pure Bar Organic Chocolate Brownie, Gluten Free, Raw, Vegan,  1.7-Ounce Bars (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 individually wrapped organic chocolate brownie bars that are gluten-free, raw, and suitable for vegans, making them a convenient and healthy snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hD5RpYQAeb4uFWHREbZRHWsEdLUpvs8O&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Erin Baker's Breakfast Cookies, Double Chocolate Chunk, 3-Ounce Individually Wrapped Cookies (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually wrapped, soft-baked cookies featuring a rich double chocolate chunk flavor, ideal for a convenient and indulgent breakfast or snack option.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_133_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_133_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_133_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_134",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_134_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oF1bJN0mPB_ZtuWvSSxWRdQvcV2PqOD5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Big Franks, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 20-ounce cans containing plant-based frankfurters, suitable for vegetarians and vegans, offering a convenient and protein-rich meat alternative.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1eXOp_yO6HJwL2mYzfzm47OSCDLfvPRa9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Linketts, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 canned vegetarian sausages made from plant-based ingredients, suitable for quick meals or as a meat substitute in various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1aqxjk8izNFOXsC3LpTX8z99MqFAK_yeF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Tender Bits, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 cans containing plant-based meat alternatives designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1txJ3Y4pVy4iYB7t2Dd2cOktJKQ2rlCfE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Redi-Burger, Low Fat, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 19-ounce cans containing low-fat, plant-based burgers that are ready to heat and serve.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sQw6_cXrLd1-_c-cKbOBoWu6fCLfQcAJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Worthington Low Fat FriChik Original, 12.5-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 12.5-ounce cans of low-fat vegetarian chicken substitute made from soy protein, suitable for various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fcu5S1PbRRJHVf9qGh9mKj-EByPclBbr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Worthington Chili, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 20-ounce cans of vegetarian chili, offering a convenient and hearty meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17BSDeGcsUIcufJvRlt0phIDqLLVyklLg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Swiss Stake with Gravy, 2lbs. 15oz. Can</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a plant-based meat substitute featuring a Swiss-style roast accompanied by gravy, packaged in a 2-pound 15-ounce can.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1eXOp_yO6HJwL2mYzfzm47OSCDLfvPRa9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Linketts, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 canned vegetarian sausages made from plant-based ingredients, suitable for quick meals or as a meat substitute in various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1aqxjk8izNFOXsC3LpTX8z99MqFAK_yeF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Tender Bits, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 cans containing plant-based meat alternatives designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1txJ3Y4pVy4iYB7t2Dd2cOktJKQ2rlCfE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Redi-Burger, Low Fat, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 19-ounce cans containing low-fat, plant-based burgers that are ready to heat and serve.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sQw6_cXrLd1-_c-cKbOBoWu6fCLfQcAJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Worthington Low Fat FriChik Original, 12.5-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 12.5-ounce cans of low-fat vegetarian chicken substitute made from soy protein, suitable for various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17BSDeGcsUIcufJvRlt0phIDqLLVyklLg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Swiss Stake with Gravy, 2lbs. 15oz. Can</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a plant-based meat substitute featuring a Swiss-style roast accompanied by gravy, packaged in a 2-pound 15-ounce can.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qs8cY0i-ZeFrp-xIuckiJhFpZOiYhGE8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Libby's Organic Garbanzo Beans, 15-Ounces Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 15-ounce cans of organic garbanzo beans, ideal for adding protein and fiber to salads, stews, and various dishes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_134_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_134_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_134_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_135",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_135_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oF1bJN0mPB_ZtuWvSSxWRdQvcV2PqOD5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Big Franks, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 20-ounce cans containing plant-based frankfurters, suitable for vegetarians and vegans, offering a convenient and protein-rich meat alternative.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1eXOp_yO6HJwL2mYzfzm47OSCDLfvPRa9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Linketts, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 canned vegetarian sausages made from plant-based ingredients, suitable for quick meals or as a meat substitute in various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1aqxjk8izNFOXsC3LpTX8z99MqFAK_yeF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Tender Bits, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 cans containing plant-based meat alternatives designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1txJ3Y4pVy4iYB7t2Dd2cOktJKQ2rlCfE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Redi-Burger, Low Fat, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 19-ounce cans containing low-fat, plant-based burgers that are ready to heat and serve.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17BSDeGcsUIcufJvRlt0phIDqLLVyklLg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Swiss Stake with Gravy, 2lbs. 15oz. Can</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a plant-based meat substitute featuring a Swiss-style roast accompanied by gravy, packaged in a 2-pound 15-ounce can.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fcu5S1PbRRJHVf9qGh9mKj-EByPclBbr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Worthington Chili, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 20-ounce cans of vegetarian chili, offering a convenient and hearty meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zuHATDEvH-uZFzip7qQV1Bx4g021Gopo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nature's Earthly Choice: Organic Quinoa (1 x 4 lbs)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bulk package of organic quinoa, a nutritious and versatile grain known for its high protein content and suitability for various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XDJUgGrNt_JKkH2TX-7Rtl26FnYqgst2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Annies Homegrown Organic Dijon Mustard, 9 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This organic Dijon mustard offers a smooth, tangy flavor, perfect for enhancing sandwiches, dressings, and marinades.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lQhSYWY8AIrdDePUf5LG_SBtbB3Ym0Nj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Just Tomatoes Just Peas (8-Ounce ), Large Pouch (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of freeze-dried peas that offer a crunchy, nutritious snack option, ideal for on-the-go consumption or as a salad topping.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oF1bJN0mPB_ZtuWvSSxWRdQvcV2PqOD5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Big Franks, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 20-ounce cans containing plant-based frankfurters, suitable for vegetarians and vegans, offering a convenient and protein-rich meat alternative.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1eXOp_yO6HJwL2mYzfzm47OSCDLfvPRa9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Linketts, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 canned vegetarian sausages made from plant-based ingredients, suitable for quick meals or as a meat substitute in various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1aqxjk8izNFOXsC3LpTX8z99MqFAK_yeF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Tender Bits, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 cans containing plant-based meat alternatives designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1txJ3Y4pVy4iYB7t2Dd2cOktJKQ2rlCfE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Redi-Burger, Low Fat, 19-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 19-ounce cans containing low-fat, plant-based burgers that are ready to heat and serve.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fcu5S1PbRRJHVf9qGh9mKj-EByPclBbr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Worthington Chili, 20-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 20-ounce cans of vegetarian chili, offering a convenient and hearty meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17BSDeGcsUIcufJvRlt0phIDqLLVyklLg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Loma Linda Swiss Stake with Gravy, 2lbs. 15oz. Can</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a plant-based meat substitute featuring a Swiss-style roast accompanied by gravy, packaged in a 2-pound 15-ounce can.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_135_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_135_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_135_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_136",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_136_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BUeQ9uV2KA_d4gDhGN3271zJC4dtcf5_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Atomic Fireballs in a Gift Box, 2lb Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 2-pound bag of intensely spicy cinnamon-flavored hard candies presented in a gift box, perfect for sharing or gifting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JedSDGs0zzt1pcBoL0ZZmr15KWHSXPRz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marich Dark Chocolate Pistachios, 1 lb in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product features premium pistachios enrobed in rich dark chocolate, elegantly packaged in a gift box, making it a perfect treat or present for nut and chocolate lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sOPiVJCnRoL9bMzJTIMjrU9tq9CWw9je&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dilettante Dark Chocolate Espresso Beans, 1 lb Bag in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product features roasted espresso beans coated in rich dark chocolate, packaged in a decorative gift box, making it a delightful treat for coffee and chocolate lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19m6RGecDgtLxDOpz_DuxfQMIKqbTTwmY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hot Tamales Fierce Cinnamon Flavored Chewy Candies, 0.5 oz Snack Packs in a Gift Box (Pack of 42)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 42 small gift boxes containing chewy cinnamon-flavored candies, ideal for snacking or gifting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12iGEjqddM7sOd84ZuXL7KESGssVtm_Yw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marich Milk Chocolate Almonds, 1 lb in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of roasted almonds coated in creamy milk chocolate, beautifully packaged in a gift box, making it an ideal treat or gift for nut and chocolate lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BziDUNZBwx0lFC8-gbBrrzI7Q6_DG0ZA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jelly Belly Assorted Sour Jelly Beans, 1 lb in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A one-pound assortment of sour jelly beans packaged in a decorative gift box, perfect for candy lovers and special occasions.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JedSDGs0zzt1pcBoL0ZZmr15KWHSXPRz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marich Dark Chocolate Pistachios, 1 lb in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product features premium pistachios enrobed in rich dark chocolate, elegantly packaged in a gift box, making it a perfect treat or present for nut and chocolate lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sOPiVJCnRoL9bMzJTIMjrU9tq9CWw9je&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dilettante Dark Chocolate Espresso Beans, 1 lb Bag in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product features roasted espresso beans coated in rich dark chocolate, packaged in a decorative gift box, making it a delightful treat for coffee and chocolate lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12iGEjqddM7sOd84ZuXL7KESGssVtm_Yw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marich Milk Chocolate Almonds, 1 lb in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of roasted almonds coated in creamy milk chocolate, beautifully packaged in a gift box, making it an ideal treat or gift for nut and chocolate lovers.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_136_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_136_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_136_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_137",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_137_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kZT2MLg7rsO_iOx_fi8qfuJEyFlHa1DC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kraft Macaroni &amp; Cheese Deluxe Dinner, Sharp Cheddar, 14-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient meal kit that includes creamy sharp cheddar cheese sauce and macaroni pasta, designed for quick preparation of a classic comfort food dish.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S0aHsAlPtRO3Ue1FLuCTaFebojD_gZqW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velveeta, Rotini &amp; Cheese with Broccoli, 9.4-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 9.4-ounce boxes of creamy cheese sauce and rotini pasta combined with broccoli for a quick and convenient meal option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kZT2MLg7rsO_iOx_fi8qfuJEyFlHa1DC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kraft Macaroni &amp; Cheese Deluxe Dinner, Sharp Cheddar, 14-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient meal kit that includes creamy sharp cheddar cheese sauce and macaroni pasta, designed for quick preparation of a classic comfort food dish.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_VRInRLcvAOEOurBKCUHUnLYEEq0bEtI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Old El Paso Super Taco Shells, 6.6-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are convenient pre-made taco shells that come in a pack of twelve 6.6-ounce boxes, perfect for creating quick and easy taco meals at home.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S0aHsAlPtRO3Ue1FLuCTaFebojD_gZqW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velveeta, Rotini &amp; Cheese with Broccoli, 9.4-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 9.4-ounce boxes of creamy cheese sauce and rotini pasta combined with broccoli for a quick and convenient meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1eVBxuTm6TnMIhnD6Z2_nGxuFwXjt0fex&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">York Holiday Peppermint Patties, 1 Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are chocolate-covered peppermint confections, offered in a one-pound package, perfect for festive occasions or as a refreshing treat.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_137_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_137_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_137_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_138",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_138_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_VRInRLcvAOEOurBKCUHUnLYEEq0bEtI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Old El Paso Super Taco Shells, 6.6-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are convenient pre-made taco shells that come in a pack of twelve 6.6-ounce boxes, perfect for creating quick and easy taco meals at home.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S0aHsAlPtRO3Ue1FLuCTaFebojD_gZqW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velveeta, Rotini &amp; Cheese with Broccoli, 9.4-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 9.4-ounce boxes of creamy cheese sauce and rotini pasta combined with broccoli for a quick and convenient meal option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S0aHsAlPtRO3Ue1FLuCTaFebojD_gZqW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velveeta, Rotini &amp; Cheese with Broccoli, 9.4-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 9.4-ounce boxes of creamy cheese sauce and rotini pasta combined with broccoli for a quick and convenient meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kZT2MLg7rsO_iOx_fi8qfuJEyFlHa1DC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kraft Macaroni &amp; Cheese Deluxe Dinner, Sharp Cheddar, 14-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient meal kit that includes creamy sharp cheddar cheese sauce and macaroni pasta, designed for quick preparation of a classic comfort food dish.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yBx37MEktf-niqoixYSDZdnFuaeQGEEL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Annie's Homegrown Shells &amp; White Cheddar Macaroni &amp; Cheese, 6-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient pack of individual boxes of macaroni and cheese made with shell-shaped pasta and creamy white cheddar cheese, perfect for a quick meal or side dish.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_138_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_138_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_138_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_139",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_139_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZzXDak9swbIRE1oSPq1RXaSrIsbIJkX9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smooth and Melty Non Pareil Mint Chocolates (1 Pound Bag)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 1-pound bag of smooth, creamy mint chocolates coated in colorful nonpareils, perfect for snacking or gifting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nj6ZZ8DOoybSlZCJ0Svpgdren_dGTQwI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Archway  Iced Gingerbread Cookies, 6 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are spiced cookies made with ginger and molasses, featuring a sweet icing coating for added flavor and texture.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1csWb15dqfYICmgMDLFF9c4wIkbbt0YX_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Archway, Bells &amp; Stars Holiday Cookies, Limited Edition, 6oz Bag (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These limited edition holiday cookies come in a 6oz bag and are available in a pack of six, featuring festive shapes like bells and stars.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZzXDak9swbIRE1oSPq1RXaSrIsbIJkX9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smooth and Melty Non Pareil Mint Chocolates (1 Pound Bag)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 1-pound bag of smooth, creamy mint chocolates coated in colorful nonpareils, perfect for snacking or gifting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nj6ZZ8DOoybSlZCJ0Svpgdren_dGTQwI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Archway  Iced Gingerbread Cookies, 6 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are spiced cookies made with ginger and molasses, featuring a sweet icing coating for added flavor and texture.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1csWb15dqfYICmgMDLFF9c4wIkbbt0YX_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Archway, Bells &amp; Stars Holiday Cookies, Limited Edition, 6oz Bag (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These limited edition holiday cookies come in a 6oz bag and are available in a pack of six, featuring festive shapes like bells and stars.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_k5782HttTAktfz6nLLhl1cXCdR-reii&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nature Valley Chewy Fruit &amp; Nut Trail Mix Bars 6 Pack 7.4 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six chewy snack bars made with a blend of fruits and nuts, designed for convenient on-the-go nourishment.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_139_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_139_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_139_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "title": "Electronics Bundle Comparison \u2014 Batch 38",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "electronics_pair_740",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_740_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15R9bpHSdrJZHqtLb41BX-pGfC7Bic3tR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; 2nd Gen Astro E3 10000mAh Dual-Port Ultra Compact External Battery Portable USB Charger Power Bank - PowerIQ&trade; Broad Compatibility, Fast Charging, High Capacity - For iPhone 5s 5c 5, iPad Air mini, Galaxy S5 S4, Tab 2, Note 3 2, LG G3, Nexus, HTC One M8, MOTO X, PS Vita and More (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and high-capacity portable USB charger with dual ports for fast charging a wide range of devices, including smartphones, tablets, and gaming consoles.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rlB4pGLzhRVb0oen45PpiOuylumNr6l5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Belkin USB Car Charger</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that plugs into a car's cigarette lighter socket to charge USB-powered electronic devices like smartphones and MP3 players while driving.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iNdGaMYYt2YXX_1NZWXdz57ESw1GpQVV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; 18W / 3.6A Dual-Port USB Wall Charger / Portable Travel Charger - Simultaneous, full-speed charging(white)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a compact dual-port USB wall charger designed to efficiently charge two devices simultaneously at full speed, ideal for travel.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Efu0bg4k7kbst3ImZjZ93IOwATIerbPk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">90W AC Power Adapter/Battery Charger for Dell Studio XPS 13 16 1640 1645 1647 XPS 1340 L401x L501x M1210 M1310 M1318 M140 M1530 PP11S</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 90W power adapter and battery charger compatible with various Dell Studio XPS and related laptop models, designed to supply power and recharge the laptop's battery.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OiYNXhoyym03OyoBZPU3WFaMtj3moKT2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">65W AC Power Adapter/Battery Charger for Asus ADP-65HB BB ADP-65JH BB EXA0703...</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 65W charger designed for Asus laptops, compatible with specific models, ensuring efficient and safe power supply.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_740_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_740_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_740_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_741",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_741_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16twJrEc76jbWeQ9gBylocQALTMrioVd1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">GE Power Pro X500-BK 16 MP with 15 x Optical Zoom Digital Camera, Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution 16 MP point-and-shoot digital camera with a 15x optical zoom, designed for capturing detailed photos effortlessly.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DIPu5qhDZ0REYZifjyrW8iK6RNkSIe5F&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk 64GB microSD Class 10 Ultra Card</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed microSD card offering 64GB of storage, ideal for expanding memory in devices like smartphones, cameras, and tablets.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1da4ytYuZEcWWo_cs4L0gVnLsS6yYy0rW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Zeikos ZE-SC2900 Charger with 4AA 2900mAh Batteries</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A charger kit for cameras that includes four high-capacity 2900mAh AA rechargeable batteries.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IbSGhI4cybf2Y5_uacUpxQLoXWiB6Ld5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Motorola MD200TPR FRS Two-Way - 10 Mile Radio Triple Pack - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a set of three black two-way radios designed for communication over distances up to 10 miles, suitable for personal or outdoor use.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1n4wENfxbIIrUR5MbSY63ERAd22e5Qi47&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eneloop SEC-CSPACER4PK C Size Spacers for use with AA battery cells</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These spacers convert AA batteries into the size and shape of C batteries for use in compatible devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16twJrEc76jbWeQ9gBylocQALTMrioVd1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">GE Power Pro X500-BK 16 MP with 15 x Optical Zoom Digital Camera, Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution 16 MP point-and-shoot digital camera with a 15x optical zoom, designed for capturing detailed photos effortlessly.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZWtMKad1kUwlsl-IR_nbIdsEQYqi69lx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics SDHC Class 10 4 GB Secure Digital Card</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A reliable 4 GB memory card designed for high-speed data transfer and storage in compatible digital devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fB-92OIQ49xC6Z4fVnEhKsHpak4Qvvyo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Battery for Gigaset E40, Gigaset E45, Gigaset E450, Gigaset E450 ECO, Gigaset E455, Gigaset E455 SIM Twin, Gigaset E450 SIM, Gigaset E455 ECO,</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a replacement rechargeable battery compatible with various Gigaset cordless phone models, ensuring extended usage and reliability.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_741_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_741_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_741_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_742",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_742_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=100C0tsIdd6mkuXOH3PjWvSc910hvCDav&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony BDP-S3100 Blu-ray Disc Player with Wi-Fi (2013 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 2013 model Blu-ray disc player with built-in Wi-Fi for streaming and playing high-definition video content.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RkW91ALndCgW6uBXtKDCmVoBbcc-BZdR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheetah Mounts APTMM2B Flush Tilt (1.3&quot; Profile) TV Wall Mount Bracket for 32-65 inch LED, LCD and Plasma Flat Screen TVs Up To VESA 684x400 and 165lbs, Including a Twisted Veins 10' Braided High Speed with Ethernet HDMI Cable and a 6&quot; 3-Axis Magnetic Bubble Level</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sturdy wall mount bracket designed for 32-65 inch flat screen TVs, supporting up to 165 lbs and VESA 684x400, includes a 10-foot HDMI cable and a magnetic bubble level for precise installation.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=100C0tsIdd6mkuXOH3PjWvSc910hvCDav&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony BDP-S3100 Blu-ray Disc Player with Wi-Fi (2013 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 2013 model Blu-ray disc player with built-in Wi-Fi for streaming and playing high-definition video content.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1j38F5VaeDHpZYIgfIkquPvBZf-Vjy9Q1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Etekcity&reg; 1280X1024 DVD VGA RCA S-video AV to Laptop Computer PC VGA LCD Laptop Monitor Converter Switch Switchers Adapters</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts various video signals (DVD, VGA, RCA, S-video, AV) into a format compatible with VGA displays, allowing connection to laptop monitors or PCs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ca5zzEtZJkZYGHdKBlXIYVilTra9wPVe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Garmin Forerunner 310XT Waterproof Running GPS With USB ANT Stick and Heart Rate Monitor</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A multi-sport GPS watch designed for runners, featuring waterproof capabilities, heart rate monitoring, and wireless data transfer via a USB ANT stick.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RkW91ALndCgW6uBXtKDCmVoBbcc-BZdR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheetah Mounts APTMM2B Flush Tilt (1.3&quot; Profile) TV Wall Mount Bracket for 32-65 inch LED, LCD and Plasma Flat Screen TVs Up To VESA 684x400 and 165lbs, Including a Twisted Veins 10' Braided High Speed with Ethernet HDMI Cable and a 6&quot; 3-Axis Magnetic Bubble Level</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sturdy wall mount bracket designed for 32-65 inch flat screen TVs, supporting up to 165 lbs and VESA 684x400, includes a 10-foot HDMI cable and a magnetic bubble level for precise installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ypMnTgtCs4dN5qdCEVfDIXEIAjBMUlDH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Technics Dust cover for SL1200/1210 MKII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective cover designed to shield Technics SL1200/1210 MKII turntables from dust and debris.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VUhAiY_rgqFVtAU0JQADWJ2IBwA8mWKQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">VideoSecu Articulating Arm TV LCD Monitor Wall Mount, Full Motion Tilt Swivel and Rotate for Most 15&quot; 17&quot; 19&quot; 20&quot; 22&quot; 23&quot; 24&quot; 26&quot; 27&quot; LED TV Flat Panel Screen with VESA 100, 75 ML12B CB5</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a versatile wall mount that allows you to securely attach and adjust the position of LED TVs or monitors ranging from 15 to 27 inches, offering full motion capabilities including tilt, swivel, and rotation for optimal viewing angles, and is compatible with VESA 100 and 75 standards.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18nXhHbpjluBmxdtb9L_cawAQgQGtaB_i&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SPIN-CLEAN - STARTER KIT RECORD WASHER SYSTEM Mk2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A manual vinyl record cleaning system that removes dirt and dust, enhancing audio quality and preserving records.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_742_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_742_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_742_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_743",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_743_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RkW91ALndCgW6uBXtKDCmVoBbcc-BZdR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheetah Mounts APTMM2B Flush Tilt (1.3&quot; Profile) TV Wall Mount Bracket for 32-65 inch LED, LCD and Plasma Flat Screen TVs Up To VESA 684x400 and 165lbs, Including a Twisted Veins 10' Braided High Speed with Ethernet HDMI Cable and a 6&quot; 3-Axis Magnetic Bubble Level</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sturdy wall mount bracket designed for 32-65 inch flat screen TVs, supporting up to 165 lbs and VESA 684x400, includes a 10-foot HDMI cable and a magnetic bubble level for precise installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VUhAiY_rgqFVtAU0JQADWJ2IBwA8mWKQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">VideoSecu Articulating Arm TV LCD Monitor Wall Mount, Full Motion Tilt Swivel and Rotate for Most 15&quot; 17&quot; 19&quot; 20&quot; 22&quot; 23&quot; 24&quot; 26&quot; 27&quot; LED TV Flat Panel Screen with VESA 100, 75 ML12B CB5</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a versatile wall mount that allows you to securely attach and adjust the position of LED TVs or monitors ranging from 15 to 27 inches, offering full motion capabilities including tilt, swivel, and rotation for optimal viewing angles, and is compatible with VESA 100 and 75 standards.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RkW91ALndCgW6uBXtKDCmVoBbcc-BZdR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheetah Mounts APTMM2B Flush Tilt (1.3&quot; Profile) TV Wall Mount Bracket for 32-65 inch LED, LCD and Plasma Flat Screen TVs Up To VESA 684x400 and 165lbs, Including a Twisted Veins 10' Braided High Speed with Ethernet HDMI Cable and a 6&quot; 3-Axis Magnetic Bubble Level</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sturdy wall mount bracket designed for 32-65 inch flat screen TVs, supporting up to 165 lbs and VESA 684x400, includes a 10-foot HDMI cable and a magnetic bubble level for precise installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HtH83TrDORBnmNcAfG91id_2CXF7SPjR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Datacomm 50-3323-WH-KIT Flat Panel TV Cable Organizer Kit with Power Solution - White</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a cable management kit designed to discreetly organize and route cables for wall-mounted flat-panel TVs, featuring a built-in power solution for a cleaner setup.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_743_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_743_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_743_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_744",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_744_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ypMnTgtCs4dN5qdCEVfDIXEIAjBMUlDH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Technics Dust cover for SL1200/1210 MKII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective cover designed to shield Technics SL1200/1210 MKII turntables from dust and debris.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18nXhHbpjluBmxdtb9L_cawAQgQGtaB_i&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SPIN-CLEAN - STARTER KIT RECORD WASHER SYSTEM Mk2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A manual vinyl record cleaning system that removes dirt and dust, enhancing audio quality and preserving records.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ypMnTgtCs4dN5qdCEVfDIXEIAjBMUlDH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Technics Dust cover for SL1200/1210 MKII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective cover designed to shield Technics SL1200/1210 MKII turntables from dust and debris.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18nXhHbpjluBmxdtb9L_cawAQgQGtaB_i&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SPIN-CLEAN - STARTER KIT RECORD WASHER SYSTEM Mk2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A manual vinyl record cleaning system that removes dirt and dust, enhancing audio quality and preserving records.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dxIeHN8liXnHsuQc5I6uYJ8rNorEQzZY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Audio Technica ATS11E Replacement Elliptical Diamond Stylus, an EVGame Product</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a replacement stylus with an elliptical diamond tip designed for turntables, enhancing the sound quality by accurately tracing the grooves of vinyl records.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_744_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_744_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_744_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_745",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_745_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ALQaGDue8lDBclPNGqvh4QH7fVznhyjy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Medialink USB Bluetooth Adapter - Version 4.0 (Newest Available) Class 2 Smart Ready Adapter with Low Energy Technology - Compatible with Windows 8 / Windows 7 / Windows Vista</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact USB device that enables Bluetooth connectivity for computers, supporting low energy technology and compatibility with Windows 8, 7, and Vista.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13paiNXuJ8e3Y-X3oRRg6_HiGX52dQHL3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Epartsdom@Removable Detachable Wireless Bluetooth 3.0 Keyboard PU Leather Stand Case Cover w/Touchpad Auto-Sleep/Week For Microsoft Surface RT/Pro/ Surface 2 / Surface Pro 2 Windows 8 Tablet Black+Epartsdom Touch Stylus</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a black PU leather case for Microsoft Surface tablets that includes a detachable Bluetooth keyboard with a touchpad and an auto-sleep feature, along with a stylus.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kwiOizIrhcI_pLY2tHvho-q6v-CfTeGi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">IBM Lenovo IdeaPad Yoga Slim 65W Replacement AC Adapter for Lenovo IdeaPad Yoga 13 Series Notebook</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 65W power adapter designed to replace or serve as a backup charger for Lenovo IdeaPad Yoga 13 Series laptops.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nXj5UkvokbDMGvJXt5xj2EbxWIExPJ8E&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Limited Edition ARC Touch RVF-00032 BlueTrack Wireless Mouse</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless computer mouse with a touch-sensitive strip, designed for portability and equipped with BlueTrack technology for precise tracking on various surfaces.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ALQaGDue8lDBclPNGqvh4QH7fVznhyjy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Medialink USB Bluetooth Adapter - Version 4.0 (Newest Available) Class 2 Smart Ready Adapter with Low Energy Technology - Compatible with Windows 8 / Windows 7 / Windows Vista</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact USB device that enables Bluetooth connectivity for computers, supporting low energy technology and compatibility with Windows 8, 7, and Vista.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nXj5UkvokbDMGvJXt5xj2EbxWIExPJ8E&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Limited Edition ARC Touch RVF-00032 BlueTrack Wireless Mouse</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless computer mouse with a touch-sensitive strip, designed for portability and equipped with BlueTrack technology for precise tracking on various surfaces.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_745_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_745_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_745_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_746",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_746_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BwJWvHMMuPEY3CwYI1I6RvKnjs7S0TNM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SainSonic Multi-Function Car MP3 Player (Blue Display)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile car accessory that plays MP3 files and broadcasts audio via FM transmission, featuring a blue display for easy navigation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1LjLTnMEzW2SWsBuc7yLlG34uRywXfl2f&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">XCSOURCE 3.5mm stereo to ALPINE/JVC Ai-NET Aux car cable adapter for MP3 iPhone MA17</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter cable allows you to connect a 3.5mm audio device, like an MP3 player or iPhone, to an ALPINE or JVC car audio system via Ai-NET for direct audio input.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BwJWvHMMuPEY3CwYI1I6RvKnjs7S0TNM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SainSonic Multi-Function Car MP3 Player (Blue Display)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile car accessory that plays MP3 files and broadcasts audio via FM transmission, featuring a blue display for easy navigation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ypSykzlDz8mKQU-Pbrvou4OPhMj_qnAb&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Apple iPod nano 16GB Silver (7th Generation) NEWEST MODEL</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable digital music player with 16GB of storage, capable of playing audio files and supporting a variety of music formats.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_746_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_746_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_746_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_747",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_747_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QRL1jzgLGSwP1CFhWMqapwBrosQ2mw9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Google Chromecast HDMI Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device is a compact digital media player that plugs into your TV's HDMI port, allowing you to stream online content from your phone or computer directly to your television.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yrkGB8r5J3pATiTsCCnVE6yO3LvwRDNI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Harmony Touch Universal Remote with Color Touchscreen - Black (915-000198)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sophisticated universal remote control with a color touchscreen that simplifies managing multiple electronic devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oPH9MqZFBKl0A7eUKnaD_AjQQ6Jn6fQL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LG Electronics NB3530A Sound Bar System (2013 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 2013 model soundbar system designed to enhance home audio with a sleek, compact design and wireless subwoofer for improved sound quality and bass.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sgGFG8rfwPTOLg_CLlMetZ5J3KV-SRKi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tronsmart T1000 Mirror2TV Wireless Display HDMI Dongle Support Miracast DLNA EZCAST AirPlay Compatible with Android OS / Apple iOS / Samsung AllShare Cast S5 S4 S3 Note3 Note2 Note10.1 / Google Nexus4 Nexus5 Nexus7 / DELL VENUE 8 PRO</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless HDMI dongle that connects to various devices, enabling screen mirroring and streaming through Miracast, DLNA, EZCAST, and AirPlay.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QRL1jzgLGSwP1CFhWMqapwBrosQ2mw9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Google Chromecast HDMI Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device is a compact digital media player that plugs into your TV's HDMI port, allowing you to stream online content from your phone or computer directly to your television.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Rrqg1Mh_T95TbMvJTd7GUhRLN4uWZ4aU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Roku 3500R Streaming Stick (HDMI) (2014)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that plugs into your TV's HDMI port, allowing you to stream content from various online services directly to your television.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_747_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_747_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_747_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_748",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_748_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dWH03S97o0isx7_auPcDFwBzhiZplf0r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pwr+&reg; 14 Ft AC Adapter Laptop Charger for Acer Aspire One KAV10 KAV60 ZA3 Hp-a0301r3 NAV50 P0VE6 P1VE6 PAV01 PAV70 ZH9 ZE6 ZG8 MS2377 MS2296 KAVA0 MS2298 MS2381 MS2384 NAV70 NAVD0 PAV71 PAV72 POVE6 ZH7 ZHG; Cromia ZGB; Ferrarri ZH5; TRAVELMATE LM1 A110 532h D260 Aod260 19V 2.1A 40W Notebook Netbook Power Supply Cord Plug</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 14-foot 19V 2.1A 40W AC adapter charger compatible with various Acer Aspire One models and other specified netbooks, designed to power and charge these devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y-lrQATjFgvdTVOGOdRy4bxQkUq-FRaP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEW AC Adapter Power Supply Charger+Cord for HP/Compaqhc Presario 2510p 2533t CQ40 CQ45 CQ50 CQ50-115NR CQ70 cq50-110us cq60 fe869ua</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a replacement power supply charger with a compatible cord designed for specific HP and Compaq Presario laptop models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RS97lsz3MG7-0JTs0nqnGnE3hmU_K_pX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Laptop/Notebook Battery for Compaq Presario CQ70-134CA cq-40 cq-45 cq-50 cq-70 cq40 cq45 cq50 cq70 cq70-120 cq70-134</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a replacement battery designed specifically for certain Compaq Presario laptop models, ensuring compatibility and extended usage.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dWH03S97o0isx7_auPcDFwBzhiZplf0r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pwr+&reg; 14 Ft AC Adapter Laptop Charger for Acer Aspire One KAV10 KAV60 ZA3 Hp-a0301r3 NAV50 P0VE6 P1VE6 PAV01 PAV70 ZH9 ZE6 ZG8 MS2377 MS2296 KAVA0 MS2298 MS2381 MS2384 NAV70 NAVD0 PAV71 PAV72 POVE6 ZH7 ZHG; Cromia ZGB; Ferrarri ZH5; TRAVELMATE LM1 A110 532h D260 Aod260 19V 2.1A 40W Notebook Netbook Power Supply Cord Plug</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 14-foot 19V 2.1A 40W AC adapter charger compatible with various Acer Aspire One models and other specified netbooks, designed to power and charge these devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IdanuQhy21rMQ2IbRhA5flVprV9fLXQv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Belkin Pivot Wall Mount Surge Protector with 6 Outlets</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact surge protector that provides six additional electrical outlets and safeguards devices from power surges, designed for wall mounting.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_748_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_748_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_748_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_749",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_749_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12xpZVhHrDqnWwdu2RgLbm6q1ERlk3gwc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Edimax EW-7811Un 150M 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi, Supports Windows, Mac OS, Linux</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact USB Wi-Fi adapter that provides wireless connectivity for devices like Raspberry Pi and is compatible with Windows, Mac OS, and Linux.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vkk-0QpQzcXPMbp3ekLTs2Cp0e7B3gJH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HiRO H50070 10/100/1000 32 bit Internal Low Profile PCI Gigabit Ethernet Card RoHS Windows 8.1 8 7 Vista XP 32-bit 64-bit</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a low-profile PCI network card that allows computers to connect to a Gigabit Ethernet network, compatible with various Windows operating systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UzS3gt5D00taQ_zvhF_t3uzt1Ll1RtQK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wintec Value MHzCL9 2GB UDIMM Retail 1Rx8 2 Not a Kit (Single) DDR3 1333 (PC3 10600) 240-Pin SDRAM 3VH13339U8-2GR</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a single 2GB DDR3 SDRAM module designed for desktop computers, featuring a 1333 MHz speed and a 240-pin configuration for memory upgrades.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14vE-BDIGZ8ywVBZg3TXujM1DdPbc_2nl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Asus Sabertooth Z87 LGA 1150 Motherboard</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance motherboard designed for Intel processors with an LGA 1150 socket, featuring robust durability and advanced thermal management for gaming and computing applications.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12xpZVhHrDqnWwdu2RgLbm6q1ERlk3gwc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Edimax EW-7811Un 150M 11n Wi-Fi USB Adapter, Nano Size Lets You Plug it and Forget it, Ideal for Raspberry Pi, Supports Windows, Mac OS, Linux</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact USB Wi-Fi adapter that provides wireless connectivity for devices like Raspberry Pi and is compatible with Windows, Mac OS, and Linux.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vkk-0QpQzcXPMbp3ekLTs2Cp0e7B3gJH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HiRO H50070 10/100/1000 32 bit Internal Low Profile PCI Gigabit Ethernet Card RoHS Windows 8.1 8 7 Vista XP 32-bit 64-bit</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a low-profile PCI network card that allows computers to connect to a Gigabit Ethernet network, compatible with various Windows operating systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UzS3gt5D00taQ_zvhF_t3uzt1Ll1RtQK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wintec Value MHzCL9 2GB UDIMM Retail 1Rx8 2 Not a Kit (Single) DDR3 1333 (PC3 10600) 240-Pin SDRAM 3VH13339U8-2GR</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a single 2GB DDR3 SDRAM module designed for desktop computers, featuring a 1333 MHz speed and a 240-pin configuration for memory upgrades.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_749_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_749_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_749_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_750",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_750_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iReQQ_Q4EaG-uBYZDvVPKzSE__d2B0OJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Acer Aspire V7-582P-6673 16-Inch Touchscreen Ultrabook (Cold Steel)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek, 16-inch touchscreen ultrabook designed for portability and performance, featuring a stylish Cold Steel finish.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1W8IkXZ41K6-XeVm5PyFiK8VnWT6ziPtz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Targus Drifter II Backpack for 16-Inch Laptop, Black/Gray (TSB238US)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable and spacious backpack designed to protect and carry laptops up to 16 inches, featuring organized compartments and a comfortable design, ideal for tech-savvy commuters.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g0NOIPKC7hCFVZ6MLGG8lB33sW0FzKKU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WD My Passport Essential SE 1 TB USB 3.0/2.0 Ultra Portable External Hard Drive (Silver)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a compact and portable 1 TB external hard drive offering both USB 3.0 and 2.0 connectivity for expanded data storage and transfer capabilities.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1N0vBY9bXIaNRQdyHbsoa1lOD3yWqtqx8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Acer Aspire V5-573P-6464 15.6-Inch Touchscreen Laptop (Cool Steel)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek 15.6-inch touchscreen laptop with a cool steel finish, designed for smooth multitasking and enhanced user interaction.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iReQQ_Q4EaG-uBYZDvVPKzSE__d2B0OJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Acer Aspire V7-582P-6673 16-Inch Touchscreen Ultrabook (Cold Steel)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek, 16-inch touchscreen ultrabook designed for portability and performance, featuring a stylish Cold Steel finish.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_750_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_750_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_750_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_751",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_751_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ughN8x0hmi55RKOgIjeURwOhmVxI0X9h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Clarion Mobile Electronics XC1410 D-Class 4-Channel Amplifier</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, high-efficiency amplifier designed to enhance car audio systems by providing powerful and clear sound across four channels.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZCCvvIxTwg-uUwBFsmdDuEqxtg1zG_k6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Metra Axxess ASWC-1 Universal Steering Wheel Control Interface</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to retain and program steering wheel audio controls when replacing a factory radio in a vehicle.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Wx-0le1LWkopiXVmHRppC_oTLshWxnK3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Esky EC170-06 World Smallest HD Color CCD Waterproof Vehicle Car Rear View Backup Camera, 170 Degree Viewing Angle Rearview Camera(0.86*0.65*0.50 inch)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, waterproof backup camera designed for vehicles, offering a wide 170-degree viewing angle to enhance rear visibility and safety.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cKSZjjPmQ_gVMV8JJtCLvFw8YZYPosRQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Axxess AX-TOY28SWC Steering Wheel Controller Add-On Harness with RCA and 28-Pin Connector for Toyota Vehicles</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This harness enables easy integration of aftermarket audio systems with the steering wheel controls in Toyota vehicles, featuring an RCA connection and a 28-pin connector.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Me4qc67JEB_S6BKJiSnVEmNme_DS9XWl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Metra 70-1761 Radio Wiring Harness For Toyota 87-Up Power 4 Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wiring harness that connects aftermarket radios to the factory wiring in Toyota vehicles from 1987 onward, supporting power and four speakers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Q3maN2hZviBje-HwIT9QcOlv2QG9waq6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">PAC USB-TY1 OEM USB Retention Cable</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A cable designed to retain the factory USB port functionality when installing an aftermarket car stereo system.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ughN8x0hmi55RKOgIjeURwOhmVxI0X9h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Clarion Mobile Electronics XC1410 D-Class 4-Channel Amplifier</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, high-efficiency amplifier designed to enhance car audio systems by providing powerful and clear sound across four channels.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o68HZfN07HmDQmOUNMJL9VixwwWpEr0F&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pioneer TS-SWX251 10&quot; Flat Subwoofer with Enclosure 800 Watts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, high-power subwoofer designed for cars, delivering deep bass with an 800-watt capacity, housed in a slim enclosure for easy installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jeDyK17JfR7PZAzQDUcTT3PYPjlSxWTE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">JBL GTO628 6.5-Inch 2-Way Loudspeaker (Pair)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pair of high-performance 6.5-inch coaxial speakers designed to enhance car audio systems with superior sound quality.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_751_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_751_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_751_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_752",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_752_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IyQ0y49YgNz9GQM9v3Gt2rOTTw-TSF2Y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">4GB DDR3 SDRAM Memory Module</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed computer memory module designed to enhance system performance by temporarily storing data for quick access by the processor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1j1E9GJhGJqN7w5EU_6Egmb5aW2v-DfLJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair CX750 Builder Series ATX 80 PLUS Bronze Certified Power Supply</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 750-watt power supply unit designed for desktop computers, featuring 80 PLUS Bronze certification for energy efficiency and reliable performance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FQ5-XSbnk9FNFu8cT2IsiwOjulhm7OO9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASRock DDR3 1333 Intel - LGA 1155 Motherboards (H77M)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact motherboard designed for Intel processors with LGA 1155 socket, supporting DDR3 1333 memory, suitable for building or upgrading a desktop computer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxKeV0SlmPwfl9L9qxd3zq-h6jgHSiec&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Seagate Barracuda 320 GB HDD SATA 6 Gb/s NCQ 64MB Cache 3.5-Inch Internal Bare Drive ST320DM000</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity internal hard drive designed for desktop computers, offering 320 GB of storage with fast data transfer speeds via SATA 6 Gb/s and enhanced performance features like NCQ and a 64MB cache.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15KtmuYJ-UUECChwy3TSEB0bxXhd7vecB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Intel Celeron G1620 2.70GHz LGA-1155 Processor BX80637G1620</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-core processor designed for desktop computers, compatible with LGA-1155 motherboards, offering a base clock speed of 2.70GHz for basic computing tasks.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rNxzU3QYMghv_-USgZj7k8pHs_kxCWrN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">StarTech.com 16-Inch DB25 Parallel Female to IDC 25-Pin Header Slot Plate (PLATE25F16)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a panel-mounted adapter that converts a DB25 parallel female connector to an IDC 25-pin header, typically used to add a parallel port to a computer through an internal connection.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1j1E9GJhGJqN7w5EU_6Egmb5aW2v-DfLJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair CX750 Builder Series ATX 80 PLUS Bronze Certified Power Supply</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 750-watt power supply unit designed for desktop computers, featuring 80 PLUS Bronze certification for energy efficiency and reliable performance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_IqmPZRcxrk8R_7k9_NbRavQIhMtzpCa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Western Digital 1.5 TB WD Black SATA III 7200 RPM 64 MB Cache Bulk/OEM Desktop Hard Drive</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 1.5 TB internal hard drive designed for desktop computers, featuring a fast 7200 RPM speed and 64 MB cache for efficient data storage and retrieval.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SocH579pG-sirCz19HMLrINzEmTW-cVv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AMD FD8320FRHKBOX FX-8320 FX-Series 8-Core Black Edition</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">An 8-core desktop processor designed for high-performance computing tasks and compatible with AM3+ motherboards.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_752_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_752_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_752_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_753",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_753_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IyQ0y49YgNz9GQM9v3Gt2rOTTw-TSF2Y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">4GB DDR3 SDRAM Memory Module</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed computer memory module designed to enhance system performance by temporarily storing data for quick access by the processor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FQ5-XSbnk9FNFu8cT2IsiwOjulhm7OO9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASRock DDR3 1333 Intel - LGA 1155 Motherboards (H77M)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact motherboard designed for Intel processors with LGA 1155 socket, supporting DDR3 1333 memory, suitable for building or upgrading a desktop computer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxKeV0SlmPwfl9L9qxd3zq-h6jgHSiec&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Seagate Barracuda 320 GB HDD SATA 6 Gb/s NCQ 64MB Cache 3.5-Inch Internal Bare Drive ST320DM000</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity internal hard drive designed for desktop computers, offering 320 GB of storage with fast data transfer speeds via SATA 6 Gb/s and enhanced performance features like NCQ and a 64MB cache.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15KtmuYJ-UUECChwy3TSEB0bxXhd7vecB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Intel Celeron G1620 2.70GHz LGA-1155 Processor BX80637G1620</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-core processor designed for desktop computers, compatible with LGA-1155 motherboards, offering a base clock speed of 2.70GHz for basic computing tasks.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IyQ0y49YgNz9GQM9v3Gt2rOTTw-TSF2Y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">4GB DDR3 SDRAM Memory Module</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed computer memory module designed to enhance system performance by temporarily storing data for quick access by the processor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FQ5-XSbnk9FNFu8cT2IsiwOjulhm7OO9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASRock DDR3 1333 Intel - LGA 1155 Motherboards (H77M)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact motherboard designed for Intel processors with LGA 1155 socket, supporting DDR3 1333 memory, suitable for building or upgrading a desktop computer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxKeV0SlmPwfl9L9qxd3zq-h6jgHSiec&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Seagate Barracuda 320 GB HDD SATA 6 Gb/s NCQ 64MB Cache 3.5-Inch Internal Bare Drive ST320DM000</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity internal hard drive designed for desktop computers, offering 320 GB of storage with fast data transfer speeds via SATA 6 Gb/s and enhanced performance features like NCQ and a 64MB cache.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15KtmuYJ-UUECChwy3TSEB0bxXhd7vecB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Intel Celeron G1620 2.70GHz LGA-1155 Processor BX80637G1620</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-core processor designed for desktop computers, compatible with LGA-1155 motherboards, offering a base clock speed of 2.70GHz for basic computing tasks.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rNxzU3QYMghv_-USgZj7k8pHs_kxCWrN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">StarTech.com 16-Inch DB25 Parallel Female to IDC 25-Pin Header Slot Plate (PLATE25F16)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a panel-mounted adapter that converts a DB25 parallel female connector to an IDC 25-pin header, typically used to add a parallel port to a computer through an internal connection.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_753_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_753_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_753_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_754",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_754_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VzaKs4JinB7zgs7LTW5h9HKV-V8DRFKA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bose SoundLink Mini Bluetooth Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, high-quality portable speaker that connects wirelessly via Bluetooth for on-the-go audio playback.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15R9bpHSdrJZHqtLb41BX-pGfC7Bic3tR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; 2nd Gen Astro E3 10000mAh Dual-Port Ultra Compact External Battery Portable USB Charger Power Bank - PowerIQ&trade; Broad Compatibility, Fast Charging, High Capacity - For iPhone 5s 5c 5, iPad Air mini, Galaxy S5 S4, Tab 2, Note 3 2, LG G3, Nexus, HTC One M8, MOTO X, PS Vita and More (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and high-capacity portable USB charger with dual ports for fast charging a wide range of devices, including smartphones, tablets, and gaming consoles.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ENyglMKWDOPb0rALxvN4FNQlmUUJHlHL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Belkin N150 Wireless/WiFi N Router (Latest Generation) - Packaging may vary</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and efficient wireless router designed for basic home internet connectivity, supporting WiFi N standard for enhanced speed and range.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1taCywzBYdJWo-tgGpFESOEyNHKrb-xon&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony BDP-S590 3D Blu-ray Disc Player with Wi-Fi (Black) (2012 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 2012 model 3D Blu-ray player that supports Wi-Fi connectivity for streaming and playing high-definition Blu-ray discs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1je5171HVmkGPvIikdPZ7IMQfDz3JZslK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">3 Port HDMI Pigtail Switch with 50 cm HDMI Cable</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows users to connect and switch between three HDMI sources on a single display, using an included 50 cm HDMI cable.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_754_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_754_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_754_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_755",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_755_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ENyglMKWDOPb0rALxvN4FNQlmUUJHlHL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Belkin N150 Wireless/WiFi N Router (Latest Generation) - Packaging may vary</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and efficient wireless router designed for basic home internet connectivity, supporting WiFi N standard for enhanced speed and range.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1taCywzBYdJWo-tgGpFESOEyNHKrb-xon&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony BDP-S590 3D Blu-ray Disc Player with Wi-Fi (Black) (2012 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 2012 model 3D Blu-ray player that supports Wi-Fi connectivity for streaming and playing high-definition Blu-ray discs.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ENyglMKWDOPb0rALxvN4FNQlmUUJHlHL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Belkin N150 Wireless/WiFi N Router (Latest Generation) - Packaging may vary</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and efficient wireless router designed for basic home internet connectivity, supporting WiFi N standard for enhanced speed and range.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bdCuAn82UfShKQQksFW79_MLx107fp3u&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Netgear WN2000RPT Universal WiFi Range Extender - Refurbished</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a refurbished device designed to extend the range and improve the strength of an existing WiFi network.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_755_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_755_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_755_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_756",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_756_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1umObWGO71XFZ5ys-w9zatJkSQYCmwCLB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">StarTech 6-Inch Slimline SATA to SATA Female/Male Adapter with Power (SLSATAADAP6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter converts a Slimline SATA connector to a standard SATA connector with additional power support, facilitating the connection of Slimline SATA drives to standard SATA ports.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10lvr1qf0ILQP2tkSQ_vessq4WPI2baCk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FAVI FE01-BL Mini 2.4GHz Wireless Keyboard with Mouse Touchpad (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact wireless keyboard and touchpad combo designed for convenient control of devices like smart TVs, computers, and media centers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lRsdDVipnwcGVbgcW_4df0RnyHfUkBqI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair XMS3 8 GB (2 x 4GB) 1333 MHz PC3-10666 240-Pin DDR3 Memory Kit CMX8GX3M2A1333C9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a dual-channel DDR3 RAM kit consisting of two 4GB modules, designed to enhance computer performance by providing 8GB total memory with a speed of 1333 MHz.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uKZTVHjwRFvEt46P6dlsoWrtsNxk5Ina&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony AD-7740H-01 8X SATA Internal Slim DVD+/-RW Drive (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a slim internal optical drive designed for computers, capable of reading and writing DVDs at 8X speed via a SATA interface.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=100ygzWBT3OcJtc5D_oUatGripRRQvS78&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WD Black 160 GB Mobile Hard Drive: 2.5 Inch, 7200 RPM, SATA II, 16 MB Cache, 5 Year Warranty - WD1600BEKT</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 2.5-inch internal hard drive designed for laptops, featuring a 160 GB capacity, 7200 RPM speed, SATA II interface, and a 16 MB cache, backed by a 5-year warranty.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PbPHMfLBqpC61Vguf9ZktKe-cARO33YF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony 24X SATA Internal DVD+/-RW Drive AD-7260S-0B - Bulk (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed internal optical drive for computers that reads and writes DVDs and CDs via a SATA connection.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cSjEMBB6lnzSOwBK4JAzQRQIl4q6pSh-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Intel Core i3-4330 Dual Core Processor 3.5 2 NA (BX80646I34330)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-core processor designed for desktop computers, featuring a 3.5 GHz clock speed, suitable for everyday computing tasks.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10lvr1qf0ILQP2tkSQ_vessq4WPI2baCk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FAVI FE01-BL Mini 2.4GHz Wireless Keyboard with Mouse Touchpad (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact wireless keyboard and touchpad combo designed for convenient control of devices like smart TVs, computers, and media centers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lRsdDVipnwcGVbgcW_4df0RnyHfUkBqI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair XMS3 8 GB (2 x 4GB) 1333 MHz PC3-10666 240-Pin DDR3 Memory Kit CMX8GX3M2A1333C9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a dual-channel DDR3 RAM kit consisting of two 4GB modules, designed to enhance computer performance by providing 8GB total memory with a speed of 1333 MHz.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PbPHMfLBqpC61Vguf9ZktKe-cARO33YF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony 24X SATA Internal DVD+/-RW Drive AD-7260S-0B - Bulk (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed internal optical drive for computers that reads and writes DVDs and CDs via a SATA connection.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cSjEMBB6lnzSOwBK4JAzQRQIl4q6pSh-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Intel Core i3-4330 Dual Core Processor 3.5 2 NA (BX80646I34330)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-core processor designed for desktop computers, featuring a 3.5 GHz clock speed, suitable for everyday computing tasks.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tshgtnWjuyxOLJwKBYi9O-Iyg6vGIv2C&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS P7P55D-E - LGA 1156 - Intel P55 - DDR3 - USB 3.0 SATA 6 Gb/s - ATX Motherboard</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance ATX motherboard designed for Intel processors with LGA 1156 socket, supporting DDR3 memory, USB 3.0, and SATA 6 Gb/s for enhanced data transfer speeds.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_756_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_756_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_756_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_757",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_757_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ij_vNgMmnOQGUzgD2x3b_WwqQuYMZMAK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Ultra 16GB SDHC Class 10/UHS-1 Flash Memory Card Speed Up To 30MB/s, Frustration-Free Packaging- SDSDU-016G-AFFP (Label May Change)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 16GB high-speed SDHC memory card designed for fast data transfer and reliable storage of photos, videos, and files, featuring a Class 10/UHS-1 rating and speeds up to 30MB/s.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jTzxpcZk67Z8CQu6QAwI6KT1okLs6hYa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Taiyo Yuden/JVC - 100 x DVD-R ( G ) - 4.7 GB 8x - ink jet printable surface - storage media</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 100 high-quality 4.7 GB DVD-R discs with an 8x write speed and an inkjet printable surface, ideal for data storage and custom labeling.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oGkzFA3rxzD9qAiwK1TMlIutfSX7XeTM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Seagate Backup Plus 1TB Portable External Hard Drive USB 3.0 (Red)(STBU1000103)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 1TB portable external hard drive with USB 3.0 connectivity, designed for data storage and backup, in a red color.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ij_vNgMmnOQGUzgD2x3b_WwqQuYMZMAK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Ultra 16GB SDHC Class 10/UHS-1 Flash Memory Card Speed Up To 30MB/s, Frustration-Free Packaging- SDSDU-016G-AFFP (Label May Change)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 16GB high-speed SDHC memory card designed for fast data transfer and reliable storage of photos, videos, and files, featuring a Class 10/UHS-1 rating and speeds up to 30MB/s.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jTzxpcZk67Z8CQu6QAwI6KT1okLs6hYa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Taiyo Yuden/JVC - 100 x DVD-R ( G ) - 4.7 GB 8x - ink jet printable surface - storage media</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 100 high-quality 4.7 GB DVD-R discs with an 8x write speed and an inkjet printable surface, ideal for data storage and custom labeling.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_757_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_757_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_757_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_758",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_758_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1U14Gd-qIqrHLH0rbnrNwrVTOir2ufo1h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Air Series SP120 PWM Quiet Edition (CO-9050011-WW)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance cooling fan designed to efficiently regulate temperature and reduce noise in computer cases.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Dh7qayikKhwmgOGm0LHbwmWMkhPXWjWt&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Crucial Ballistix Sport 4GB Single DDR3 1600 MT/s (PC3-12800) CL9 @1.5V UDIMM 240-Pin Memory Module BLS4G3D1609DS1S00</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 4GB DDR3 RAM module designed for desktop computers, operating at a speed of 1600 MT/s with a 240-pin UDIMM form factor and a CAS latency of 9 at 1.5V.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gGa9l0TbLv1NuTsmBxTwyMUfwWrts2_o&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Air Series AF140 LED Quiet Edition High Airflow Fan - Purple (CO-9050017-PLED)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance 140mm case fan with purple LED lighting designed to improve airflow and cooling in computer systems while operating quietly.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y3B0UlKIZKwMqKO3w2r6QUZMTSuXBGBJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Hydro Series H55 Quiet Edition Liquid CPU Cooler (CW-9060010-WW)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A liquid cooling system designed to efficiently dissipate heat from a computer's CPU, ensuring quieter and cooler operation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GbMSbzlpk88FUiPieSoVJ2nfeh073g4a&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Asus VS248H-P 24-Inch Full-HD LED-lit LCD Monitor</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 24-inch full-HD LED-lit LCD monitor designed for computers, offering crisp and clear visuals.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gGa9l0TbLv1NuTsmBxTwyMUfwWrts2_o&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Air Series AF140 LED Quiet Edition High Airflow Fan - Purple (CO-9050017-PLED)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance 140mm case fan with purple LED lighting designed to improve airflow and cooling in computer systems while operating quietly.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y3B0UlKIZKwMqKO3w2r6QUZMTSuXBGBJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Hydro Series H55 Quiet Edition Liquid CPU Cooler (CW-9060010-WW)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A liquid cooling system designed to efficiently dissipate heat from a computer's CPU, ensuring quieter and cooler operation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GbMSbzlpk88FUiPieSoVJ2nfeh073g4a&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Asus VS248H-P 24-Inch Full-HD LED-lit LCD Monitor</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 24-inch full-HD LED-lit LCD monitor designed for computers, offering crisp and clear visuals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1id6QiSQVA43VFEaA492jOd4lT3sZ3hbC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">EVGA SuperNOVA 1000G2 1000W ATX12V/EPS12V 80Plus Gold Power Supply 120-G2-1000-XR</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-efficiency 1000-watt power supply unit designed for computers, featuring 80Plus Gold certification for energy efficiency and compatibility with ATX12V/EPS12V standards.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S2cokFtY6wyh5q1-2FLv2jo6k_f7GM0_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Sabertooth 990FX/GEN3 R2.0 DDR3 1800 AM3 Motherboards</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance motherboard designed for gaming and demanding applications, compatible with AMD processors and DDR3 memory, featuring enhanced durability and PCIe 3.0 support.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zjSsnJukjzzL8eE5YVHHen0x8DyqjEQG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NZXT Technologies Source 210 Computer Case (White)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek and minimalist white computer case designed to house and protect computer components, providing essential features for building or upgrading a desktop PC.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OjP1KuF_xZyAet_DrgbamI46ib3v3fIj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Vengeance Pro Series Blue 16GB (2x8GB) DDR3 1866 MHZ  (PC3 15000) Desktop Memory CMY16GX3M2A1866C9B</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a set of two 8GB DDR3 RAM sticks designed to enhance desktop computer performance by providing a total of 16GB memory capacity with a speed of 1866 MHz.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_758_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_758_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_758_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_759",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_759_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hIthEYlcwx7zaWQJ83E95hJF2zYzUU19&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">White Pu Leather Case Cover with Leather Belt+buckle for Apple the New Ipad 2&amp;3&amp;4</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective white polyurethane leather case with a belt and buckle designed to fit and secure Apple iPad models 2, 3, and 4.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kcZgDfcn_V1YTluUwNZAdaC2hCMIcVxC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gearonic PU Magnetic Smart Slim Case Cover for iPad 4/3/4G/2, Purple (5007UPUIB)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a purple protective case with a magnetic closure designed to fit and safeguard iPad models 2, 3, and 4.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DG2rFfaAGQAzlEyBBJNHCsztj1k7mbx9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LUVVITT&reg; DOLCE Slim-fit Smart Cover Companion / Compatible TPU Case (BACK COVER only) for iPad 2 &amp; iPad 3 &amp; iPad 4 Clear</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A clear, slim-fit TPU back cover designed to complement the Smart Cover for iPad 2, 3, and 4, providing protection without adding bulk.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kcZgDfcn_V1YTluUwNZAdaC2hCMIcVxC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gearonic PU Magnetic Smart Slim Case Cover for iPad 4/3/4G/2, Purple (5007UPUIB)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a purple protective case with a magnetic closure designed to fit and safeguard iPad models 2, 3, and 4.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XgtU_k3zo4Z4rMSl1-fr6YYy4vkJxtDM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">OtterBox Defender Series Case with Screen Protector and Stand for iPad 4th Generation, iPad 2 and 3 - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A rugged, protective case with an integrated screen protector and stand designed for iPad 2, 3, and 4th Generation.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_759_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_759_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_759_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

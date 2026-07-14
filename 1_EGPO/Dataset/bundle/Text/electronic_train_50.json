@@ -1,0 +1,252 @@
+{
+    "0": {
+        "input": "Intent: Storage Devices\nBundle Items:\n1. Silicon Power 32GB Firma ZN F80 USB 2.0 Flash Drive, Gray Aluminium (SP032GBUF2F80V1S)\n2. Transcend 400X - 64 GB Compact Flash Memory Card TS64GCF400 (Blue)\n3. Toshiba Canvio 750 GB USB 3.0 Basics Portable Hard Drive - HDTB107XK3AA(Black)\n",
+        "target_score": 3,
+        "annotations": "This bundle lacks functionality integration. The memory card implies that the bundle is for a user with a camera. Why buy a 32GB USB flash drive, when you could just buy multiple flash memory cards if the first 64GB memory card runs out of storage? Thus, the USB flash drive does not complement the bundle and the additional diversity of the USB flash drive does not contribute to enhancing the quality of the bundle. Adding a USB memory card reader would also be a great alternative which can help move the memory card information into the portable hard drive."
+    },
+    "1": {
+        "input": "Intent: Batteries\nBundle Items:\n1. Wasabi Power Battery for Canon LP-E6 and Canon EOS 5D Mark II, EOS 5D Mark III, EOS 6D, EOS 7D, EOS 60D, EOS 60Da, EOS 70D\n2. Belkin 3-Outlet Mini Travel Swivel Charger Surge Protector with Dual USB Ports, 5 Charging Outlets Total (1 AMP / 5 Watt)\n3. Laptop/Notebook Battery for Dell Inspiron\n4. Mophie Juice Pack Air Battery Case for iPhone 5 and 5S\n",
+        "target_score": 1,
+        "annotations": "The bundle lacks functionality integration as there is no clear way to connect all the items coherently. The Wasabi Power Battery implies the user has a camera, the Battery for Dell Inspiron requires that specific laptop, and the iPhone case implies the user has an iPhone 5. The items are not similar at all, and do not complement each other. The diversity of the bundle only adds confusion."
+    },
+    "2": {
+        "input": "Intent: Local area network for home or office\nBundle Items:\n1. SANOXY&reg; USB 6 LED PC Webcam Camera plus + Night Vision MSN, ICQ, AIM, Skype, Net Meeting and compatible with Win 98 / 2000 / NT / Me / XP / Vista\n2. VideoSecu LCD Monitor TV Wall Mount Articulating Arm Bracket for most 12&quot;-24&quot;, some up to 27&quot; with VESA 100/75mm LED Flat Panel Screen TV ML10B 1E9\n3. Etekcity&reg; USB Wireless Wi-Fi Network Adapter with Dual 6 dBi Antennas - 802.11 B/G/N 300Mbps\n",
+        "target_score": 4,
+        "annotations": "This bundle is tailored to a user which specifically wants to setup a small video conferencing room. The TV wall mount is to hold a TV in place, the webcam is to let people in the online meeting see the users in the room, and the WiFi extender is used to ensure all participants in the meeting have good internet connection. The wall mount decreases the similarity and complementarity of the bundle as it specifically requires the user to require to mount a TV for a video conference meeting, whereas, if it were not present, it could be used for an individual home office setup. However, the diversity of the bundle is improved and it makes a lot of sense for specific users."
+    },
+    "3": {
+        "input": "Intent: Car sound system and radio set up\nBundle Items:\n1. Scosche Automotive Wire Harness -1988-up GM Micro/Delco Antenna Adapter\n2. Metra 70-1858 Radio Wiring Harness For GM 88-05 Harness\n3. SD/MMC/USB/MP3 Wireless In Car FM Transmitter with Remote (Black)\n",
+        "target_score": 5,
+        "annotations": "The bundle has a clear intent, to setup a car sound and radio system in a General Motors vehicle. For the specific users in question, it makes a lot of sense, and all the items follow a common theme. The diversity of the Wireless remote actually increases the complementarity and overall value of the bundle."
+    },
+    "4": {
+        "input": "Intent: Based on the high demand.\nBundle Items:\n1. Kodak ZxD Pocket Video Camera (Black)\n2. Scosche Automotive Wire Harness -1988-up GM Micro/Delco Antenna Adapter\n3. Sony Walkman E-340 Series 8 GB Video MP3 Player (Black)\n4. SANOXY&reg; USB 6 LED PC Webcam Camera plus + Night Vision MSN, ICQ, AIM, Skype, Net Meeting and compatible with Win 98 / 2000 / NT / Me / XP / Vista\n5. Metra 70-1858 Radio Wiring Harness For GM 88-05 Harness\n6. SD/MMC/USB/MP3 Wireless In Car FM Transmitter with Remote (Black)\n7. VideoSecu LCD Monitor TV Wall Mount Articulating Arm Bracket for most 12&quot;-24&quot;, some up to 27&quot; with VESA 100/75mm LED Flat Panel Screen TV ML10B 1E9\n8. Etekcity&reg; USB Wireless Wi-Fi Network Adapter with Dual 6 dBi Antennas - 802.11 B/G/N 300Mbps\n9. Metra 99-3105 Dash Kit For Saturn Din Mount  with Pocket 95-99\n",
+        "target_score": 1,
+        "annotations": "The bundle has items which are not similar at all. There are items related to a car antenna specific to the General Motors brand, and also camera and webcam related items. There is no discernable pattern, the items do not complement each other and the diversity only adds confusion to the bundle where there seems to not be any clear use for this bundle."
+    },
+    "5": {
+        "input": "Intent: Memory Related\nBundle Items:\n1. WD My Book 1TB External Hard Drive Storage USB 3.0 File Backup and Storage\n2. Sony 100DMR47SP 16x DVD-R 4.7GB Recordable DVD Media - 100 Pack Spindle\n3. NEW Slim USB 2.0 External Slim USB 2.0 CD-ROM Drive for Toshiba Satellite U505-S2960PK U505-S2005PK 13.3-Inch series Laptop ( Pink )\n",
+        "target_score": 5,
+        "annotations": "It is quite easy to understand how the bundle would work, the 100 Pack Spindle allows you to record media and the USB CD-ROM drive allows you to connect to laptops which do not accept CDs. The External hard drive is also there to save all the data in a single place. The diversity adds to the value of the bundle, and although the hard drive may not be too similar to the CD related items, it does complement the bundle. "
+    },
+    "6": {
+        "input": "Intent: upgrading personal computer desktop\n\nBundle Items:\n1. Anker&reg; Uspeed USB 3.0 PCI-E Express Card with 4 USB 3.0 Ports and 5V 4-Pin Power Connector for Desktops [VL805 Chipset]\n2. WD My Book 1TB External Hard Drive Storage USB 3.0 File Backup and Storage\n3. OSD Audio TSM-01-113 Full Motion Tilt and Swivel Wall Mount for 13-inch to 23-inch LCD TV\n4. Sony 100DMR47SP 16x DVD-R 4.7GB Recordable DVD Media - 100 Pack Spindle\n5. NEW Slim USB 2.0 External Slim USB 2.0 CD-ROM Drive for Toshiba Satellite U505-S2960PK U505-S2005PK 13.3-Inch series Laptop ( Pink )\n",
+        "target_score": 2,
+        "annotations": "It is hard to discern the specific user for the bundle. It has items that enhance the storage capacity of a desktop computer, while requiring the user also to want to mount a TV. Whilst this user could exist, the user would be extremely rare, and increasing the diversity of the bundle whilst requiring such a specific user only hurts the complementarity of the items. For instance, the user must want to mount a TV, whilst also want to have CD + backup storage whilst also want to add USB ports to a desktop computer. This would be exceedingly rare."
+    },
+    "7": {
+        "input": "Intent: assembling a desktop\nBundle Items:\n1. Rosewill 5.25Inch SATA Trayless Hot Swap Mobile Rack for 3.5Inch SATA I/II/III HDD Components Other RX-C525 Black\n2. Cisco-Linksys WPC54G Wireless-G Notebook Adapter\n3. ViewSonic VP2770-LED 27-Inch SuperClear IPS LED-Lit Professional Monitor, WQHD 2560x1440, Pre-Calibrated, 1.07b Colors\n4. PCI Express Sound Blaster X-Fi Titanium Fatal1ty Champion Series\n5. OKGEAR FLOP2MOLEX-C Floppy 4pin extension cable w/ black sleeved\n6. LIAN LI PC-B10B Black Advanced Mid Tower 5 x 5.25 4 x 3.5 ATX / M-ATX Computer Case\n7. Iomega ZipCD 31025 8x4x32 Internal EIDE CDRW Drive\n",
+        "target_score": 5,
+        "annotations": "This bundle is very clearly for assembling the most versatile desktop possible, which can accept floppy drives and CDs, whilst also connecting the desktop to the internet. The diversity compensates for the dissimilarity of some items, as only together they contribute and complement each other to make the ultimate, versatile desktop setup."
+    },
+    "8": {
+        "input": "Intent: Computers\nBundle Items:\n1. ViewSonic VP2770-LED 27-Inch SuperClear IPS LED-Lit Professional Monitor, WQHD 2560x1440, Pre-Calibrated, 1.07b Colors\n2. PCI Express Sound Blaster X-Fi Titanium Fatal1ty Champion Series\n3. Asus Oc Station\n4. Iomega ZipCD 31025 8x4x32 Internal EIDE CDRW Drive\n",
+        "target_score": 3,
+        "annotations": "This bundle is clearly for setting up a desktop computer\u2019s audio capabilities. Perhaps the only item that does not specifically contribute to this idea is the monitor, as it requires the user not to be improving their initial audio setup, but not having a monitor setup to begin with or also wanting to improve both monitor and audio setups. Thus, the monitor does not add to the complementarity of the bundle, but the bundle items are quite similar."
+    },
+    "9": {
+        "input": "Intent: Camera and its equipments\nBundle Items:\n1. Sony HDRPJ260V High Definition Handycam 8.9 MP Camcorder with 30x Optical Zoom, 16 GB Embedded Memory and Built-in Projector (2012 Model)\n2. Delkin Secure Digital (SD) 8 Card Carrying Case DDACC-SD8\n3. Sony LCSU5 Soft Carrying Case for Camcorder\n4. 64GB SD XC Class 10 SCT Secure Digital Ultimate Extreme High Speed SDXC Flash Memory Card 64G 64 GIGS GB FOR Digital Camera SLR Tablet Computer GPS\n5. Wasabi Power Battery (2-Pack) and Charger for Sony NP-FV100 and Sony DCR-SR15, SR21, SR68, SR88, SX15, SX21, SX44, SX45, SX63, SX65, SX83, SX85, FDR-AX100, HDR-CX105, CX110, CX115, CX130, CX150, CX155, CX160, CX190, CX200, CX210, CX220, CX230, CX260V, CX290, CX300, CX305, CX330, CX350V, CX360V, CX380, CX430V, CX520V, CX550V, CX560V, CX580V, CX700V, CX760V, CX900, HC9, PJ10, PJ30V, PJ50, PJ200, PJ230, PJ260V, PJ340, PJ380, PJ430V, PJ540, PJ580V, PJ650V, PJ710V, PJ760V, PJ790V, PJ810, TD10, TD20V, TD30V, XR150, XR155, XR160, XR260V, XR350V, XR550V, HXR-NX3D1U, NX30U, NX70U, NEX-VG10, VG30, VG30H, VG900\n",
+        "target_score": 5,
+        "annotations": "Bundle is clearly for a photographer. The camcorder has case with memory cards and a memory card case, with a battery pack. The items are similar and adhere to a specific idea. The diversity is improved with the memory card and case and all items complement each other."
+    },
+    "10": {
+        "input": "Intent: Camera\nBundle Items:\n1. Sony HDRPJ260V High Definition Handycam 8.9 MP Camcorder with 30x Optical Zoom, 16 GB Embedded Memory and Built-in Projector (2012 Model)\n2. Sony LCSU5 Soft Carrying Case for Camcorder\n3. 64GB SD XC Class 10 SCT Secure Digital Ultimate Extreme High Speed SDXC Flash Memory Card 64G 64 GIGS GB FOR Digital Camera SLR Tablet Computer GPS\n",
+        "target_score": 5,
+        "annotations": "Bundle is clearly for a photographer. It is a basic starter kit for a camera bundle. The items are similar and adhere to a specific idea, diversity could be improved with perhaps a memory card case, but all items complement each other."
+    },
+    "11": {
+        "input": "Intent: chargers\nBundle Items:\n1. Samsung ETA-P10JBEGSTA Galaxy Tab Detachable Multi Travel Charger with USB to 30 Pin Data Cable - Black\n2. Samsung Galaxy Tab Detachable Car Charger with USB to 30 Pin Data Cable (ECA-P10CBEGSTA)\n3. COD(TM) Auto Car Home Wall Charger and USB Data Cable for Samsung Galaxy Tab 3 7.0 8.0 10.1 (Black)\n4. HDMI Splitter (1 to 2) Premium Splitter Cable\n",
+        "target_score": 2,
+        "annotations": "The bundle is specifc towards a user to a samsung tablet. However, the HDMI splitter does not relate to the samsung tablet and cannot be used with it, and thus, this added diversity does not contribute to the complementarity of the bundle, and the HDMI splitter is too dissimilar to the idea of the bundle. "
+    },
+    "12": {
+        "input": "Intent: tablet\nBundle Items:\n1. SUPCASE New Google Nexus 7 FHD 2nd Generation Tablet Slim Hard Shell Leather Case with Auto Wake/Sleep - Black, Multi-Angle Viewing, Business Card Holder\n2. Samsung Galaxy Tab (7-inch, 16GB, Wi-Fi)\n",
+        "target_score": 4,
+        "annotations": "Assuming the leather case can function with the samsung galaxy tablet, the bundle makes sense. The items are similar and complement each other. However, the bundle lacks diversity as although the leather case does protect the tablet, we could improve the bundle and security of the bundle by adding a screen protector."
+    },
+    "13": {
+        "input": "Intent: splitters\nBundle Items:\n1. Kinivo 501BN Premium 5 port High speed HDMI switch with IR wireless remote and AC Power adapter - supports 3D, 1080p\n2. amFilm Samsung Galaxy Tab 3 8.0 Tablet T3100 Premium Screen Protector Film HD Clear (2 Pack) [Lifetime Warranty]\n",
+        "target_score": 1,
+        "annotations": "This bundle lacks functionality integration as the HDMI switch has no means of connecting with a samsung galaxy tablet. In addition to requiring the user to want to connect multiple devices via HDMI which includes a method to connect the Samsung Tablet, it requires the user to also lack a screen protector and want to purchase one. The bundle items are too dissimilar and do not complement each other."
+    },
+    "14": {
+        "input": "Intent: external storage\nBundle Items:\n1. Samsung Electronics 8GB Plus microSDHC Ultra High Speed (UHS-1) Class 4 Memory Card (MB-MP8GB/AM)\n2. Transcend 32 GB Class 4 microSDHC Flash Memory Card TS32GUSDHC4\n",
+        "target_score": 3,
+        "annotations": "The bundle does not have a specific integration in mind per se, but it works based on the fact that these memory cards and micro memory cards could have a use later in mind. Thus, it could be seen as complementary. However, it is unclear and another item could be included to improve the perceived value of the bundle and give it a specific purpose."
+    },
+    "15": {
+        "input": "Intent: Power strip adopters \nBundle Items:\n1. StarTech NETRS2321E 1 Port RS-232/422/485 Serial over IP Ethernet Device Server\n2. POWER STRIP ADAPTERS LIBERATORS (Set of 10)\n3. Icy Dock ICYRaid MB662U3-2S Dual bay SuperSpeed USB 3.0 External 3.5&quot; SATA HDD RAID Enclosure\n4. Lexar Professional Workflow XR1 XQD/USB 3.0 Reader LRWXR1RBNA\n5. Anker&reg; AH231 USB Hub with 9 USB 3.0 Data Ports + 1 Smart Charging Port (5V / 2.1A)with 12V 5A Power Adapter [VIA VL812-B2 Chipset and updated Firmware 9081]\n",
+        "target_score": 1,
+        "annotations": "The bundle has a confusion collection of items. It requires a user to want spare power strip adaptors, whilst also inlcuding a XQD memory card reader, which implies the user is a camera photographer, which also wants to improve ethernet capabilities for a legacy system. The diversity of the bundle does not add complementary items, and the items are too dissimilar and do not make sense."
+    },
+    "16": {
+        "input": "Intent: servers\nBundle Items:\n1. StarTech NETRS2321E 1 Port RS-232/422/485 Serial over IP Ethernet Device Server\n2. Icy Dock ICYRaid MB662U3-2S Dual bay SuperSpeed USB 3.0 External 3.5&quot; SATA HDD RAID Enclosure\n3. Lexar Professional Workflow XR1 XQD/USB 3.0 Reader LRWXR1RBNA\n",
+        "target_score": 3,
+        "annotations": "The bundle seems to be for enhancing a legacy system to also be able to read XQD memory cards. However, for such a niche purpose, it is hard to see that the user also wants to connect and improve internet connection. Thus, this added diversity does not improve and complement the bundle."
+    },
+    "17": {
+        "input": "Intent: Led Light\nBundle Items:\n1. CMVision IR110 - 114 LED Indoor/Outdoor Long Range 200-300ft IR Illuminator With Free 3A 12VDC Adaptor\n2. CMVision IR130 - 198 LED Indoor/Outdoor Long Range 300-400ft IR Illuminator With Free 3A 12VDC Adaptor\n",
+        "target_score": 4,
+        "annotations": "The bundle has a very clear purpose, to improve the detection capabilities of infrared cameras. Although the items are the same, it also makes sense as a single camera may not be able to completely cover the scope of surveillance area. The bundle may lack diversity, perhaps including a set of infrared cameras could improve the bundle further and increase the complementarity of the bundle."
+    },
+    "18": {
+        "input": "Intent: Cables/Cords\nBundle Items:\n1. Wilson Electronics 20-Foot WILSON400 Ultra Low Loss Coax Cable with N Male Connectors\n2. SMA Male to N Female Coax Cable Adapter\n3. Cables to Go 1.5 ft 1 to 4 Power Cord Splitter\n",
+        "target_score": 3,
+        "annotations": "The bundle is clearly for minimising audio loss, with male-male coaxial cables and a male-female coaxial cable. However, the power cord splitter may not complement such a specific intent as it requires that the audio systems used in conjunction with the coaxial cables to accept power using that specific power cord. However, it does have a specific idea in mind."
+    },
+    "19": {
+        "input": "Intent: Travel\nBundle Items:\n1. Wilson Electronics - Sleek 4G - Cell Phone Signal Booster for Single User - Retail Packaging - Black\n2. Anker&reg; 18W / 3.6A Dual-Port USB Wall Charger / Portable Travel Charger - Simultaneous, full-speed charging(white)\n",
+        "target_score": 2,
+        "annotations": "These items are not connected via a single function. The cell phone signal booster is not directly complemented by the wall charger. The items are too dissimilar, and another item is required to connect these items to increase complementarity of the bundle. "
+    },
+    "20": {
+        "input": "Intent: Multiple Charger\nBundle Items:\n1. Anker&reg; 18W / 3.6A Dual-Port USB Wall Charger / Portable Travel Charger - Simultaneous, full-speed charging(white)\n2. Cables to Go 1.5 ft 1 to 4 Power Cord Splitter\n",
+        "target_score": 1,
+        "annotations": "Although both items are power suppliers, the devices they support are different. A wall charger may be used for a phone, whilst the power cord splitter is to grant power to monitors and desktop computers at the same time. The items support different main components and do not support a single idea. The items are too dissimilar and do not complement each other."
+    },
+    "21": {
+        "input": "Intent: assembling a desktop\nBundle Items:\n1. ACP-EP Memory 1GB PC2100 200-PIN DDR 266MHz SODIMM (MAC and PC)\n2. ASUS Socket 1366/Intel X58/SATA3&amp;USB3.0/A&amp;GbE/ATX Motherboard P6X58D-E\n",
+        "target_score": 4,
+        "annotations": "The items function to build a new desktop. They support a clear idea and support a common theme. The motherboard and memory complement each other and increase the value of the bundle. Increasing the diversity of items by adding more computer building related items would be greatly beneficial but it remains a strong standalone bundle."
+    },
+    "22": {
+        "input": "Intent: connecting pins\nBundle Items:\n1. Hosa Cable CPR201 Dual 1/4 Inch To RCA Cable - 3.25 Foot\n2. Monster M DJ-CR-2M 1/4 Male Mono to Single Male RCA Cables\n",
+        "target_score": 3,
+        "annotations": "The items support audio connection, making the items quite similar and supportive of a specific purpose. However, the lack of diversity decreases the overall value of the bundle. The items do complement each other."
+    },
+    "23": {
+        "input": "Intent: mobile purpuse\nBundle Items:\n1. ASUS Vulcan PRO Gaming Headset (Discontinued by Manufacturer)\n2. Sony BCTRG Travel Charger for G-Series Battery\n",
+        "target_score": 1,
+        "annotations": "It is hard to see how the items would function together. The G-Series battery implies that the intended user is camera user but as for why the Pro gaming headset is included is unclear. The items do not complement each other and are not similar in the sense they do not fulfill a specific function together."
+    },
+    "24": {
+        "input": "Intent: Item 2 may be useful to charge item 6 battery\nBundle Items:\n1. Sony BCTRG Travel Charger for G-Series Battery\n2. Fortress Security Store (TM) S02-A Wireless Home Security Alarm System DIY Kit Auto Dial\n",
+        "target_score": 1,
+        "annotations": "It is hard to see how the items would function together. The G-series battery is for cameras whilst the wireless home security alarm would not have its power supplied by the battery. The bundle does not serve a clear purpose and the items are dissimilar and do not complement each other. Increasing diversity will not save this bundle."
+    },
+    "25": {
+        "input": "Intent: protecting smartphone\nBundle Items:\n1. Samsung Galaxy Note 8.0 (16GB, White) 2013 Model\n2. Blurex Slim Case for the Samsung Galaxy Note 8.0 with a Multi-Angle Stand\n",
+        "target_score": 5,
+        "annotations": "A samsung galaxy with a case for protection. Bundle serves a clear function, items are similar, and complement each other. A screen protector would increase diversity but it is a strong standalone bundle."
+    },
+    "26": {
+        "input": "Intent: Headsets and hardware to use it.\nBundle Items:\n1. Skullcandy Ink'd In-Ear Headphones (S2INBL-SZ) - Silver\n2. Pyrus Electronics 4gb Mp3/mp4/mp5 Player with 2.8 Inch Touch Screen and All Stainless Steel Casing - Black\n",
+        "target_score": 5,
+        "annotations": "An Mp3 player with earphones. A clear intent and function that the items of the bundles can serve. The items are similar and complement each other."
+    },
+    "27": {
+        "input": "Intent: Headphones and speakers\nBundle Items:\n1. Sony MDRPQ4/GRN PIIQ Headphones\n2. X-Mini II XAM4-B Portable Capsule Speaker, Mono, Black\n3. Skullcandy Ink'd In-Ear Headphones (S2INBL-SZ) - Silver\n4. HDE SX-907 Bluetooth Stereo Headphones\n",
+        "target_score": 3,
+        "annotations": "The items serve a function to have a suitable audio device for all occasions. However, having two earphones in the bundle does not increase the overall complementarity of the bundle. Removing one earphone would make the function of the bundle much more clear without decreasing the overall diversity of the bundle."
+    },
+    "28": {
+        "input": "Intent: Music player\nBundle Items:\n1. Pyrus Electronics 4gb Mp3/mp4/mp5 Player with 2.8 Inch Touch Screen and All Stainless Steel Casing - Black\n2. Craig 4GB MP3 Video Player\n",
+        "target_score": 1,
+        "annotations": "The items serve the same function, and cannot be used simultaneous as they are both mp3 players. The items are too similar, do not complement each other and do not add diversity into the bundle. This bundle is poor as the items serve the exact same function."
+    },
+    "29": {
+        "input": "Intent: Listening to/Viewing media\nBundle Items:\n1. Skullcandy Ink'd In-Ear Headphones (S2INBL-SZ) - Silver\n2. Pyrus Electronics 4gb Mp3/mp4/mp5 Player with 2.8 Inch Touch Screen and All Stainless Steel Casing - Black\n",
+        "target_score": 5,
+        "annotations": "An Mp3 player with earphones. A clear intent and function that the items of the bundles can serve. The items are similar and compleemnt each other."
+    },
+    "30": {
+        "input": "Intent: Pad Cover \nBundle Items:\n1. Snugg Motorola Xoom Squared Skinny Fit Protective Case Cover in Black\n2. Eee Pad Transformer TF101 Case Sleeve Folio Leather Cover with Stand &amp; Dock (Black)\n",
+        "target_score": 1,
+        "annotations": "These items serve the same function but for the Motorola Xoom tablet and the Eee Pad Transformer TF101 tablet respectively. Thus, this bundle requires to complement two very expensive items already and have no direct connection. The bundle items do not complement each other and lack diversity."
+    },
+    "31": {
+        "input": "Intent: video editing\nBundle Items:\n1. SKYTEX Primer 7&quot; Color E-reader and Media Player\n2. GSI - 3 RCA To USB Cable\n3. Bluetooth USB 2.0 Micro Adapter Dongle\n4. iMicro SP-IM942 Headset with Microphone\n5. EyeClops Mini Projector\n6. HDE VGA Adapter to TV S-Video RCA Out Cable for PC Video\n",
+        "target_score": 2,
+        "annotations": "The bundle seems to serve a computer to projector connection. However, items such as the micro adapter dongle and the headset with microphone do not directly complement this idea, and thus, does not provide any useful diversity to this bundle. It is also very difficult to understand why the E-reader is invovled as it does not seem to have a USB or RCA connection."
+    },
+    "32": {
+        "input": "Intent: RCA To usb\nBundle Items:\n1. iMicro SP-IM942 Headset with Microphone\n2. EyeClops Mini Projector\n",
+        "target_score": 1,
+        "annotations": "The mini-projector implies that this is for a small room, perhaps a home theatre or a small classroom. In this situation, it is very hard to comprehend why a headset with microphone would be included and how it contributes to this function. The items are not similar and do not complement each other. "
+    },
+    "33": {
+        "input": "Intent: Photography\nBundle Items:\n1. Professional 72-inch TRIPOD FOR All Canon Sony, Nikon, Samsung, Panasonic, Olympus, Kodak, Fuji, Cameras And Camcorders + BP MicroFiber Cleaning Cloth\n2. WD My Book Live 1TB Personal Cloud Storage NAS Share Files and Photos\n",
+        "target_score": 3,
+        "annotations": "The bundle is clearly for photographer. However, the items do not directly complement each other. Rather, we should increase the diversity of the bundle to include perhaps a memory card, and memory card case to increase the overall value of the bundle. It is very hard to see a tripod and cloud storage as a standalone purchase, so increasing the diversity can also aim to support the complementarity of the bundle."
+    },
+    "34": {
+        "input": "Intent: protecting a Mac product\nBundle Items:\n1. Kensington Keyfolio Bluetooth Keyboard Case For iPad 4 with Retina Display, iPad 3, iPad 2 and iPad 1 (K39336US)\n2. Incase CL57419 Neoprene Sleeve Plus for MacBook Pro 15&quot; (Soft Green)\n3. Speck Products SeeThru Satin Soft Touch, Hard Shell Case for MacBook Pro with Retina Display 15-Inch, Black (SPK-A1500)\n",
+        "target_score": 2,
+        "annotations": "The bundle is clearly for a user in the Apple ecosystem. However, bundling a keyboard case for an iPad with Macbook protection items does not make sense. The bundle items are too dissimilar and do not complement each other. The bundle should aim to support a single Apple item not multiple at once."
+    },
+    "35": {
+        "input": "Intent: cable \nBundle Items:\n1. 6FT SVGA VGA Monitor MM Male To Male Extension Cable 80\n2. Sabrent SuperSpeed USB 3.0 Flash Memory Card Reader for Windows, Mac, Linux, and Certain Android Systems - Supports SD , SDHC , MMC / MicroSD , T-Flash / MS , MS PRO Duo/ M2, and more (CR-MN30)\n3. Dell Latitude E6520 Dell 90-Watt 3 Prong Slim AC Adapter with 6.56 ft Power Cord.\n4. iMBAPrice iMBA-PS-06MM 6-Feet Gold Plated 3.5mm Male to 3.5mm Male Stereo Audio Cable\n5. C2G / Cables to Go 03137 18 AWG Outlet Saver Power Extension Cord NEMA 5-15P to NEMA 5-15R, Black (1 Foot/0.30 Meters)\n",
+        "target_score": 1,
+        "annotations": "The bundle seems to be filled with diverse items, attempting to fulfill a broader function. However, the Dell Latitude AC adapter restricts the intended user to a very specific user. The others do not directly complement this specific function, and thus the items are not similar and do not serve the inteded purposes. The diversity of the bundle only acts to confuse the user."
+    },
+    "36": {
+        "input": "Intent: Home theatre laptop based\nBundle Items:\n1. 6FT SVGA VGA Monitor MM Male To Male Extension Cable 80\n2. Dell Latitude E6520 Dell 90-Watt 3 Prong Slim AC Adapter with 6.56 ft Power Cord.\n3. iMBAPrice iMBA-PS-06MM 6-Feet Gold Plated 3.5mm Male to 3.5mm Male Stereo Audio Cable\n",
+        "target_score": 2,
+        "annotations": "The bundle seems to be to increase the functionality of the Dell Latitude laptop. However, the VGA cables is without a VGA to USB-C or HDMI adapter, which means the laptop still lacks the ability to connect to a monitor with the VGA cable. Thus, the diversity and functionality of the bundle is hindered, though adding a specific adapter could resolve both issues at once and contribute to the overall complementarity of the bundle."
+    },
+    "37": {
+        "input": "Intent: 2\nBundle Items:\n1. Tech Armor Anti-Glare &amp; Anti-Fingerprint (Matte) Screen Protector with Lifetime Replacement Warranty for Apple iPad Mini Tablet [3-Pack]\n2. Arris TM822G Touchstone&reg; DOCSIS 3.0 8x4 Ultra-High Speed Telephony Modem\n",
+        "target_score": 1,
+        "annotations": "The screen protector for Apple iPad Mini tablet and Modem do not contribute to a single purpose. Perhaps it is for increasing the internet connection of the Apple iPad mini user specifically, but it seems very unusual that the screen protector would be purchased whilst also purchasing a Modem as the items are so dissimilar. The items do not complement each other, and increasing the diversity will not resolve the issues in the bundle."
+    },
+    "38": {
+        "input": "Intent: Dual-Band Wireless slightly same product\nBundle Items:\n1. ASUS RT-AC66U Dual-Band Wireless-AC1750 Gigabit Router\n2. ASUS RT-N66U Dual-Band Wireless-N900 Gigabit Router\n",
+        "target_score": 1,
+        "annotations": "It is hard to see what user would purchase 2 items that serve the same purpose. All users who require two routers would purchase two routers regardless of the existence of the bundle and no users who only require one router would be persuaded to purchase this bundle. Thus, the bundle does not offer any value, the items do not complement each other, the bundle lacks diversity as the items are extremely similar."
+    },
+    "39": {
+        "input": "Intent: wireless internet setup\nBundle Items:\n1. SANOXY&reg; HDMI 5x1 5 Port Switch/Switcher with IR Remote Support 3D\n2. Apogee HDMI 3x1 Mini Switcher - No power supply needed\n3. Wilson Electronics  DT - Cell Phone Signal Boost for Small Home or Office - Retail Packaging - Gray\n4. HDMI 3 Port Gold Platted Switch Switcher w/ IR Remote For HDTV Direct TV PS3 LCD Plasma\n",
+        "target_score": 1,
+        "annotations": "There are 3 HDMI switchers. This implies a very specific user which needs to connect many devices, each to different monitors. This would already be a very niche bundle, but the addition of the cell phone signal booster does not increase the complementarity of the bundle, only serves to confuse the intent and intended user further. This bundle is extremely poor due to the similarity of all three HDMI splitters and the diversity of the cell phone signal booster does not complement the HDMI splitters."
+    },
+    "40": {
+        "input": "Intent: HDMI Switcher\nBundle Items:\n1. Apogee HDMI 3x1 Mini Switcher - No power supply needed\n2. HDMI 3 Port Gold Platted Switch Switcher w/ IR Remote For HDTV Direct TV PS3 LCD Plasma\n",
+        "target_score": 2,
+        "annotations": "This bundle serves to connect multiple HDMI sources to a single display. The extra HDMI switcher could serve as a spare or connect devices to another monitor. Either way, the bundle is filled with too similar items, and a HDMI cable could increase the diversity and complementarity of a bundle at once, whilst serving to aid in the integration of the bundle\u2019s intended function."
+    },
+    "41": {
+        "input": "Intent: This both product are connected each other for work\nBundle Items:\n1. Microsoft Surface Touch Cover Keyboard | Black\n2. Microsoft Surface RT (32GB)\n",
+        "target_score": 5,
+        "annotations": "This is a core bundle, the tablet and keyboard should be purchased together as it transforms the tablet into a functional laptop. They complement each other and the bundle could be further enhanced with the addition of a screen protector which would also increase the diversity of the bundle."
+    },
+    "42": {
+        "input": "Intent: different adaptors\nBundle Items:\n1. 7.1 Channel USB External Sound Card Audio Adapter\n2. BestDealUSA External 3D USB 2.0 Virtual 7.1 Channel Audio Sound Card Adapter\n3. Neewer USB EXTERNAL SOUND CARD 3D 5.1 AUDIO ADAPTER for PC\n4. USB 2.0 Mic Speaker 5.1 Audio Sound Card ADAPTER\n5. External 5.1 USB 3D Audio Sound Card Adapter for PC Desktop Notebook Laptop\n",
+        "target_score": 1,
+        "annotations": "The bundle has 4 USB Audio sound card adaptors which each serve the same function. Their use cases overlap and thus, they do not complement each other. The bundle lacks diversity for such a large bundle."
+    },
+    "43": {
+        "input": "Intent: To buy a usb \nBundle Items:\n1. Case Logic VHS-101 Portable Hard Drive Case (Black)\n2. ASUS Transformer Infinity TF700T Mobile Docking - Champagne\n3. 2 X Mini Usb Bluetooth V2.0 Edr Dongle Wireless Adapter\n4. Bluetooth USB 2.0 Micro Adapter Dongle\n5. Belkin 3-Outlet Mini Travel Swivel Charger Surge Protector with Dual USB Ports, 5 Charging Outlets Total (1 AMP / 5 Watt)\n6. Toshiba Canvio 500 GB USB 2.0 Basics Portable Hard Drive E05A050BAU2XK (Black)\n7. SANOXY MINI USB FEMALE TO MICRO B MALE ADAPTER [Electronics]\n8. 16' Protrend PTHDMI16 v1.3 HDMI (M) to HDMI (M) Video/Audio Cable w/Gold-Plated Connectors (Blue)\n",
+        "target_score": 1,
+        "annotations": "The bundle has too broad of an intent and there is not clear function in which it aims to serve. The keyboard is specific to a TF700T tablet, but the other items have no specific connection to this device. The diversity clouds the true intent of the bundle, and the bundle lacks complementarity and similarity to a specific idea."
+    },
+    "44": {
+        "input": "Intent: Bluetooth Adapter\nBundle Items:\n1. 2 X Mini Usb Bluetooth V2.0 Edr Dongle Wireless Adapter\n2. Bluetooth USB 2.0 Micro Adapter Dongle\n",
+        "target_score": 1,
+        "annotations": "There are two wireless micro adapter dongles which serve the same purpose. I do not see any value in the bundle as someone who was already going to buy multiple bluetooth dongles would already do so with or without this bundle, and it would be hard to convince a user that a spare dongle is required. The bundle items are too similar and the bundle does not offer any useful diversity to complement it."
+    },
+    "45": {
+        "input": "Intent: different hard drive\nBundle Items:\n1. Toshiba Canvio Connect 2TB Portable Hard Drive, Blue (HDTC720XL3C1)\n2. Toshiba Canvio 750 GB USB 3.0 Basics Portable Hard Drive - HDTB107XK3AA(Black)\n",
+        "target_score": 2,
+        "annotations": "Two portable hard drives of different storage sizes could possibly serve a different function. Perhaps one is for storing large amounts of data, and one is to travel with and store lots of data for perhaps a photographer, before being transferred to the larger 2TB hard drive. Maybe it could be to backup a database. However, both functions are quite hard to justify as the items are so similar they do not complement each other well. Perhaps adding some diversity would resolve this issue."
+    },
+    "46": {
+        "input": "Intent: camera accessories\nBundle Items:\n1. Kodak PlaySport (Zx5) HD Waterproof Pocket Video Camera - Red  (2nd Generation)\n2. Case Logic TBC-312 Pocket Video Camcorder Case with Storage (Black)\n",
+        "target_score": 4,
+        "annotations": "This is a camera + protection bundle. It serves a clear function and the items complement each other. However, it could be improved by perhaps including a memory card or other accessories for diversity."
+    },
+    "47": {
+        "input": "Intent: Items for q camera to work. Along with a camera\nBundle Items:\n1. Canon PowerShot SX50 HS 12MP Digital Camera with 2.8-Inch LCD (Black)\n2. Case Logic DCB-304 Compact System/Hybrid Camera Case (Black)\n3. Transcend 8 GB Class 10 SDHC Flash Memory Card (TS8GSDHC10E)\n",
+        "target_score": 5,
+        "annotations": "This is camera + case + memory card bundle. It serves a clear purpose, each item complements each other, and all items are similar enough to serve a singular purpose. The diversity of the bundle is high with 3 bundle items."
+    },
+    "48": {
+        "input": "Intent: mouse\nBundle Items:\n1. Kensington 64032 Master Lock Universal Notebook Security Cable - Black\n2. AmazonBasics 3-Button USB Wired Mouse (Black)\n",
+        "target_score": 2,
+        "annotations": "The Notebook security cable is for a specific function, to prevent theft. Thus, it is difficult to say that the wired mouse directly complements the security of the laptop, but rather complements the laptop. Perhaps increasing another item could both solve the complementarity problem and increase diversity whilst reinforcing the main idea of the bundle."
+    },
+    "49": {
+        "input": "Intent: Computer accessories\nBundle Items:\n1. Smart Touch Mini USB TouchPad Keyboard\n2. AmazonBasics 3-Button USB Wired Mouse (Black)\n",
+        "target_score": 5,
+        "annotations": "The keyboard and mouse are the premier combo for laptops and computers. The items complement each other nicely though the value proposition could be improved by adding more diverse items."
+    }
+}

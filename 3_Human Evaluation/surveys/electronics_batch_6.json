@@ -1,0 +1,888 @@
+{
+  "title": "Electronics Bundle Comparison \u2014 Batch 6",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "electronics_pair_100",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_100_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lBfbAXbD2hhxQhDoCtEXTasjcEQvGYxs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fotasy Auto Focus Marco Extension Tube (10mm, 16mm, 26mm) for Fujfifilm X Mount Camera X-Pro1 X-E1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set of extension tubes enables macro photography by allowing closer focusing distances for Fujifilm X-mount cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ych6JPvvsCEgruNzQ-wG-KV8UIuqVTEw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Thumbs Up Grip TU-100B for Micro DSLR Camera Black Canon M Fuji X-E1/X-Pro1 Panasonic GF2/GF1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a black camera grip designed to provide enhanced handling and stability for specific micro DSLR and mirrorless camera models from Canon, Fuji, and Panasonic.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jyuMWAjf7UYsErKV8Amr7tXo6p2W-JVJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manfrotto 190CXPRO4 4-Section Pro Carbon Fiber Tripod without Head</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, durable carbon fiber tripod designed for photographers seeking stability and portability without an included head.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lBfbAXbD2hhxQhDoCtEXTasjcEQvGYxs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fotasy Auto Focus Marco Extension Tube (10mm, 16mm, 26mm) for Fujfifilm X Mount Camera X-Pro1 X-E1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set of extension tubes enables macro photography by allowing closer focusing distances for Fujifilm X-mount cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ych6JPvvsCEgruNzQ-wG-KV8UIuqVTEw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Thumbs Up Grip TU-100B for Micro DSLR Camera Black Canon M Fuji X-E1/X-Pro1 Panasonic GF2/GF1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a black camera grip designed to provide enhanced handling and stability for specific micro DSLR and mirrorless camera models from Canon, Fuji, and Panasonic.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_100_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_100_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_100_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_101",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_101_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uF-qqNMF5A82p5dO_kuYugSS7tlXrVqK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WallyBags 40 Inch Garment Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A garment bag designed for protecting and transporting clothing, potentially featuring electronic compatibility or accessories for tech-savvy travelers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dq6oBsV2AeBfLsmPCZQRfWlUarFPDl-3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Phottix Odin TTL Flash Trigger for Nikon, 2 Receivers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless device allowing photographers to remotely control and trigger Nikon-compatible camera flashes, including two receivers for multiple flash setups.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FiFdSV_OQeH_EtaaslNRcWNo-kPH5nrQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tiffen 77VND 77MM VARIABLE ND FILTER for Camera lenses</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 77mm variable neutral density filter that allows photographers to adjust light exposure on camera lenses without affecting color balance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KQdMIBtkxaOZXzmK2j8pDPmqkHdy9yxA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">UpBright&reg; New AC Adapter For No! No! NoNo Hair Removal System Model 8800 DC Power Supply Cord Cable PS Wall Charger Mains PSU</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a replacement or additional power supply cord specifically designed for the NoNo Hair Removal System Model 8800, allowing it to be charged and powered using an AC outlet.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10eetarvzF3Aj5m1gFtzb3JClzpvy4u-6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eForCity Leather Wallet Case with Card Holder for iPod touch 5G, Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A black leather wallet case designed to protect the iPod touch 5G, featuring a card holder for added convenience.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19Wg6qVOH06WkWl-ZKXfkucBi4keOjPPj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nikon 200mm f/2G AF-S ED VR II Nikkor Lens for Nikon Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance telephoto lens designed for Nikon DSLR cameras, featuring fast aperture and advanced image stabilization for sharp, detailed photography.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MEesskVzK5OkRR-cd35_DMQa0KYUeFUU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rokinon 85M-N 85mm F1.4 Aspherical Lens for Nikon (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-quality, manually focused lens designed for Nikon cameras, ideal for portrait photography with its wide aperture and aspherical lens elements for sharp images.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dq6oBsV2AeBfLsmPCZQRfWlUarFPDl-3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Phottix Odin TTL Flash Trigger for Nikon, 2 Receivers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless device allowing photographers to remotely control and trigger Nikon-compatible camera flashes, including two receivers for multiple flash setups.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FiFdSV_OQeH_EtaaslNRcWNo-kPH5nrQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tiffen 77VND 77MM VARIABLE ND FILTER for Camera lenses</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 77mm variable neutral density filter that allows photographers to adjust light exposure on camera lenses without affecting color balance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19Wg6qVOH06WkWl-ZKXfkucBi4keOjPPj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nikon 200mm f/2G AF-S ED VR II Nikkor Lens for Nikon Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance telephoto lens designed for Nikon DSLR cameras, featuring fast aperture and advanced image stabilization for sharp, detailed photography.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_101_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_101_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_101_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_102",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_102_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UgrxZIjOyzd_RkptWNWuc12C2eU-SlRq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WHITE 100FT CAT6 CAT 6 RJ45 PATCH ETHERNET NETWORK INTERNET CABLE 100' FT</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 100-foot white Cat6 Ethernet cable designed for high-speed data transmission in networking applications, featuring RJ45 connectors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lGJhACHmC3oZedGp_O675dy_N9r86CFC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TP-LINK TL-SG1005D 10/100/1000Mbps 5-Port Gigabit Desktop Switch, 10Gbps Capacity</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact networking device that enables fast and efficient data transfer across five Ethernet ports, supporting gigabit speeds for small office or home networks.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UgrxZIjOyzd_RkptWNWuc12C2eU-SlRq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WHITE 100FT CAT6 CAT 6 RJ45 PATCH ETHERNET NETWORK INTERNET CABLE 100' FT</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 100-foot white Cat6 Ethernet cable designed for high-speed data transmission in networking applications, featuring RJ45 connectors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15eb0cbYClYR7MPqRxVOu5F2aaD-uwWO2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Vengeance 8 GB ( 2 x 4 GB ) DDR3 1600 MHz (PC3 12800) 240-Pin DDR3 Memory Kit for   Core i3, i5, i7 and   Platforms SDRAM CMZ8GX3M2A1600C9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance DDR3 memory kit with two 4GB sticks, totaling 8GB, designed for enhancing the speed and efficiency of computers with Core i3, i5, and i7 processors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1b3Xxbu02faLFvwRLDJtGcvHYNSLnUPKu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">C2G / Cables to Go 27142 Cat6 Snagless Unshielded (UTP) Network Patch Cable, Blue (7 Feet/2.13 Meters)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 7-foot blue Cat6 Ethernet cable designed for high-speed network connections, featuring snagless connectors for easier installation and reduced cable damage.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MN1lw-w23SWUCrY0MEPiML7_hKav8mj8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Your Cable Store 15 Foot USB 2.0 Extension Cable</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 15-foot long USB 2.0 cable designed to extend the connection distance between USB devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11xtn7kxcmQR-BmaefFhZZSat-KIpIg86&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HDE USB 2.0 Hi-Speed 4-Port Power Strip Style Hub - White</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a white USB hub designed to expand a single USB 2.0 port into four ports, resembling a power strip for easy connection of multiple devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PwS9Gc8m17H7O6qBKEzhfSsbnCnlXi9l&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eForCity Mini Display Port to DVI Male / Female Adapter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter connects a Mini DisplayPort output to a DVI input, allowing devices like laptops or tablets to interface with DVI-equipped displays.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1C-8vdL5zR5Ea5ODjMJx1OAdx0JI5WNSL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Importer520 Gold Plated HDMI Female to DVI-D Male Video Adapter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a gold-plated adapter that allows you to connect an HDMI cable to a DVI-D port for video transmission.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_102_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_102_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_102_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_103",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_103_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17hs5abx6HtWm8itU7wiBMVOL4nZ8C9DO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Cruzer Glide USB 64GB Flash Drive (SDCZ60-064G-A11)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable USB flash drive designed for easy data storage and transfer with a 64GB capacity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jYtCU9dG0hX_MZg-w1P6NVjNBd4b3PsW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; USB 3.0 Multi-in-1 Card Reader 4-Slots for SDXC, SDHC, SD, CF, High-Speed CF (UDMA), MS, M2, Micro SDXC, Micro SDHC, Micro SD Cards [Support UHS-I Cards]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that allows users to read and transfer data from various types of memory cards, such as SD, CF, and Micro SD, utilizing high-speed USB 3.0 connectivity.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZbSP5n8pzLyGFiKmN9RYl8gKF1VhhElp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kingston Digital DataTraveler SE9 8GB USB 2.0 (DTSE9H/8GBZET)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an 8GB USB 2.0 flash drive designed for portable data storage and transfer, featuring a durable metal casing with an integrated key ring loop.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fRw6QXXCpd_DR0UDMAvDoq8OKM34eypM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">1x Colorful Silicone Keyboard Protector Skin Cover for HP Pavilion DV6-6118NR DV6-6158NR DV6-6152NR DV6-6170US DV6-6C10US DV6-6C40US DV6-6C54NR DV6-6137TX DV6-6B51EA DV6-6180US DV6-6B21HE DV6-6B13TX DV6-6138NR DV6-6B27NR DV6-6C15NR DV6-6C14NR DV6-6117DX DV6-6190US DV6-6120US DV6-6136NR DV6-6128NR DV6-6104NR DV6-6173CL DV6-6C50US DV6-6172NR DV6-6C16NR DV6-6B26US DV6-6140US DV6-6110US DV6-6108US DV6-6153CL (You Must read &quot;Product Description&quot; Part to avoid buying wrongly!!!)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a colorful silicone keyboard protector designed to fit various HP Pavilion DV6 laptop models, providing protection against dust, spills, and wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1xzS0PF9yJH6tB2cvl8njSsnfjeLcI4BC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony MDRZX300/BLK Stereo Headphones</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are wired on-ear headphones designed for personal audio listening with a durable construction and balanced sound quality.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jX2wIv_6_1MvIGYjPclpm9FNEA2EWP3P&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung Electronics MZ-7PD128BW 840 Pro Series 2.5-Inch 128GB SATA 6Gbps Solid State Drive</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance 128GB internal solid-state drive designed for fast data transfer and reliable storage in computers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1LHADvkNovIGqQ_JrwpSlJ9TiyHKSuzwc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Flash Survivor USB 3.0 16GB Drive (CMFSV3-16GB)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A rugged, durable USB flash drive designed to protect data against physical damage and environmental elements, offering 16GB of storage with fast USB 3.0 transfer speeds.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Djvm4VnilSkgmgdJDE3f2VFA1b2UmszX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kingston Digital 8GB DataTraveler 101 G2 USB 2.0 Drive - Red (DT101G2/8GBZET)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable 8GB USB flash drive that uses USB 2.0 technology for storing and transferring digital files.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PaTMnNwdsd8BuP_Oa1P6TsLDz2OXeqAR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SANOXY 360 Degrees Rotating Stand (black) Leather Case for iPad 2 2nd generation (iPad 2/3/4 BLACK)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A black leather case designed to protect and provide a 360-degree rotating stand functionality for iPad 2, 3, and 4 models.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_103_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_103_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_103_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_104",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_104_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1crIVz2RvHdHWVoOv3o6027evcrgJFUPS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rode VideoMic Directional Video Condenser Microphone w/Mount</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-quality directional microphone designed for capturing clear audio in video productions, featuring a mount for easy attachment to cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mD4Uu-BQdLFWVTinhK5EETdxVMFMQkVU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics High-Speed HDMI Cable - 15 Feet ( 4.6 Meters) Supports Ethernet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 15-foot HDMI cable that supports Ethernet, designed for high-speed audio and video transmission between devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BkN2kBWd2X0JZv6kkaZZRejJkEUaV6N3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon PowerShot ELPH 110 HS 16.1 MP CMOS Digital Camera with 5x Optical Image Stabilized Zoom 24mm Wide-Angle Lens and 1080p Full HD Video Recording (Silver)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact digital camera featuring a 16.1 MP CMOS sensor, 5x optical zoom with image stabilization, a 24mm wide-angle lens, and the ability to record 1080p Full HD videos.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19vCAaIuEqyEeT5HQyZCaorcrgJYScxhD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony Digital Flash Voice Recorder (ICD-PX312)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device designed for recording audio with built-in flash memory, ideal for capturing lectures, meetings, and personal notes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UwH6HAQaSoLh-WdMghVGUuJ5d5G6Mwyf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Olympus DP-201 Digital Voice Recorder</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device designed for capturing high-quality audio recordings, ideal for lectures, meetings, and personal notes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_104_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_104_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_104_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_105",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_105_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15c9hiHlT8zfWP3J885Ki2kbBy6ALJWXd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cooler Master Turbine Master Mach 1.8 120mm Barometric Ball Bearing Case for Fan-R4 TMBB 18 FK R0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 120mm case fan designed for efficient cooling in computer systems, featuring barometric ball bearings for durability and reduced noise.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10cNHb0xzWObAoh59lMa-VnlwIxjPdhCc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Arc Mouse - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek, portable wireless mouse designed for comfort and convenience, featuring a unique arc shape that snaps flat for easy transport.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1v3mwUhGMd-DmmR-0qK66a0yPlf8PplQC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS PB278Q 27-Inch WQHD LED-lit Professional Graphics Monitor</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution 27-inch monitor designed for professional graphics work with LED backlighting and WQHD display quality.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10cNHb0xzWObAoh59lMa-VnlwIxjPdhCc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Arc Mouse - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek, portable wireless mouse designed for comfort and convenience, featuring a unique arc shape that snaps flat for easy transport.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1v3mwUhGMd-DmmR-0qK66a0yPlf8PplQC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS PB278Q 27-Inch WQHD LED-lit Professional Graphics Monitor</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution 27-inch monitor designed for professional graphics work with LED backlighting and WQHD display quality.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_105_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_105_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_105_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_106",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_106_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZHr5RkLlEo85UBu4d5U5oLhWEuyKPudL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheetah Mounts Articulating Arm Mount Bracket for VESA 100 LCD LED Flat Screen Monitor Displays/TVs  12&quot;-24&quot; up to 40lbs Tilt and Swivel</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a wall or ceiling mount bracket designed to securely hold flat screen monitors or TVs ranging from 12 to 24 inches and weighing up to 40 pounds, allowing for tilt and swivel adjustments.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=102nutHBwhz-4HaSuycR0B5bcK5sLJoha&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velcro Reusable Self-Gripping Cable Ties, 0.5 Inches x 8 Inches Long, Black, 100 Ties per Pack (91140)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are black, reusable cable ties designed for organizing and securing electronic cords and cables, measuring 0.5 inches by 8 inches, with 100 ties included in the pack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MYu0n4BTocD9SjIVlRp74aLnQ6DM-ccv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">C&amp;E Mini DisplayPort to HDMI Female Adapter Cable for Apple Macbook, Macbook Pro</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter cable allows you to connect a Macbook or Macbook Pro with a Mini DisplayPort to an HDMI-equipped display or TV.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ra9HoekE_u8j5YS_f38vMY3DEWlxhr3r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DVI Gear HDMI Cable 2M 6 feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 2-meter, 6-foot HDMI cable designed for transmitting high-definition video and audio signals between compatible electronic devices.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZHr5RkLlEo85UBu4d5U5oLhWEuyKPudL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheetah Mounts Articulating Arm Mount Bracket for VESA 100 LCD LED Flat Screen Monitor Displays/TVs  12&quot;-24&quot; up to 40lbs Tilt and Swivel</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a wall or ceiling mount bracket designed to securely hold flat screen monitors or TVs ranging from 12 to 24 inches and weighing up to 40 pounds, allowing for tilt and swivel adjustments.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=102nutHBwhz-4HaSuycR0B5bcK5sLJoha&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velcro Reusable Self-Gripping Cable Ties, 0.5 Inches x 8 Inches Long, Black, 100 Ties per Pack (91140)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are black, reusable cable ties designed for organizing and securing electronic cords and cables, measuring 0.5 inches by 8 inches, with 100 ties included in the pack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ra9HoekE_u8j5YS_f38vMY3DEWlxhr3r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DVI Gear HDMI Cable 2M 6 feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 2-meter, 6-foot HDMI cable designed for transmitting high-definition video and audio signals between compatible electronic devices.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_106_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_106_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_106_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_107",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_107_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MYu0n4BTocD9SjIVlRp74aLnQ6DM-ccv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">C&amp;E Mini DisplayPort to HDMI Female Adapter Cable for Apple Macbook, Macbook Pro</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter cable allows you to connect a Macbook or Macbook Pro with a Mini DisplayPort to an HDMI-equipped display or TV.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ra9HoekE_u8j5YS_f38vMY3DEWlxhr3r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DVI Gear HDMI Cable 2M 6 feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 2-meter, 6-foot HDMI cable designed for transmitting high-definition video and audio signals between compatible electronic devices.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MYu0n4BTocD9SjIVlRp74aLnQ6DM-ccv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">C&amp;E Mini DisplayPort to HDMI Female Adapter Cable for Apple Macbook, Macbook Pro</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter cable allows you to connect a Macbook or Macbook Pro with a Mini DisplayPort to an HDMI-equipped display or TV.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ra9HoekE_u8j5YS_f38vMY3DEWlxhr3r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">DVI Gear HDMI Cable 2M 6 feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 2-meter, 6-foot HDMI cable designed for transmitting high-definition video and audio signals between compatible electronic devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XF1HcTILi7mYbq_n6V1aJHcFfs-efmgd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">IOGEAR GHDSW3 3-Port HDMI Switcher with Remote (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a black 3-port HDMI switcher that allows you to connect multiple HDMI sources to a single display, controlled via a remote.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_107_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_107_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_107_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_108",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_108_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iVu6l2-31lwTqYD1VuXAylvk_jpvFX4h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Eye-Fi 16GB Pro X2 SDHC Class 10 Wireless Flash Memory Card Frustration Free Packaging EYE-FI-16PC-FF</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 16GB high-speed SDHC memory card with built-in Wi-Fi for wireless data transfer, designed for seamless use with digital cameras and compatible devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=113Pgr7vLSdNhz04S1w0Iw1d-g8mtuSLQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dell 45W Replacement AC Adapter for Dell</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A reliable power supply unit designed to provide 45 watts of energy to Dell laptops, ensuring efficient charging and operation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qaN9n0C8rgAC4kEb5SO_8ZF9OcnU88OC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HDE&reg; Mini DisplayPort to HDMI Female Adapter Cable for Macbook</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter cable allows you to connect a MacBook with a Mini DisplayPort to an HDMI display for video output.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WJNEUO95ir7aVNx9008sjJHWpl05_Suk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">iPearl mCover HARD Shell CASE for 13.3&quot; Dell XPS 13 L321X L322X Ultrabook laptop - BLACK</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective black hard shell case designed specifically to fit the 13.3\" Dell XPS 13 L321X and L322X Ultrabook models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1auCM3ej-yz7MnVYhicchIbg4wrl2aY5y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AudioSource Sound pOp Bluetooth Speaker (Navy Blue)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, navy blue Bluetooth speaker designed for portable audio playback with enhanced sound quality.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yXER8SBMXPNZ4tMiJuHfC5D9lJLU5xCT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cable Matters High Speed HDMI Cable with One 270 Degree Elbow 6 Feet - 3D and 4K Resolution Ready</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot high-speed HDMI cable featuring a 270-degree elbow connector, supporting 3D and 4K resolution.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qaN9n0C8rgAC4kEb5SO_8ZF9OcnU88OC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HDE&reg; Mini DisplayPort to HDMI Female Adapter Cable for Macbook</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter cable allows you to connect a MacBook with a Mini DisplayPort to an HDMI display for video output.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yXER8SBMXPNZ4tMiJuHfC5D9lJLU5xCT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cable Matters High Speed HDMI Cable with One 270 Degree Elbow 6 Feet - 3D and 4K Resolution Ready</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot high-speed HDMI cable featuring a 270-degree elbow connector, supporting 3D and 4K resolution.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_108_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_108_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_108_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_109",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_109_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o_xIJVOfgRD0HjD4--vQshr1m94R89nO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Poetic(TM) ASUS Transformer Prime TF201 Keyboard Portfolio Stand Case Cover for TF201 Brown</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a brown protective case designed to function as both a portfolio and a stand for the ASUS Transformer Prime TF201 tablet, integrating a keyboard to enhance usability.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Xb73wYf5vfAxn58mgOxieEDW9Z8_N-Kl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Eathtek Laptop Keyboard for HP Pavilion DV6000 DV6100 DV6200 DV6300 DV6400 DV6500 DV6600 DV6700 Series</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A replacement keyboard compatible with various models of the HP Pavilion DV6000 series laptops.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o_xIJVOfgRD0HjD4--vQshr1m94R89nO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Poetic(TM) ASUS Transformer Prime TF201 Keyboard Portfolio Stand Case Cover for TF201 Brown</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a brown protective case designed to function as both a portfolio and a stand for the ASUS Transformer Prime TF201 tablet, integrating a keyboard to enhance usability.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1chT19fmoZres3qiDnykRbFcadh9jUWHF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Transformer Pad Mobile Dock TF300T (Blue)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A detachable keyboard dock designed to enhance the functionality and battery life of the ASUS Transformer Pad TF300T tablet, featuring a built-in battery, additional ports, and a trackpad.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdyZ_oAATzHeJQS0EYsH2hVGdNhGMtYP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ArmorSuit MilitaryShield - ASUS Transformer Pad TF300 Tablet Screen Protector Shield + Lifetime Replacements</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a durable screen protector designed specifically for the ASUS Transformer Pad TF300 tablet, offering high-quality protection with a lifetime replacement guarantee.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_109_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_109_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_109_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_110",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_110_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1chT19fmoZres3qiDnykRbFcadh9jUWHF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Transformer Pad Mobile Dock TF300T (Blue)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A detachable keyboard dock designed to enhance the functionality and battery life of the ASUS Transformer Pad TF300T tablet, featuring a built-in battery, additional ports, and a trackpad.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdyZ_oAATzHeJQS0EYsH2hVGdNhGMtYP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ArmorSuit MilitaryShield - ASUS Transformer Pad TF300 Tablet Screen Protector Shield + Lifetime Replacements</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a durable screen protector designed specifically for the ASUS Transformer Pad TF300 tablet, offering high-quality protection with a lifetime replacement guarantee.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1chT19fmoZres3qiDnykRbFcadh9jUWHF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Transformer Pad Mobile Dock TF300T (Blue)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A detachable keyboard dock designed to enhance the functionality and battery life of the ASUS Transformer Pad TF300T tablet, featuring a built-in battery, additional ports, and a trackpad.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdyZ_oAATzHeJQS0EYsH2hVGdNhGMtYP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ArmorSuit MilitaryShield - ASUS Transformer Pad TF300 Tablet Screen Protector Shield + Lifetime Replacements</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a durable screen protector designed specifically for the ASUS Transformer Pad TF300 tablet, offering high-quality protection with a lifetime replacement guarantee.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YZHW4Iw52TDuoOrFfAYRCNlvKbUGIw1q&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HTC Media Link HD (99H10938-00)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless HDMI adapter that enables streaming of media from HTC devices to an HDTV.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_110_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_110_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_110_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_111",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_111_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1chT19fmoZres3qiDnykRbFcadh9jUWHF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Transformer Pad Mobile Dock TF300T (Blue)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A detachable keyboard dock designed to enhance the functionality and battery life of the ASUS Transformer Pad TF300T tablet, featuring a built-in battery, additional ports, and a trackpad.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o_xIJVOfgRD0HjD4--vQshr1m94R89nO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Poetic(TM) ASUS Transformer Prime TF201 Keyboard Portfolio Stand Case Cover for TF201 Brown</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a brown protective case designed to function as both a portfolio and a stand for the ASUS Transformer Prime TF201 tablet, integrating a keyboard to enhance usability.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdyZ_oAATzHeJQS0EYsH2hVGdNhGMtYP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ArmorSuit MilitaryShield - ASUS Transformer Pad TF300 Tablet Screen Protector Shield + Lifetime Replacements</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a durable screen protector designed specifically for the ASUS Transformer Pad TF300 tablet, offering high-quality protection with a lifetime replacement guarantee.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1chT19fmoZres3qiDnykRbFcadh9jUWHF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Transformer Pad Mobile Dock TF300T (Blue)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A detachable keyboard dock designed to enhance the functionality and battery life of the ASUS Transformer Pad TF300T tablet, featuring a built-in battery, additional ports, and a trackpad.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdyZ_oAATzHeJQS0EYsH2hVGdNhGMtYP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ArmorSuit MilitaryShield - ASUS Transformer Pad TF300 Tablet Screen Protector Shield + Lifetime Replacements</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a durable screen protector designed specifically for the ASUS Transformer Pad TF300 tablet, offering high-quality protection with a lifetime replacement guarantee.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_111_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_111_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_111_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_112",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_112_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rz-g73d7_Cm9YmVCf3ODpDradHRKjlHv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; DP500 DSLR Matte Box For 15mm Rail Rod Suppot Focus Rig 60D 5DII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a matte box used in filmmaking to shield a camera lens from unwanted light and glare, designed for DSLR cameras and compatible with 15mm rail rod systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L5TjRiwaJ9vALg6tNwS8zbQE8S5ZK6S1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adjustable Offset Raiser Clamp Z-Shape Clamp Mount Bracket for 15mm Rod</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a bracket designed to securely mount and adjust the position of accessories on a 15mm rod system commonly used in professional camera rigs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11E9offNVHn2jE_8SxOEkp6_2luxKNKNV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Railblock Rod Clamp for 15mm Rod Dslr Rig Rail System-60mm Spaced,wingnut Color - Red</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a red clamp used to securely attach and adjust components on a 15mm rod-based DSLR camera rig system, spaced at 60mm intervals.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rz-g73d7_Cm9YmVCf3ODpDradHRKjlHv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; DP500 DSLR Matte Box For 15mm Rail Rod Suppot Focus Rig 60D 5DII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a matte box used in filmmaking to shield a camera lens from unwanted light and glare, designed for DSLR cameras and compatible with 15mm rail rod systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L5TjRiwaJ9vALg6tNwS8zbQE8S5ZK6S1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adjustable Offset Raiser Clamp Z-Shape Clamp Mount Bracket for 15mm Rod</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a bracket designed to securely mount and adjust the position of accessories on a 15mm rod system commonly used in professional camera rigs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11E9offNVHn2jE_8SxOEkp6_2luxKNKNV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Railblock Rod Clamp for 15mm Rod Dslr Rig Rail System-60mm Spaced,wingnut Color - Red</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a red clamp used to securely attach and adjust components on a 15mm rod-based DSLR camera rig system, spaced at 60mm intervals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YaGFcUESrgB9CZvC3yhdhKff2-aK18pO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KOMPUTERBAY 32GB Professional COMPACT FLASH CARD CF 1000X 150MB/s Extreme Speed UDMA 7 RAW 32 GB</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-speed 32GB CompactFlash memory card designed for professional-grade photography and videography, offering fast data transfer rates of up to 150MB/s with UDMA 7 support.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_112_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_112_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_112_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_113",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_113_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rz-g73d7_Cm9YmVCf3ODpDradHRKjlHv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; DP500 DSLR Matte Box For 15mm Rail Rod Suppot Focus Rig 60D 5DII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a matte box used in filmmaking to shield a camera lens from unwanted light and glare, designed for DSLR cameras and compatible with 15mm rail rod systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11E9offNVHn2jE_8SxOEkp6_2luxKNKNV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Railblock Rod Clamp for 15mm Rod Dslr Rig Rail System-60mm Spaced,wingnut Color - Red</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a red clamp used to securely attach and adjust components on a 15mm rod-based DSLR camera rig system, spaced at 60mm intervals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YaGFcUESrgB9CZvC3yhdhKff2-aK18pO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KOMPUTERBAY 32GB Professional COMPACT FLASH CARD CF 1000X 150MB/s Extreme Speed UDMA 7 RAW 32 GB</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-speed 32GB CompactFlash memory card designed for professional-grade photography and videography, offering fast data transfer rates of up to 150MB/s with UDMA 7 support.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rz-g73d7_Cm9YmVCf3ODpDradHRKjlHv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; DP500 DSLR Matte Box For 15mm Rail Rod Suppot Focus Rig 60D 5DII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a matte box used in filmmaking to shield a camera lens from unwanted light and glare, designed for DSLR cameras and compatible with 15mm rail rod systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11E9offNVHn2jE_8SxOEkp6_2luxKNKNV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Railblock Rod Clamp for 15mm Rod Dslr Rig Rail System-60mm Spaced,wingnut Color - Red</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a red clamp used to securely attach and adjust components on a 15mm rod-based DSLR camera rig system, spaced at 60mm intervals.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_113_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_113_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_113_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_114",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_114_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rz-g73d7_Cm9YmVCf3ODpDradHRKjlHv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; DP500 DSLR Matte Box For 15mm Rail Rod Suppot Focus Rig 60D 5DII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a matte box used in filmmaking to shield a camera lens from unwanted light and glare, designed for DSLR cameras and compatible with 15mm rail rod systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YaGFcUESrgB9CZvC3yhdhKff2-aK18pO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KOMPUTERBAY 32GB Professional COMPACT FLASH CARD CF 1000X 150MB/s Extreme Speed UDMA 7 RAW 32 GB</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-speed 32GB CompactFlash memory card designed for professional-grade photography and videography, offering fast data transfer rates of up to 150MB/s with UDMA 7 support.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rz-g73d7_Cm9YmVCf3ODpDradHRKjlHv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; DP500 DSLR Matte Box For 15mm Rail Rod Suppot Focus Rig 60D 5DII</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a matte box used in filmmaking to shield a camera lens from unwanted light and glare, designed for DSLR cameras and compatible with 15mm rail rod systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YaGFcUESrgB9CZvC3yhdhKff2-aK18pO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KOMPUTERBAY 32GB Professional COMPACT FLASH CARD CF 1000X 150MB/s Extreme Speed UDMA 7 RAW 32 GB</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-speed 32GB CompactFlash memory card designed for professional-grade photography and videography, offering fast data transfer rates of up to 150MB/s with UDMA 7 support.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jyuMWAjf7UYsErKV8Amr7tXo6p2W-JVJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manfrotto 190CXPRO4 4-Section Pro Carbon Fiber Tripod without Head</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, durable carbon fiber tripod designed for photographers seeking stability and portability without an included head.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_114_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_114_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_114_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_115",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_115_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qBYFGKARDMUvQblIqm_m-JgQjkKi7VMW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">rooCASE Fuse (Frost / Gray) Snap-On Shell Case for Apple for Apple iPad Mini 7.9-Inch Tablet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective snap-on shell case designed specifically for the 7.9-inch Apple iPad Mini, featuring a frost and gray color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18Ah_ZAjvKfM59epN0FhtkXI4srma2Ebc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">MediaDevil Magicscreen Screen Protector: Crystal Clear (Invisible) - Apple iPad Mini 1 / iPad Mini 2 (i.e. iPad Mini with Retina Screen) (2 x Screen Protectors)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of two transparent screen protectors designed to fit the Apple iPad Mini 1 and iPad Mini 2, providing protection against scratches and maintaining screen clarity.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qBYFGKARDMUvQblIqm_m-JgQjkKi7VMW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">rooCASE Fuse (Frost / Gray) Snap-On Shell Case for Apple for Apple iPad Mini 7.9-Inch Tablet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective snap-on shell case designed specifically for the 7.9-inch Apple iPad Mini, featuring a frost and gray color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HFXYIo4ca8fIKNFkD6xT69vJQUwlaTZI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bear Motion Premium Slim Folio Case for Apple iPad (Wake or put your device to sleep by opening or closing the case) (iPad mini, Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek black folio case designed for the iPad mini that automatically wakes or puts the device to sleep when opened or closed.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_115_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_115_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_115_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_116",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_116_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uJCL0xvWu9_gxEf9Jzxi-2Tp8hubW7h6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SANOXY Flexible 5.0 Megapixel USB PC Camera Webcam with Microphone</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution webcam with a built-in microphone, designed for flexible positioning and USB connectivity to computers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UAKAM4U8h_EVvCDholo-8ovOI9vhD0AO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">EVGA GeForce 6200 512 MB DDR2 PCI 2.1 VGA/DVI-I/S-Video Graphics Card, 512-P1-N402-LR</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A budget-friendly graphics card designed for basic computing tasks and multimedia playback, featuring 512 MB DDR2 memory and multiple output options including VGA, DVI-I, and S-Video.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uJCL0xvWu9_gxEf9Jzxi-2Tp8hubW7h6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SANOXY Flexible 5.0 Megapixel USB PC Camera Webcam with Microphone</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution webcam with a built-in microphone, designed for flexible positioning and USB connectivity to computers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kas0HYYEVfdh7I--ULDmByB4RZyvYJ9s&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft LifeChat LX-3000 Headset (JUG-00013)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A USB stereo headset designed for comfortable, high-quality audio during online calls or gaming sessions on a PC.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_116_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_116_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_116_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_117",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_117_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bFtd2X7kKAr2S1kwUCnXx4fISibH0SwF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Olympus M.ZUIKO DIGITAL ED 75mm f1.8 (Silver) Lens for Olympus and Panasonic Micro 4/3 Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance, silver telephoto lens designed for Olympus and Panasonic Micro Four Thirds cameras, ideal for portrait photography with its 75mm focal length and bright f/1.8 aperture.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gNsLTCR79uB2sJz33ctAMIKDtl_DeeqN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nikon D7100 24.1 MP DX-Format CMOS Digital SLR (Body Only)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution digital single-lens reflex camera body designed for photography enthusiasts, featuring a 24.1-megapixel DX-format CMOS sensor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sXHMUK6_1dG0IgeNIXQX8S-K0Avkbv4Z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Case Logic DCB-305 Compact System/Hybrid/Camcorder Kit Bag (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable black bag designed to securely store and transport compact system cameras, hybrid cameras, or camcorders and their accessories.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gNsLTCR79uB2sJz33ctAMIKDtl_DeeqN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nikon D7100 24.1 MP DX-Format CMOS Digital SLR (Body Only)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-resolution digital single-lens reflex camera body designed for photography enthusiasts, featuring a 24.1-megapixel DX-format CMOS sensor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sXHMUK6_1dG0IgeNIXQX8S-K0Avkbv4Z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Case Logic DCB-305 Compact System/Hybrid/Camcorder Kit Bag (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable black bag designed to securely store and transport compact system cameras, hybrid cameras, or camcorders and their accessories.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XFvVYrkoUCVMso5nkyL6-YsQnRrnxfcQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nikon EN-EL14 Rechargeable Li-Ion Battery for Select Nikon DSLR Cameras (Retail Package)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A rechargeable lithium-ion battery designed to power compatible Nikon DSLR cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1owv9eWXhjvOrvlbPhgjMaJKyncIwzZt6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nikon 18-140mm f/3.5-5.6G ED VR AF-S DX NIKKOR Zoom Lens</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile zoom lens designed for Nikon DX-format DSLR cameras, featuring vibration reduction for steady shots and a wide focal range suitable for various photography needs.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_117_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_117_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_117_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_118",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_118_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qBYFGKARDMUvQblIqm_m-JgQjkKi7VMW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">rooCASE Fuse (Frost / Gray) Snap-On Shell Case for Apple for Apple iPad Mini 7.9-Inch Tablet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective snap-on shell case designed specifically for the 7.9-inch Apple iPad Mini, featuring a frost and gray color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ItTe0135I77AOevVUA7Gn11O3fwZBD2D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">OtterBox Defender Series Case for iPad mini - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a durable, protective case designed to shield an iPad mini from drops, scratches, and impacts.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1l6DsG_bfuebml3U8KupIHWCXKh0Ig55T&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Black iPad Mini TPU Skin Case Cover</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a flexible, protective cover made from thermoplastic polyurethane (TPU) designed to safeguard an iPad Mini from scratches and minor impacts.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ItTe0135I77AOevVUA7Gn11O3fwZBD2D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">OtterBox Defender Series Case for iPad mini - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a durable, protective case designed to shield an iPad mini from drops, scratches, and impacts.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12cDMYY6riANRrw0khoBI45XxkZYdynDG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tech Armor Apple iPad Mini with Retina Display / iPad mini Anti-Glare/Anti-Fingerprint (Matte) Screen Protectors [3Pack] Lifetime Warranty</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of three matte screen protectors designed to reduce glare and fingerprints on the Apple iPad Mini with Retina Display, backed by a lifetime warranty.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_118_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_118_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_118_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_119",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_119_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1d8w0IXcqhvqVxV0R-eXAmjaiA8YH4ofL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Arkon Replacement Upgrade or Additional Windshield Dashboard Suction Mounting Pedestal for Garmin nuvi 40 50 1450 1200 GPS</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A windshield dashboard suction mount designed to securely hold and position various Garmin nuvi GPS models in a vehicle.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1D63Od14Es3qtV5eO4oT2WhrNRZfmnPkM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BestDealUSA Black Suction Cup Mount GPS Holder for Garmin Nuvi Car Windscreen Windshield</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable mount with a suction cup designed to securely attach a Garmin Nuvi GPS device to a car's windscreen or windshield for easy viewing and navigation while driving.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1d8w0IXcqhvqVxV0R-eXAmjaiA8YH4ofL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Arkon Replacement Upgrade or Additional Windshield Dashboard Suction Mounting Pedestal for Garmin nuvi 40 50 1450 1200 GPS</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A windshield dashboard suction mount designed to securely hold and position various Garmin nuvi GPS models in a vehicle.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12ukdO3A5MbBtaxo7YQrb_WrIwyvrc-on&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">i.Trek Vent Mount for Garmin Nuvi (Silver)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A silver vehicle mount designed to securely hold a Garmin Nuvi GPS system in your car.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1okrrdU4gtXTkSfCfpCpj4mkWn8Rqc8xJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Flexpod Flexible Tripod</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile and adjustable camera support system designed to securely hold cameras in various positions and environments.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_119_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_119_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_119_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

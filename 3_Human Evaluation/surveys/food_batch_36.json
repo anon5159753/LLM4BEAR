@@ -1,0 +1,888 @@
+{
+  "title": "Food Bundle Comparison \u2014 Batch 36",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "food_pair_700",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_700_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1d-C30CR0KhkDhQOcI8WK5N3h6Kx-Xfz0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Grove Square Cappuccino, French Vanilla, 24-Count Single Serve Cup for Keurig K-Cup Brewers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box of 24 single-serve cups filled with French vanilla cappuccino mix, designed for use in Keurig K-Cup brewers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TlUE9XwXHdNX7d77zO1HvxXhmR6vn-ok&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Keurig, The Original Donut Shop, 50 Count K-Cup Packs</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box containing 50 single-serve K-Cup pods of coffee designed for use in Keurig brewing machines, offering a classic donut shop coffee experience.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TlUE9XwXHdNX7d77zO1HvxXhmR6vn-ok&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Keurig, The Original Donut Shop, 50 Count K-Cup Packs</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box containing 50 single-serve K-Cup pods of coffee designed for use in Keurig brewing machines, offering a classic donut shop coffee experience.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jNq9o1fpcV_qWnaSfbJdC5oLILUZWox_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kelloggs Printed Fun Pop Tarts Frosted Sugar Cookie - Limited Edition, 12 Pastries, 21.2 oz Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Frosted sugar cookie-flavored toaster pastries in a limited edition box, featuring a fun design and containing 12 individual pastries.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EjQ72BU_s6-j3bj2PsJue4bKRe2yMMDk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Coffee-mate Original, 11 Ounce Jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy, non-dairy coffee creamer that enhances the flavor of coffee with a smooth and rich taste.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_700_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_700_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_700_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_701",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_701_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12fNdStLW6PAwZUCxXuRfYDWAdNzAeSbJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tang Orange Energy Powdered Beverage Mix, 25.4-Ounce (Pack of 4)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a powdered beverage mix that, when combined with water, creates a refreshing orange-flavored drink, designed to provide energy and hydration.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pTeniXtUfXN7uPqg9kAlmo4J3hdAK8co&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kool-Aid Aguas Frescas Pina Pineapple Unsweetened Soft Drink Mix, 0.14-Ounce Packets (Pack of 96)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of unsweetened powdered drink mix that flavors water with a pineapple taste, designed for making refreshing beverages.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12fNdStLW6PAwZUCxXuRfYDWAdNzAeSbJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tang Orange Energy Powdered Beverage Mix, 25.4-Ounce (Pack of 4)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a powdered beverage mix that, when combined with water, creates a refreshing orange-flavored drink, designed to provide energy and hydration.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=142r_B5RoH50zM8fS5MnAZuvvzfWY_lky&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Propel Zero Calorie Nutrient Enhanced Water Beverage Mix (36 packets) 3 different flavors (berry, grape &amp; kiwi strawberry)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A powdered drink mix that enhances water with zero calories and essential nutrients, available in berry, grape, and kiwi strawberry flavors, packaged in 36 individual packets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ymvjj6bHBkr_EmrKnx8Ap0pgFPFzoQe1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ZipFizz Grape 20 tubes</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient energy drink mix in grape flavor, packaged in 20 tubes for easy on-the-go hydration and energy boost.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_701_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_701_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_701_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_702",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_702_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a_rlvGFaWzf8hlTfjiQaxd-1-axKWCr_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peak Dry Whole Milk Powder, 900-Grams</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile dairy product that provides the rich taste of whole milk in a convenient powdered form, ideal for baking, cooking, or adding to beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MbnOCTNutZmqzVmvaCbUofJ-rHVmF9XI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Stevia Raw Sweetener, 9.7 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A natural sugar substitute derived from the stevia plant, this product offers a low-calorie sweetening option for cooking and baking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vawzwGAL8zFyqFCMQmzox6TSQ4YqLvKB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Thai Iced Tea Traditional Restaurant Style,16 oz (1LB.)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a ready-to-drink, sweetened iced tea blend that captures the rich flavors of traditional Thai tea, served in a convenient 16 oz format.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a_rlvGFaWzf8hlTfjiQaxd-1-axKWCr_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peak Dry Whole Milk Powder, 900-Grams</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile dairy product that provides the rich taste of whole milk in a convenient powdered form, ideal for baking, cooking, or adding to beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F1l2yPAPKVwVxeEDNG5DYRQqNPhEceoa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Citric Acid, 2 Lbs, 100% Pure, Powdered Crystals, Bulk, Food-grade</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile food-grade ingredient commonly used as a natural preservative, flavor enhancer, and cleaning agent, available in powdered crystal form.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jjnQTjOUHOlEdek5IK0Xm1x8_MGSP6Hu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Glucose 16 oz.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sweetener in liquid form, this product is commonly used to enhance the flavor of foods and beverages or as an ingredient in baking and cooking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MbnOCTNutZmqzVmvaCbUofJ-rHVmF9XI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Stevia Raw Sweetener, 9.7 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A natural sugar substitute derived from the stevia plant, this product offers a low-calorie sweetening option for cooking and baking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vawzwGAL8zFyqFCMQmzox6TSQ4YqLvKB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Thai Iced Tea Traditional Restaurant Style,16 oz (1LB.)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a ready-to-drink, sweetened iced tea blend that captures the rich flavors of traditional Thai tea, served in a convenient 16 oz format.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_702_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_702_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_702_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_703",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_703_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a_rlvGFaWzf8hlTfjiQaxd-1-axKWCr_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peak Dry Whole Milk Powder, 900-Grams</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile dairy product that provides the rich taste of whole milk in a convenient powdered form, ideal for baking, cooking, or adding to beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1R9bFujyyRlSUPR99IDjF99B4Fzx8JWzK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Harmony House Foods Freeze-Dried Whole Corn (8 oz, Quart Size Jar)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a quart-sized jar of freeze-dried whole corn, ideal for camping and outdoor cooking, providing a lightweight and long-lasting vegetable option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a_rlvGFaWzf8hlTfjiQaxd-1-axKWCr_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peak Dry Whole Milk Powder, 900-Grams</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile dairy product that provides the rich taste of whole milk in a convenient powdered form, ideal for baking, cooking, or adding to beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Vahj0Nf4ryoCh4TFYyYSI6llo4t7z9rM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Barren Creek Beef Jerky (Smoky, 8 oz Bag)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 8 oz bag contains smoky-flavored beef jerky, a protein-rich snack made from dried and seasoned beef, ideal for on-the-go snacking or outdoor activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18Oagf7JbWjQq-o0Tk0er5brIXAgzlc2g&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Success Boil-In-Bag White 4 Ct Rice, 14 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains four pouches of pre-measured white rice that cook conveniently in boiling water, providing a quick and easy side dish or base for meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1R9bFujyyRlSUPR99IDjF99B4Fzx8JWzK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Harmony House Foods Freeze-Dried Whole Corn (8 oz, Quart Size Jar)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a quart-sized jar of freeze-dried whole corn, ideal for camping and outdoor cooking, providing a lightweight and long-lasting vegetable option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cmCzx4sMyo_xJFCtcm8cskSYjQpmtZvL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sahale Snacks Soledad Blend, 5-Ounce Pouches (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six 5-ounce pouches containing a blend of nuts, seeds, and dried fruits, perfect for on-the-go snacking or adding to recipes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_703_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_703_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_703_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_704",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_704_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pZ3Zvno1y8rC8OFjxQ_PIcWmQC7-YLmC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nutiva Organic Virgin Coconut Oil, 54-Ounce Jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile cooking oil extracted from fresh coconuts, ideal for baking, frying, or adding a tropical flavor to dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SYLwdKWkAWC3--v2YG-EdLdfPfGgu1Tn&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kevala Organic Coconut Butter 16oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy spread made from pure organic coconut flesh, perfect for adding rich coconut flavor to recipes or enjoyed on its own.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y_zaEqNN8cB4dvuRKtJt5oB9HIueAUaL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nuts 'N More Almond Butter, Cinnamon Raisin, 16 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy almond butter blended with cinnamon and raisins, perfect for spreading on toast or adding to smoothies for a flavorful boost.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a_rlvGFaWzf8hlTfjiQaxd-1-axKWCr_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peak Dry Whole Milk Powder, 900-Grams</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile dairy product that provides the rich taste of whole milk in a convenient powdered form, ideal for baking, cooking, or adding to beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MbnOCTNutZmqzVmvaCbUofJ-rHVmF9XI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Stevia Raw Sweetener, 9.7 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A natural sugar substitute derived from the stevia plant, this product offers a low-calorie sweetening option for cooking and baking.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_704_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_704_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_704_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_705",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_705_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ju7djMp9CoqNM-yk3QFyJGvQ9zbjJshe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vita Coco Coconut Water with Pineapple, 11.1-Ounce Tetra Paks (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 11.1-ounce Tetra Paks containing refreshing coconut water blended with pineapple for a tropical taste and hydration.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1C_BmWc0A7e9RXFlDu1UglJlqUD2zrmdS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vita Coco 100% Pure Coconut Water, 17-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 17-ounce boxes of pure coconut water, offering a natural and refreshing beverage option rich in electrolytes and hydration.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1s310qfxZee0B3pjkVaPme70Nvq6LEApp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Naked 100% Naked Coconut Water, 11.2-Ounce Containers (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 11.2-ounce containers of pure coconut water, offering a refreshing and hydrating beverage option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OOqcY_3O_4VgTybqbAeGfdcW_O1TA_ZZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Plum Organics Just Fruit, Mangos, 3.5-Ounce Pouches (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are convenient, single-serving pouches of pureed mango designed for babies, providing a healthy fruit option for feeding on the go.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g9Ny8-Ag6VUlce63O_Joz_jYYB_iX95I&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kashi Heart to Heart Instant Oatmeal, Apple Cinnamon, 8-Count 12.1 oz  Boxes (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of instant oatmeal packets featuring apple cinnamon flavor, designed for quick and convenient breakfast preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ju7djMp9CoqNM-yk3QFyJGvQ9zbjJshe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vita Coco Coconut Water with Pineapple, 11.1-Ounce Tetra Paks (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 11.1-ounce Tetra Paks containing refreshing coconut water blended with pineapple for a tropical taste and hydration.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iIdSgvvKdihvZkC8PhwzOjAGrjLGrRer&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Happy Baby Organic Baby Food 1 Starting Solids, Fresh Mango, 3.5-Ounce (Pack of 16)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 16 individual 3.5-ounce jars of organic baby food made from fresh mango, designed for infants starting on solid foods.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Cp4kBDHbzpJu4fJJGvatH6wsE_F0QUa9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gerber 2nd Foods, Pears &amp; Cinnamon with Oatmeal, 2-Count, 3.5-Ounce Containers (Pack of 8)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of eight packs of 3.5-ounce containers containing a blend of pears, cinnamon, and oatmeal, designed as a nutritious meal option for babies.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1C_BmWc0A7e9RXFlDu1UglJlqUD2zrmdS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vita Coco 100% Pure Coconut Water, 17-Ounce Boxes (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 17-ounce boxes of pure coconut water, offering a natural and refreshing beverage option rich in electrolytes and hydration.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1s310qfxZee0B3pjkVaPme70Nvq6LEApp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Naked 100% Naked Coconut Water, 11.2-Ounce Containers (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 11.2-ounce containers of pure coconut water, offering a refreshing and hydrating beverage option.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_705_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_705_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_705_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_706",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_706_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=165KpuXaGMU9hhnds-oqibYhaYXOZK94K&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hoosier Hill Farm Sour Cream Powder, 1 lb.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a shelf-stable powdered sour cream that can be reconstituted with water for use in cooking, baking, or as a topping.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AoUsFyQLrrZccf7rrnOcU6PuMjgs6w_e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hoosier Hill Farm Cheddar Cheez Powder, 1 lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile cheese powder that can be used to add a rich cheddar flavor to recipes, snacks, and sauces.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13Kte-E71c3xMm-zJvDlrGvyrkTHbHWxU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheez-It Crackers, Provolone, 12.4 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Savory baked cheese crackers flavored with provolone, perfect for snacking on their own or pairing with dips.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=165KpuXaGMU9hhnds-oqibYhaYXOZK94K&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hoosier Hill Farm Sour Cream Powder, 1 lb.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a shelf-stable powdered sour cream that can be reconstituted with water for use in cooking, baking, or as a topping.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AoUsFyQLrrZccf7rrnOcU6PuMjgs6w_e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hoosier Hill Farm Cheddar Cheez Powder, 1 lb</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile cheese powder that can be used to add a rich cheddar flavor to recipes, snacks, and sauces.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_706_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_706_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_706_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_707",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_707_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FyZoIbCu3s7Hir23yeJa6duSHW7gDugH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Now Foods Certified Organic Golden Flax Seeds, 16 ozs Bag,  (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains two 16-ounce bags of organic golden flax seeds, a nutritious source of omega-3 fatty acids, fiber, and lignans, commonly used in baking, smoothies, and as a dietary supplement for health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1McrvT69MJ_DvbGgIiZnPG4qZ58QJ6Trf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lundberg Wild Blend, Gourmet Blend of Wild and Whole Grain Brown Rice, Gluten Free, 16-Ounce Bags (Pack of 6) Package May Vary</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a gluten-free gourmet blend of wild and whole grain brown rice, packaged in 16-ounce bags, perfect for adding variety and nutrition to meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OS7r4ExeGTQ9mzOWhXPjgN918T-d90X6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gourmet House Wild Rice, 16-Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six 16-ounce bags of high-quality wild rice, perfect for adding a nutty flavor and chewy texture to a variety of dishes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FyZoIbCu3s7Hir23yeJa6duSHW7gDugH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Now Foods Certified Organic Golden Flax Seeds, 16 ozs Bag,  (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains two 16-ounce bags of organic golden flax seeds, a nutritious source of omega-3 fatty acids, fiber, and lignans, commonly used in baking, smoothies, and as a dietary supplement for health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1McrvT69MJ_DvbGgIiZnPG4qZ58QJ6Trf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lundberg Wild Blend, Gourmet Blend of Wild and Whole Grain Brown Rice, Gluten Free, 16-Ounce Bags (Pack of 6) Package May Vary</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a gluten-free gourmet blend of wild and whole grain brown rice, packaged in 16-ounce bags, perfect for adding variety and nutrition to meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JyODmH8vA63MjyTJuBb5dGxXAnttCV4k&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Amy's Organic Lentil Soup, 14.5-Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 14.5-ounce cans of organic lentil soup, perfect for a convenient and nutritious meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jFX2nwiRGUixK5B9uFn1qcmKZmGBh7Cr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trader Joe's 21 Seasoning Salute (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile blend of 21 different herbs and spices designed to enhance the flavor of a wide variety of dishes without added salt.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_707_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_707_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_707_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_708",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_708_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1D0XmONIDwpMPLhYmcmI9k7X-36nSUDK6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nature Valley Oats Honey Bar, 48-1.5 oz 2 bar pouches, total 96 Bars</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of 96 individually wrapped granola bars made with oats and honey, ideal for on-the-go snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15gbl6S2MTaB5E7AuLXcKyxbEPthetafv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fruit Me Up Apples Fruit Pouch, Peaches and Apricots, 16 Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of six fruit pouches containing a blend of apples, peaches, and apricots, perfect for on-the-go snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jf3ls65YCsxWnNRaGxc18eUOOdn6UQt5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KIND Bar Variety Pack, 12-Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A selection of nutritious snack bars featuring a variety of flavors, each made with wholesome ingredients like nuts, fruits, and grains, packaged in a convenient 12-count box.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XnP2zy59PweL0TTPUN-idTj3Q2QuO5AT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trident Splash Sugar Free Gum, Strawberry - Lime, 9-Count (Pack of 10)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of sugar-free chewing gum featuring a refreshing strawberry-lime flavor, available in a convenient 9-count format, with a total of 10 packs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-v2T28ZUj7BR8Cu3rBvEZs1KH9I9atKs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">McCormick Grill Mates Smokehouse Maple Seasoning, 15.5-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A savory blend of spices with a hint of sweetness, this seasoning is designed to enhance the flavor of grilled meats and vegetables.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jFX2nwiRGUixK5B9uFn1qcmKZmGBh7Cr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trader Joe's 21 Seasoning Salute (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile blend of 21 different herbs and spices designed to enhance the flavor of a wide variety of dishes without added salt.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_708_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_708_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_708_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_709",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_709_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FyZoIbCu3s7Hir23yeJa6duSHW7gDugH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Now Foods Certified Organic Golden Flax Seeds, 16 ozs Bag,  (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains two 16-ounce bags of organic golden flax seeds, a nutritious source of omega-3 fatty acids, fiber, and lignans, commonly used in baking, smoothies, and as a dietary supplement for health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OjIRdR7SdfJVULe-Oo57jSGsOk_B6IJV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of two 15-ounce jars of organic extra virgin coconut oil, ideal for cooking, baking, and as a versatile ingredient in various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OS7r4ExeGTQ9mzOWhXPjgN918T-d90X6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gourmet House Wild Rice, 16-Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six 16-ounce bags of high-quality wild rice, perfect for adding a nutty flavor and chewy texture to a variety of dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jFX2nwiRGUixK5B9uFn1qcmKZmGBh7Cr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trader Joe's 21 Seasoning Salute (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile blend of 21 different herbs and spices designed to enhance the flavor of a wide variety of dishes without added salt.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XnP2zy59PweL0TTPUN-idTj3Q2QuO5AT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trident Splash Sugar Free Gum, Strawberry - Lime, 9-Count (Pack of 10)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of sugar-free chewing gum featuring a refreshing strawberry-lime flavor, available in a convenient 9-count format, with a total of 10 packs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FyZoIbCu3s7Hir23yeJa6duSHW7gDugH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Now Foods Certified Organic Golden Flax Seeds, 16 ozs Bag,  (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains two 16-ounce bags of organic golden flax seeds, a nutritious source of omega-3 fatty acids, fiber, and lignans, commonly used in baking, smoothies, and as a dietary supplement for health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OjIRdR7SdfJVULe-Oo57jSGsOk_B6IJV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of two 15-ounce jars of organic extra virgin coconut oil, ideal for cooking, baking, and as a versatile ingredient in various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1McrvT69MJ_DvbGgIiZnPG4qZ58QJ6Trf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lundberg Wild Blend, Gourmet Blend of Wild and Whole Grain Brown Rice, Gluten Free, 16-Ounce Bags (Pack of 6) Package May Vary</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a gluten-free gourmet blend of wild and whole grain brown rice, packaged in 16-ounce bags, perfect for adding variety and nutrition to meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-v2T28ZUj7BR8Cu3rBvEZs1KH9I9atKs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">McCormick Grill Mates Smokehouse Maple Seasoning, 15.5-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A savory blend of spices with a hint of sweetness, this seasoning is designed to enhance the flavor of grilled meats and vegetables.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fsGuerity-V8F7dweF842-tNiHe29GPd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lawry's Seasoned Salt, 5 Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A blend of salt and various spices designed to enhance the flavor of a wide range of dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OS7r4ExeGTQ9mzOWhXPjgN918T-d90X6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gourmet House Wild Rice, 16-Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six 16-ounce bags of high-quality wild rice, perfect for adding a nutty flavor and chewy texture to a variety of dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jFX2nwiRGUixK5B9uFn1qcmKZmGBh7Cr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trader Joe's 21 Seasoning Salute (Pack of 2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile blend of 21 different herbs and spices designed to enhance the flavor of a wide variety of dishes without added salt.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_709_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_709_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_709_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_710",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_710_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q_K7GUeYsp-ETxArkWN6gqxyhGiOGZHC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Celestial Seasonings Lemon Zinger Herbal Tea, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 24 K-Cup portions of herbal tea with a zesty lemon flavor, designed for use in Keurig brewers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Fg9xwjgqCfXLMaaVo2fcWFXNzjeX-gs1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Twinings English Breakfast Tea, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 24 K-Cups containing robust black tea, specifically designed for use with Keurig brewers, perfect for a quick and convenient cup of English breakfast tea.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10QcsfQKyRUiX2sMTkUVhvKxqhpdcKsDN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Harney &amp; Sons Chai, Spicy Black Tea Blend, 20 Count Tea Bags</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavorful blend of black tea infused with spices, offered in convenient tea bags for easy brewing.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q_K7GUeYsp-ETxArkWN6gqxyhGiOGZHC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Celestial Seasonings Lemon Zinger Herbal Tea, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 24 K-Cup portions of herbal tea with a zesty lemon flavor, designed for use in Keurig brewers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ji7XoejqLP-uj9_Nq0EG5yXYZ6rmyDNz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Grove Square Caramel Apple Cider, Sugar Free, 18-Count Single Serve Cup for Keurig K-Cup Brewers (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 54 single-serve cups of sugar-free caramel apple cider designed for use with Keurig K-Cup brewers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Fg9xwjgqCfXLMaaVo2fcWFXNzjeX-gs1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Twinings English Breakfast Tea, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 24 K-Cups containing robust black tea, specifically designed for use with Keurig brewers, perfect for a quick and convenient cup of English breakfast tea.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_710_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_710_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_710_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_711",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_711_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o0KEXRrSIIEU6vFxpAQLwSk0z9Vmbm9C&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nature's Way Coconut Oil, 16 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 16-ounce jar contains pure coconut oil, commonly used for cooking, baking, and as a health supplement due to its medium-chain fatty acids and potential health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zsargGsEmE8eQ26DLurXrwLV0XW14oy5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tamari Soy Sauce, Wheat Free, Organic, 10 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A gluten-free, organic soy sauce alternative made without wheat, perfect for enhancing the flavor of Asian dishes and marinades.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o0KEXRrSIIEU6vFxpAQLwSk0z9Vmbm9C&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nature's Way Coconut Oil, 16 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 16-ounce jar contains pure coconut oil, commonly used for cooking, baking, and as a health supplement due to its medium-chain fatty acids and potential health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FFS6RUnjNW7fK9F_xvKKWyy7ZLIvFHSl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mae Ploy Thai Panang Curry Paste - 14 oz jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 14 oz jar contains a flavorful Thai curry paste made with a blend of spices and herbs, ideal for creating rich and aromatic Panang curry dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VdJB6h9XStp-8x8jbsspAnwd8gRxo7df&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Spice Hunter Thai Seasoning Blend, 2-Ounce Jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavorful blend of herbs and spices specifically crafted to enhance Thai dishes, available in a convenient 2-ounce jar.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_711_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_711_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_711_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_712",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_712_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JoGmniuMXYxlThIMF_Wv8q_GsvF-ycTZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chef-mate Sauce, Basic Cheddar Cheese, 106-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy processed cheese sauce ideal for nachos, casseroles, and dipping, packaged in a large 106-ounce container for convenience.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14wFOcQX0C1LNK2iP2FOv8m5Oh8V9caet&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trenton Farms Sauce, Cheddar Cheese, 106 Ounce (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bulk pack of cheddar cheese sauce, ideal for dipping or drizzling over snacks like tortilla chips.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JoGmniuMXYxlThIMF_Wv8q_GsvF-ycTZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chef-mate Sauce, Basic Cheddar Cheese, 106-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy processed cheese sauce ideal for nachos, casseroles, and dipping, packaged in a large 106-ounce container for convenience.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Kzprua9yZ2pFhmA6ixxJFOzKwNZxngYw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Garden of Eatin' Tortilla Chips, Sprouted Blues, 7.5 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are organic tortilla chips made from sprouted blue corn, packaged in a 7.5-ounce bag, and sold in a pack of 12 for convenient snacking.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_712_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_712_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_712_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_713",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_713_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hheJM1S_e3zxl_v_iHB3Jk6rI0XPNNTv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Faeries Finest Lime-Garlic Salt, 5.4 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A blend of lime and garlic flavors combined with salt, this seasoning enhances the taste of various dishes, making it ideal for marinades, grilling, and seasoning snacks.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dSSi2WTBA6E7YFnmavy9JD1hZkjAGnwx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Durkee Super Chef Seasoning Salt, 5-Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 5-pound container of seasoning salt blends various spices to enhance the flavor of dishes, making it ideal for seasoning meats, vegetables, and more.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hheJM1S_e3zxl_v_iHB3Jk6rI0XPNNTv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Faeries Finest Lime-Garlic Salt, 5.4 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A blend of lime and garlic flavors combined with salt, this seasoning enhances the taste of various dishes, making it ideal for marinades, grilling, and seasoning snacks.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fCXCbiEL4Su5otd6aQ8HNTkPaHT1xhzx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Simply Organic Cilantro Certified Organic, 0.78-Ounce Container</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 0.78-ounce container of certified organic cilantro flakes, ideal for adding fresh, herbal flavor to a variety of dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DlXJCeBjPQPUMlR4Dd8pbFjH1Z5xKXcY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Spice Hunter Paprika, Smoked, Ground, 1.8-Ounce Jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 1.8-ounce jar of smoked ground paprika, a spice that adds a rich, smoky flavor and vibrant color to dishes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_713_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_713_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_713_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_714",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_714_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19bFu5_4XgGmFxDD6CWLJuFc7INUNfBTf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lowrey's Beef Jerky, Hickory Smoked, 18-Count Sticks (Pack of 8)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This pack contains 144 hickory smoked beef jerky sticks, perfect for on-the-go snacking or as a protein-rich treat.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1MMb77igNq7w7hmt22l8S69yVb30oIJ51&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Planters Nutrition, 12 count, 1.5 ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of individually wrapped 1.5-ounce servings of mixed nuts designed for on-the-go snacking, providing a convenient source of protein and healthy fats.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19bFu5_4XgGmFxDD6CWLJuFc7INUNfBTf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lowrey's Beef Jerky, Hickory Smoked, 18-Count Sticks (Pack of 8)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This pack contains 144 hickory smoked beef jerky sticks, perfect for on-the-go snacking or as a protein-rich treat.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1K26YtPWmlTFFT_j57LAj94xHPvivuhdi&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vacuum Freeze Dried Mangosteen Crispy Snack High Nutrition Real Fruit 100% Net Wt 30 G (1.05 Oz) X 3 bags</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are three bags of crispy snacks made from real mangosteen, preserved through vacuum freeze-drying to retain high nutritional value.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_714_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_714_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_714_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_715",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_715_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bIQgCVKpA9x5CUEEmdk34BJGy6Lrp4rf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Keebler El Duende Cookies, Coconut, 11 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 12 boxes of coconut-flavored cookies, offering a sweet and crunchy snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-GRtodDHTIge_Pbj-LcJUan3GSUja2fE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Keebler El Duende Sandwich Cookies, Lemon, 13 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are lemon-flavored sandwich cookies filled with cream, packaged in a 13-ounce box and sold in a pack of 12.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bIQgCVKpA9x5CUEEmdk34BJGy6Lrp4rf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Keebler El Duende Cookies, Coconut, 11 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 12 boxes of coconut-flavored cookies, offering a sweet and crunchy snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hSyZ3iOOS0ms4WRne23uLL8jS4jW8BvD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peeled Snacks Apple-2-the-core, 1.23-Ounce Boxes (Pack of 10)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually packaged, dried apple snacks that offer a convenient and healthy on-the-go option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-GRtodDHTIge_Pbj-LcJUan3GSUja2fE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Keebler El Duende Sandwich Cookies, Lemon, 13 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are lemon-flavored sandwich cookies filled with cream, packaged in a 13-ounce box and sold in a pack of 12.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_715_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_715_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_715_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_716",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_716_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BYnTchGcdKEccnvMmAHikSe5BQIsnbuN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Sprout House Dozen Certified Organic Non-gmo Sprouting Seeds Mixes Sampler Small Quantities of Each Seed Mix Holly's, Rainbow Bean Mix, Wisdom Blend, Salad Mix, Veggie Queen Mix, Hi Power Protein Mix, Bean Salad Mix, Lentils Together, Delaware County Mix, Jills Mix, Tasty Broccoli, Clover Mix - Contains These and More: Alfalfa, Radish, Clover, Broccoli, Mung, Green Pea, Fenugreek, Garbanzo, Adzuki,</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a sampler pack of certified organic, non-GMO sprouting seed mixes, featuring a variety of seeds for home gardening and healthy sprouting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uZFDNOSvX1JAcerwIyqWh-4re9jxShL4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kirkland Signature Rice Crackers, 48 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A large package of crispy rice crackers, ideal for snacking or serving with dips and toppings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1r5ZKVDgc4XsHNIQfRaT5Sge2tmjWx1m7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Organic Sprouting Seeds Mung Bean 5 Pounds - Todd's Seeds</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are five pounds of organic mung bean seeds specifically designed for sprouting, ideal for growing nutrient-rich sprouts at home.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1A7gCPIGFY2X9dD1eQQXaGiOpMlTuJVzs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sprout-Ease - Econo-Sprouter Toppers Set - 3 Piece(s)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes three specialized lids designed for sprouting seeds at home, allowing for easy rinsing and drainage to promote healthy growth.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hce-O7WQmELkeInNDt2pGrT7nOZucrYE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rice Seasoning Furikake 8 Variety Furikake Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes eight different varieties of furikake, a Japanese seasoning mix typically made from seaweed, sesame seeds, and various flavor enhancers, designed to add taste and texture to rice and other dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_FPJBOrblAMH12jdlit9t6msQwTnGStP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Alaska Smokehouse Pepper Garlic Salmon Jerky, 6 -Ounce Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 6-ounce bag of smoked salmon jerky seasoned with pepper and garlic, offering a flavorful and protein-rich snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tUI8GDQqrRb6wmYYIUNPexWrr5Bel7mg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hawaiian Mix Arare Crackers From Tomoe Brand</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A savory snack featuring a blend of crunchy rice crackers seasoned with traditional Hawaiian flavors, perfect for munching on its own or as part of a party mix.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13R6xqShPjw624wrG9pEjmyGUzgcDgCo7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kokuho Rose Rice, 15-Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A premium short-grain rice known for its sticky texture and sweet flavor, ideal for sushi, rice bowls, and other Asian dishes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BYnTchGcdKEccnvMmAHikSe5BQIsnbuN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Sprout House Dozen Certified Organic Non-gmo Sprouting Seeds Mixes Sampler Small Quantities of Each Seed Mix Holly's, Rainbow Bean Mix, Wisdom Blend, Salad Mix, Veggie Queen Mix, Hi Power Protein Mix, Bean Salad Mix, Lentils Together, Delaware County Mix, Jills Mix, Tasty Broccoli, Clover Mix - Contains These and More: Alfalfa, Radish, Clover, Broccoli, Mung, Green Pea, Fenugreek, Garbanzo, Adzuki,</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a sampler pack of certified organic, non-GMO sprouting seed mixes, featuring a variety of seeds for home gardening and healthy sprouting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hce-O7WQmELkeInNDt2pGrT7nOZucrYE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rice Seasoning Furikake 8 Variety Furikake Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes eight different varieties of furikake, a Japanese seasoning mix typically made from seaweed, sesame seeds, and various flavor enhancers, designed to add taste and texture to rice and other dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13R6xqShPjw624wrG9pEjmyGUzgcDgCo7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kokuho Rose Rice, 15-Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A premium short-grain rice known for its sticky texture and sweet flavor, ideal for sushi, rice bowls, and other Asian dishes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_716_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_716_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_716_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_717",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_717_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hce-O7WQmELkeInNDt2pGrT7nOZucrYE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rice Seasoning Furikake 8 Variety Furikake Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes eight different varieties of furikake, a Japanese seasoning mix typically made from seaweed, sesame seeds, and various flavor enhancers, designed to add taste and texture to rice and other dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13R6xqShPjw624wrG9pEjmyGUzgcDgCo7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kokuho Rose Rice, 15-Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A premium short-grain rice known for its sticky texture and sweet flavor, ideal for sushi, rice bowls, and other Asian dishes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uZFDNOSvX1JAcerwIyqWh-4re9jxShL4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kirkland Signature Rice Crackers, 48 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A large package of crispy rice crackers, ideal for snacking or serving with dips and toppings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hce-O7WQmELkeInNDt2pGrT7nOZucrYE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rice Seasoning Furikake 8 Variety Furikake Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes eight different varieties of furikake, a Japanese seasoning mix typically made from seaweed, sesame seeds, and various flavor enhancers, designed to add taste and texture to rice and other dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13R6xqShPjw624wrG9pEjmyGUzgcDgCo7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kokuho Rose Rice, 15-Pound</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A premium short-grain rice known for its sticky texture and sweet flavor, ideal for sushi, rice bowls, and other Asian dishes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_717_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_717_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_717_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_718",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_718_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zv0K4erkkLnXTvzzO48Ja8UQ9xkngEvA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nick's Sticks Grass-Fed Beef Snack Sticks (6 1.7oz packages of 2 sticks)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are protein-packed, snack-sized beef sticks made from grass-fed beef, conveniently packaged in six 1.7-ounce sets of two for on-the-go enjoyment.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BHsdXXvL8UXEEpDwR_LpYnxyTdspD6pg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Buffalo Bills 3.5oz Spicy Country Cut Beef Jerky Pack (moist &amp; tender spicy beef jerky)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of moist and tender spicy beef jerky, featuring a country cut style that offers a flavorful and satisfying snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SX8GwqBOo920Ha_TfBvTyOZcTBEstq2E&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Justin's Nut Butter Natural Honey Almond Butter, 1.15 ounce Squeeze Packs, 10 Count,  (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of single-serving almond butter with natural honey flavor, perfect for on-the-go snacking or adding to meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_rMWzg9B3ojj8HqjX4WqCYz_OfYcPEhD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Peter Rabbit Organics, Organic Apple and Grape 100% Pure Fruit Snack, 4-Ounce Pouches (Pack of 10)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are convenient 4-ounce pouches of 100% pure organic fruit snacks made from apples and grapes, designed for babies and toddlers as healthy on-the-go meals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AFYvtdPpBEyoXjWusJcu6y8zQN2mQljS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Clif Bars: Chocolate Chip Peanut Crunch of 2.4 Oz - 12 Bars(2 boxes)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 energy bars featuring a blend of chocolate and peanut flavors, designed to provide quick nourishment and sustained energy for active individuals.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zv0K4erkkLnXTvzzO48Ja8UQ9xkngEvA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nick's Sticks Grass-Fed Beef Snack Sticks (6 1.7oz packages of 2 sticks)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are protein-packed, snack-sized beef sticks made from grass-fed beef, conveniently packaged in six 1.7-ounce sets of two for on-the-go enjoyment.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BHsdXXvL8UXEEpDwR_LpYnxyTdspD6pg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Buffalo Bills 3.5oz Spicy Country Cut Beef Jerky Pack (moist &amp; tender spicy beef jerky)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of moist and tender spicy beef jerky, featuring a country cut style that offers a flavorful and satisfying snack option.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_718_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_718_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_718_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_719",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_719_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1z5XI3ps2byKml23ySBQaMU0mi0043nrm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nick's Sticks Free Range Turkey Snack Sticks (1.7oz 6  packages of 2 sticks)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are protein-rich, free-range turkey snack sticks packaged in six sets of two, ideal for a convenient, healthy on-the-go snack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L9soEQ3IWA4hpvgTvMGMPQFQbGH7WFwX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ostrim Beef/Elk Snack Stick, Sweet and Spicy, 1.5 Ounce (Pack of 10)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of ten 1.5-ounce meat snacks made from a blend of beef and elk with a sweet and spicy flavor profile.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1z5XI3ps2byKml23ySBQaMU0mi0043nrm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nick's Sticks Free Range Turkey Snack Sticks (1.7oz 6  packages of 2 sticks)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are protein-rich, free-range turkey snack sticks packaged in six sets of two, ideal for a convenient, healthy on-the-go snack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uSUO4z8W930vjtNDzt4oXbKenyPXbqeO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tanka Bar,natural Buffalo Cranberry Bar, 1-Ounce Bar (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12, 1-ounce bars made from natural buffalo meat and cranberries, providing a protein-rich snack option with a unique sweet and savory flavor combination.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L9soEQ3IWA4hpvgTvMGMPQFQbGH7WFwX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ostrim Beef/Elk Snack Stick, Sweet and Spicy, 1.5 Ounce (Pack of 10)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of ten 1.5-ounce meat snacks made from a blend of beef and elk with a sweet and spicy flavor profile.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_719_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_719_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_719_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

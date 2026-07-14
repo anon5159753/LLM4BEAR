@@ -1,0 +1,888 @@
+{
+  "title": "Electronics Bundle Comparison \u2014 Batch 11",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "electronics_pair_200",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_200_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Zp1T7cGh1SX-a2nJkHFf6knYvnInMgVM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; 67mm ND Fader Neutral Density Adjustable Variable Filter (ND2 to ND400)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an adjustable camera lens filter that reduces light exposure, allowing for greater control over depth of field and motion blur in various lighting conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Pz2Fv5bParH73pvhZsu4YSRfZLkhKI9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sigma 18-250mm F3.5-6.3 DC MACRO HSM for Sony Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile zoom lens designed for Sony DSLR cameras, offering macro capabilities and a wide focal range from 18mm to 250mm with Hyper Sonic Motor for fast and quiet autofocus.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Zp1T7cGh1SX-a2nJkHFf6knYvnInMgVM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; 67mm ND Fader Neutral Density Adjustable Variable Filter (ND2 to ND400)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an adjustable camera lens filter that reduces light exposure, allowing for greater control over depth of field and motion blur in various lighting conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Pz2Fv5bParH73pvhZsu4YSRfZLkhKI9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sigma 18-250mm F3.5-6.3 DC MACRO HSM for Sony Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile zoom lens designed for Sony DSLR cameras, offering macro capabilities and a wide focal range from 18mm to 250mm with Hyper Sonic Motor for fast and quiet autofocus.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z7rvPMilXYI4749TwTJBqceFadNUB9zo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lowepro Nova 170 AW Camera Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective and weather-resistant bag designed to carry and organize a camera, lenses, and accessories.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_200_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_200_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_200_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_201",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_201_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Zp1T7cGh1SX-a2nJkHFf6knYvnInMgVM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; 67mm ND Fader Neutral Density Adjustable Variable Filter (ND2 to ND400)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an adjustable camera lens filter that reduces light exposure, allowing for greater control over depth of field and motion blur in various lighting conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1p_AfV4_dCxteFP0_wHuzlXY4LyC3tssj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LP-E8 2 Pack Of Replacement Batteries For Canon LP-E8 LPE8 1700MAH For Canon Rebel T5i, T4i, T2i 550D T3i, EOS 600D DSLR Digital Camera Includes 2 Batteries In Total + Free LCD Screen Protectors Bundle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bundle containing two replacement batteries with a capacity of 1700mAh each, compatible with Canon DSLR cameras such as the Rebel T5i, T4i, T3i, T2i, and 550D, along with free LCD screen protectors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kw9TPH6b8l2UKlmJRElQIuUYn1e2wk5z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Professional Cleaning Set for DSLR Cameras (Canon, Nikon, Pentax, Sony) - Includes: Purosol All Natural Lens Cleaner 1 oz. Bottle + Lens Cleaning Pen + Lens Brush + Air Blower Cleaner + 50 Sheets Lens Tissue Paper + 3 Pack Oversize and Original Premium MagicFiber Microfibers Cleaning Cloths</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comprehensive cleaning kit designed for DSLR cameras, featuring natural lens cleaner, a lens cleaning pen, brush, air blower, lens tissue paper, and microfiber cloths for maintaining optic clarity and performance.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1evl_PZ4cqmNvzGec2edyMpzdXmDP7tQs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">2(x) Replacement Batteries For Canon LP-E8 LPE8 For The Canon Rebel T3i T2i 550D Digital Camera.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of two replacement batteries compatible with Canon LP-E8, designed for use in Canon Rebel T3i, T2i, and 550D digital cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Zp1T7cGh1SX-a2nJkHFf6knYvnInMgVM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; 67mm ND Fader Neutral Density Adjustable Variable Filter (ND2 to ND400)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an adjustable camera lens filter that reduces light exposure, allowing for greater control over depth of field and motion blur in various lighting conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Pz2Fv5bParH73pvhZsu4YSRfZLkhKI9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sigma 18-250mm F3.5-6.3 DC MACRO HSM for Sony Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile zoom lens designed for Sony DSLR cameras, offering macro capabilities and a wide focal range from 18mm to 250mm with Hyper Sonic Motor for fast and quiet autofocus.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1p_AfV4_dCxteFP0_wHuzlXY4LyC3tssj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LP-E8 2 Pack Of Replacement Batteries For Canon LP-E8 LPE8 1700MAH For Canon Rebel T5i, T4i, T2i 550D T3i, EOS 600D DSLR Digital Camera Includes 2 Batteries In Total + Free LCD Screen Protectors Bundle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bundle containing two replacement batteries with a capacity of 1700mAh each, compatible with Canon DSLR cameras such as the Rebel T5i, T4i, T3i, T2i, and 550D, along with free LCD screen protectors.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_201_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_201_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_201_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_202",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_202_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Zp1T7cGh1SX-a2nJkHFf6knYvnInMgVM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; 67mm ND Fader Neutral Density Adjustable Variable Filter (ND2 to ND400)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an adjustable camera lens filter that reduces light exposure, allowing for greater control over depth of field and motion blur in various lighting conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1p_AfV4_dCxteFP0_wHuzlXY4LyC3tssj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LP-E8 2 Pack Of Replacement Batteries For Canon LP-E8 LPE8 1700MAH For Canon Rebel T5i, T4i, T2i 550D T3i, EOS 600D DSLR Digital Camera Includes 2 Batteries In Total + Free LCD Screen Protectors Bundle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bundle containing two replacement batteries with a capacity of 1700mAh each, compatible with Canon DSLR cameras such as the Rebel T5i, T4i, T3i, T2i, and 550D, along with free LCD screen protectors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z7rvPMilXYI4749TwTJBqceFadNUB9zo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lowepro Nova 170 AW Camera Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A protective and weather-resistant bag designed to carry and organize a camera, lenses, and accessories.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1evl_PZ4cqmNvzGec2edyMpzdXmDP7tQs&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">2(x) Replacement Batteries For Canon LP-E8 LPE8 For The Canon Rebel T3i T2i 550D Digital Camera.</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of two replacement batteries compatible with Canon LP-E8, designed for use in Canon Rebel T3i, T2i, and 550D digital cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Zp1T7cGh1SX-a2nJkHFf6knYvnInMgVM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NEEWER&reg; 67mm ND Fader Neutral Density Adjustable Variable Filter (ND2 to ND400)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an adjustable camera lens filter that reduces light exposure, allowing for greater control over depth of field and motion blur in various lighting conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m7HCAFbpYVo-ZBqRpNGqUEuzr6qp3pdZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Photive BTH3 Bluetooth 4.0 Headphones with Built-in Mic and 12 Hour Battery. Includes Hard Travel Case. 2014 New Release</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Wireless Bluetooth headphones featuring a built-in microphone, 12-hour battery life, and a hard travel case, released in 2014.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Pz2Fv5bParH73pvhZsu4YSRfZLkhKI9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sigma 18-250mm F3.5-6.3 DC MACRO HSM for Sony Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile zoom lens designed for Sony DSLR cameras, offering macro capabilities and a wide focal range from 18mm to 250mm with Hyper Sonic Motor for fast and quiet autofocus.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1p_AfV4_dCxteFP0_wHuzlXY4LyC3tssj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LP-E8 2 Pack Of Replacement Batteries For Canon LP-E8 LPE8 1700MAH For Canon Rebel T5i, T4i, T2i 550D T3i, EOS 600D DSLR Digital Camera Includes 2 Batteries In Total + Free LCD Screen Protectors Bundle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bundle containing two replacement batteries with a capacity of 1700mAh each, compatible with Canon DSLR cameras such as the Rebel T5i, T4i, T3i, T2i, and 550D, along with free LCD screen protectors.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_202_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_202_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_202_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_203",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_203_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10m-0AFK7pgzeF21RKUAOCpBnamd0D8TU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech X-530 5.1 Speaker System</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A surround sound speaker system designed to enhance audio experiences for computers with five satellite speakers and a subwoofer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZxUcEgZ0Vc8A2LF_4uF38sORoLwaiZfx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Audio-Technica ATH-M50x Professional Headphones</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are high-quality, over-ear headphones designed for professional audio monitoring and personal listening, known for their exceptional sound clarity and comfort.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jhaxq9nKH0wYqDVx6T5aC6wFG0KWJXhZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech X-540 5.1 Surround Sound Speaker System with Subwoofer</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 5.1 surround sound speaker system designed for computers, featuring multiple speakers and a subwoofer to provide immersive audio experiences.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jhaxq9nKH0wYqDVx6T5aC6wFG0KWJXhZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech X-540 5.1 Surround Sound Speaker System with Subwoofer</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 5.1 surround sound speaker system designed for computers, featuring multiple speakers and a subwoofer to provide immersive audio experiences.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1t-gg7uU3x3fk0pSPJEh8xqFA8OzKcwgj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Yamaha RX-V475 5.1-Channel Network AV Receiver with Airplay</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile audio-visual receiver that supports 5.1-channel surround sound, network connectivity, and wireless streaming via AirPlay for enhanced home audio experiences.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_203_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_203_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_203_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_204",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_204_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g6b-x7foOj9SapVM9Of1XNCmX-gnt-XZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon BG-E6 Battery Grip for Canon 5D Mark II Digital SLR - Retail Package</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A battery grip designed for the Canon 5D Mark II DSLR, providing extended battery life and improved ergonomics for vertical shooting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zsNAkFoLKX4Z-Xai4Mx8yeYGjnEHVn1q&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wasabi Power Battery (2-Pack) and Charger for Canon LP-E6 and Canon EOS 5D Mark II, EOS 5D Mark III, EOS 6D, EOS 7D, EOS 60D, EOS 60Da, EOS 70D</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-pack of rechargeable batteries with a charger compatible with various Canon EOS camera models, ensuring extended shooting time.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g6b-x7foOj9SapVM9Of1XNCmX-gnt-XZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon BG-E6 Battery Grip for Canon 5D Mark II Digital SLR - Retail Package</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A battery grip designed for the Canon 5D Mark II DSLR, providing extended battery life and improved ergonomics for vertical shooting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13rg5zdCvN_jqmOlWCmiukjkdiCst49dA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jackery Mini Premium Ultra-Compact Aluminum Portable Charger 3200mAh External Battery Pack Power Bank for Apple iPhone 5S, 5C, 5, 4S, iPad, Air, Mini, Samsung Galaxy S4, S3, Note, Nexus, LG, HTC, Moto. Portable Battery Charger, Portable Phone Charger, USB Battery, Rechargeable Battery Backup, External Charger, USB Battery Charger (Orange)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact 3200mAh portable power bank that provides emergency charging for various smartphones and tablets via USB connection.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_204_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_204_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_204_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_205",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_205_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vZ9Jq8xgdDWQrLU0IRw3kQyT96i2upFK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TP-LINK TL-PA511 KIT AV500 Powerline Gigabit Adapter Starter Kit, up to 500Mbps</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a networking device kit that uses existing electrical wiring to extend internet connectivity throughout a home or office, supporting speeds up to 500Mbps.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19hvWur0x_RcMqMHUT7rrqJYSvA9XzsHV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NETGEAR N750 Dual Band Wi-Fi Gigabit Router (WNDR4300)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance wireless router that provides dual-band Wi-Fi connectivity with gigabit-speed Ethernet ports for seamless internet access and network management.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1P8RWa2GrUnb9dvBy5VDIl-Mc556CJPNQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">D-Link Wireless N 300 Mbps Compact Wi-Fi Range Extender (DAP-1320)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This compact device boosts and extends the range of an existing Wi-Fi network, providing improved wireless coverage and connectivity in hard-to-reach areas.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vZ9Jq8xgdDWQrLU0IRw3kQyT96i2upFK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TP-LINK TL-PA511 KIT AV500 Powerline Gigabit Adapter Starter Kit, up to 500Mbps</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a networking device kit that uses existing electrical wiring to extend internet connectivity throughout a home or office, supporting speeds up to 500Mbps.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Fr50XzfROrReKryrXpLWMyVYwPt6HpWq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Right Angle VGA to VGA Cable Adapter Type 2 - M/F</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter allows you to connect VGA cables at a right angle, facilitating installations in tight spaces while maintaining signal integrity.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_205_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_205_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_205_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_206",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_206_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vZ9Jq8xgdDWQrLU0IRw3kQyT96i2upFK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TP-LINK TL-PA511 KIT AV500 Powerline Gigabit Adapter Starter Kit, up to 500Mbps</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a networking device kit that uses existing electrical wiring to extend internet connectivity throughout a home or office, supporting speeds up to 500Mbps.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12QD5CZ0Qv62YonUuTxP1JVAFNjZuUqAh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">8GB 2x 4GB Apple iMac 21.5 &quot; 3.06GHz Intel Core i3 DDR3 PC3-10600 204 pin 1333MHz SODIMM Memory RAM (PARTS-QUICK BRAND)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a set of two 4GB DDR3 RAM modules specifically designed for 21.5-inch Apple iMacs with a 3.06GHz Intel Core i3 processor, providing a total of 8GB memory for improved performance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10m-0AFK7pgzeF21RKUAOCpBnamd0D8TU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech X-530 5.1 Speaker System</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A surround sound speaker system designed to enhance audio experiences for computers with five satellite speakers and a subwoofer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1g6b-x7foOj9SapVM9Of1XNCmX-gnt-XZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon BG-E6 Battery Grip for Canon 5D Mark II Digital SLR - Retail Package</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A battery grip designed for the Canon 5D Mark II DSLR, providing extended battery life and improved ergonomics for vertical shooting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13rg5zdCvN_jqmOlWCmiukjkdiCst49dA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jackery Mini Premium Ultra-Compact Aluminum Portable Charger 3200mAh External Battery Pack Power Bank for Apple iPhone 5S, 5C, 5, 4S, iPad, Air, Mini, Samsung Galaxy S4, S3, Note, Nexus, LG, HTC, Moto. Portable Battery Charger, Portable Phone Charger, USB Battery, Rechargeable Battery Backup, External Charger, USB Battery Charger (Orange)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact 3200mAh portable power bank that provides emergency charging for various smartphones and tablets via USB connection.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZxUcEgZ0Vc8A2LF_4uF38sORoLwaiZfx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Audio-Technica ATH-M50x Professional Headphones</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are high-quality, over-ear headphones designed for professional audio monitoring and personal listening, known for their exceptional sound clarity and comfort.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yCGIqN4Crd63sFyOHjPrlU8a73GmijNn&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Datacolor Spyder4Pro S4P100 Colorimeter for Display Calibration</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A color calibration tool designed to ensure accurate color representation on computer monitors and displays.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Fr50XzfROrReKryrXpLWMyVYwPt6HpWq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Right Angle VGA to VGA Cable Adapter Type 2 - M/F</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adapter allows you to connect VGA cables at a right angle, facilitating installations in tight spaces while maintaining signal integrity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jhaxq9nKH0wYqDVx6T5aC6wFG0KWJXhZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech X-540 5.1 Surround Sound Speaker System with Subwoofer</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 5.1 surround sound speaker system designed for computers, featuring multiple speakers and a subwoofer to provide immersive audio experiences.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jhaxq9nKH0wYqDVx6T5aC6wFG0KWJXhZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech X-540 5.1 Surround Sound Speaker System with Subwoofer</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 5.1 surround sound speaker system designed for computers, featuring multiple speakers and a subwoofer to provide immersive audio experiences.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1xppCfN36vpG1afQAP6Qk0FZlijkru_Hl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics High-Speed HDMI Cable and Toslink Digital Audio Optical Cable, 2 Pack</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a set of two cables: a high-speed HDMI cable for transmitting video and audio signals between devices, and a Toslink digital audio optical cable for delivering high-quality audio signals.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_206_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_206_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_206_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_207",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_207_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1akmuun43bIUwWOJIGAPB36Ybzy5_Ijsd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">VIZIO E320-A1 32-inch 720p 60Hz LED HDTV (2013 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 32-inch LED HDTV from 2013 with 720p resolution and a 60Hz refresh rate, suitable for standard HD viewing.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-NN3J40PJlJrJC821dGWXIx_W6342lDx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mediabridge ULTRA Series HDMI Cable (6 Feet) - High-Speed Supports Ethernet, 3D and Audio Return [Newest Standard]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot high-speed HDMI cable designed to support Ethernet, 3D, and audio return functionalities for connecting compatible electronic devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EB6ygmA8D1WW6KIpN0VIxxh6iJjL8Vxk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sanus Systems Vmpl50A-B1 32-Inch to 70-Inch Visionmount Tilt Mount</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wall mount that securely supports and tilts flat-screen TVs ranging from 32 to 70 inches for optimal viewing.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1akmuun43bIUwWOJIGAPB36Ybzy5_Ijsd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">VIZIO E320-A1 32-inch 720p 60Hz LED HDTV (2013 Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 32-inch LED HDTV from 2013 with 720p resolution and a 60Hz refresh rate, suitable for standard HD viewing.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-NN3J40PJlJrJC821dGWXIx_W6342lDx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mediabridge ULTRA Series HDMI Cable (6 Feet) - High-Speed Supports Ethernet, 3D and Audio Return [Newest Standard]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot high-speed HDMI cable designed to support Ethernet, 3D, and audio return functionalities for connecting compatible electronic devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15Wn_-RAjITT8XWTwnqWGSob6Zt9e4WTh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung BD-F7500 4K Upscaling 3D Wi-Fi Blu-ray Disc Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition Blu-ray player that enhances video quality to 4K resolution, supports 3D playback, and connects to Wi-Fi for streaming services.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EB6ygmA8D1WW6KIpN0VIxxh6iJjL8Vxk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sanus Systems Vmpl50A-B1 32-Inch to 70-Inch Visionmount Tilt Mount</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wall mount that securely supports and tilts flat-screen TVs ranging from 32 to 70 inches for optimal viewing.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_207_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_207_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_207_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_208",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_208_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vddnRHV9t0b4q--3MA0DHMcfCeW-Bn-0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft SideWinder X4 Keyboard</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A backlit, wired gaming keyboard designed for enhanced performance with customizable macro keys and anti-ghosting technology.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ch3gqwCrPIwRNeIJ8r5JMQ30hGEFTSpf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rosewill Jet Gaming Mouse with Adjustable Weights (RGM-300)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A customizable gaming mouse featuring adjustable weights for personalized comfort and precision control.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QOFuX8H0_KPcfN9xLyEf-sGMmga1sGkZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SteelSeries Siberia V2 Full-Size Gaming Headset (White)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A full-size, white gaming headset designed for immersive audio experiences on PCs, featuring a comfortable fit and high-quality microphone for clear communication.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vddnRHV9t0b4q--3MA0DHMcfCeW-Bn-0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft SideWinder X4 Keyboard</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A backlit, wired gaming keyboard designed for enhanced performance with customizable macro keys and anti-ghosting technology.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1J-dOM4B7c7l-i0Y1bFxOevnUUCk5pY5L&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung VG-KBD2000 Wireless Keyboard</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact wireless keyboard designed for seamless connectivity with Samsung smart TVs and compatible devices, enhancing user navigation and interaction.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_208_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_208_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_208_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_209",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_209_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1upTd3Ul-PZ0kFUywrlmTC4R_WdZr_afV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Alpatronix AX300 X-tra Strong Wireless Bluetooth 4.0 Portable Rechargeable Mini Capsule Speaker with Built-In Mic / Handsfree Calling / Music Streaming / Enhanced Bass / AUX Input for Wired Connection / Compatible with all iPhones, iPods, iPads, Samsung Galaxy,  Tablets, MP3 Players and other iOS/Android Devices and Smartphones / Perfect for the Beach, Vacation, Outdoors, Travel and as a Car Speakerphone / Audio Playing / Exclusive 1-Year Warranty (Retail Packaging) - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A portable Bluetooth speaker with enhanced bass, built-in microphone for hands-free calling, and AUX input, compatible with various smartphones and devices, suitable for outdoor use and travel.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jXTE8EU46EcWmmgAwnh2QlloSL-kPfrX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SUPCASE New Google Nexus 7 FHD 2nd Generation Tablet Slim Hard Shell Leather Case with Auto Wake/Sleep - Black, Multi-Angle Viewing, Business Card Holder</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A slim, black leather case designed for the second-generation Google Nexus 7 FHD tablet, featuring auto wake/sleep functionality, multiple viewing angles, and a business card holder.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yzQJkOag1ognhe2xX4vtkpIK_fND76J8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung Galaxy Tab 3 (8-Inch, White) 2013 Model</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A white, 8-inch 2013 model tablet designed for multimedia consumption and productivity, offering portable computing capabilities.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jXTE8EU46EcWmmgAwnh2QlloSL-kPfrX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SUPCASE New Google Nexus 7 FHD 2nd Generation Tablet Slim Hard Shell Leather Case with Auto Wake/Sleep - Black, Multi-Angle Viewing, Business Card Holder</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A slim, black leather case designed for the second-generation Google Nexus 7 FHD tablet, featuring auto wake/sleep functionality, multiple viewing angles, and a business card holder.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15R9bpHSdrJZHqtLb41BX-pGfC7Bic3tR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; 2nd Gen Astro E3 10000mAh Dual-Port Ultra Compact External Battery Portable USB Charger Power Bank - PowerIQ&trade; Broad Compatibility, Fast Charging, High Capacity - For iPhone 5s 5c 5, iPad Air mini, Galaxy S5 S4, Tab 2, Note 3 2, LG G3, Nexus, HTC One M8, MOTO X, PS Vita and More (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and high-capacity portable USB charger with dual ports for fast charging a wide range of devices, including smartphones, tablets, and gaming consoles.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_209_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_209_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_209_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_210",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_210_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YQtAZFMESA2WofZRBfp5gyQ8rksYZxrQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tech Armor NEW High Definition ANTIGlare Screen Protector for Apple iPad New Generation 5 (SP-AGFHD-APL-ID5-2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition anti-glare screen protector designed to reduce reflections and protect the display of the Apple iPad New Generation 5.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yvpW5QL34xx4Sp40UVUisYeEgcg47Wyr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Ultrathin Touch Mouse T631 for Mac</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek and portable Bluetooth mouse designed specifically for Mac users, featuring a touch-sensitive surface for intuitive gesture controls.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18Yds5ujMdIEaRd0ix0Eiblmopl74BKY4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Sculpt Touch Mouse</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek and ergonomic wireless mouse designed for comfortable navigation, featuring a touch-sensitive strip for easy scrolling and compatibility with various operating systems.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qWOcbYsDYoEnv04URCuy73jLkO8iqPLm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">MoKo Apple iPad Air Case - Portfolio Wireless Bluetooth Keyboard Case for iPad Air (5th Gen) Tablet, PURPLE (With Smart Cover Auto Wake / Sleep)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A purple portfolio-style case for the 5th generation iPad Air that includes a wireless Bluetooth keyboard and features a smart cover with auto wake/sleep functionality.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YQtAZFMESA2WofZRBfp5gyQ8rksYZxrQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tech Armor NEW High Definition ANTIGlare Screen Protector for Apple iPad New Generation 5 (SP-AGFHD-APL-ID5-2)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition anti-glare screen protector designed to reduce reflections and protect the display of the Apple iPad New Generation 5.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yvpW5QL34xx4Sp40UVUisYeEgcg47Wyr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Ultrathin Touch Mouse T631 for Mac</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek and portable Bluetooth mouse designed specifically for Mac users, featuring a touch-sensitive surface for intuitive gesture controls.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qWOcbYsDYoEnv04URCuy73jLkO8iqPLm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">MoKo Apple iPad Air Case - Portfolio Wireless Bluetooth Keyboard Case for iPad Air (5th Gen) Tablet, PURPLE (With Smart Cover Auto Wake / Sleep)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A purple portfolio-style case for the 5th generation iPad Air that includes a wireless Bluetooth keyboard and features a smart cover with auto wake/sleep functionality.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_210_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_210_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_210_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_211",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_211_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1u_xwPFtfCTF6gDjJr7Dzb4JDwFTz8t1h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gino VHF/UHF Dual Band BNC Antenna for Walkie Talkie Two Way Radio</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual band antenna designed to enhance signal reception for VHF/UHF two-way radios using a BNC connector.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nxmhG9GpQ-Z383mT3iYEhpf_LdPztYw5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pofung BF-S112 Two Way Radio Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a speaker accessory designed for use with two-way radios, enhancing audio output for clearer communication.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SU9MZJhJdCChKTdP_OyLTHpILpdE3ePu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">EarlyBirdSavings Car Battery Adapter Eliminator for Baofeng UV-5R</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to power a Baofeng UV-5R two-way radio directly from a car's electrical system, eliminating the need for battery use.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1u_xwPFtfCTF6gDjJr7Dzb4JDwFTz8t1h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gino VHF/UHF Dual Band BNC Antenna for Walkie Talkie Two Way Radio</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual band antenna designed to enhance signal reception for VHF/UHF two-way radios using a BNC connector.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sI-FVBMPM_r7KRJSY7IMrRXHyJ9IYrEm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">EmBest New BNC UHF/VHF Radio Antenna for Kenwood TK100 TK200 IC-V8 IC-V80 IC-V82 IC-U82</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a replacement or upgrade radio antenna designed to improve the signal reception and transmission for specific Kenwood and Icom UHF/VHF two-way radios.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nxmhG9GpQ-Z383mT3iYEhpf_LdPztYw5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pofung BF-S112 Two Way Radio Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a speaker accessory designed for use with two-way radios, enhancing audio output for clearer communication.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12BonGTU594HXFrEZrPcd6x2FdUlc_g_w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nagoya UT-102UV 144/430Mhz 2.15dB SMA-Female Magnet Antenna w/Cable by Lucky Castle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A magnetic base antenna with SMA-Female connector, designed for enhancing signal reception in the 144/430MHz frequency range for radio devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SU9MZJhJdCChKTdP_OyLTHpILpdE3ePu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">EarlyBirdSavings Car Battery Adapter Eliminator for Baofeng UV-5R</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to power a Baofeng UV-5R two-way radio directly from a car's electrical system, eliminating the need for battery use.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m8jZoyOZLir2LNEnkMeUrm8YFWRwWNOB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NAGOYA NA-771 SF SMA UV antenna Wouxun TK-3207 KGUVD1P Beifeng 5118A</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-gain dual-band VHF/UHF antenna designed for improving signal reception and transmission for handheld radios compatible with Wouxun, Beifeng, and similar models.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_211_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_211_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_211_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_212",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_212_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1u_xwPFtfCTF6gDjJr7Dzb4JDwFTz8t1h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gino VHF/UHF Dual Band BNC Antenna for Walkie Talkie Two Way Radio</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual band antenna designed to enhance signal reception for VHF/UHF two-way radios using a BNC connector.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sI-FVBMPM_r7KRJSY7IMrRXHyJ9IYrEm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">EmBest New BNC UHF/VHF Radio Antenna for Kenwood TK100 TK200 IC-V8 IC-V80 IC-V82 IC-U82</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a replacement or upgrade radio antenna designed to improve the signal reception and transmission for specific Kenwood and Icom UHF/VHF two-way radios.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12BonGTU594HXFrEZrPcd6x2FdUlc_g_w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nagoya UT-102UV 144/430Mhz 2.15dB SMA-Female Magnet Antenna w/Cable by Lucky Castle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A magnetic base antenna with SMA-Female connector, designed for enhancing signal reception in the 144/430MHz frequency range for radio devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m8jZoyOZLir2LNEnkMeUrm8YFWRwWNOB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NAGOYA NA-771 SF SMA UV antenna Wouxun TK-3207 KGUVD1P Beifeng 5118A</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-gain dual-band VHF/UHF antenna designed for improving signal reception and transmission for handheld radios compatible with Wouxun, Beifeng, and similar models.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1u_xwPFtfCTF6gDjJr7Dzb4JDwFTz8t1h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gino VHF/UHF Dual Band BNC Antenna for Walkie Talkie Two Way Radio</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual band antenna designed to enhance signal reception for VHF/UHF two-way radios using a BNC connector.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nxmhG9GpQ-Z383mT3iYEhpf_LdPztYw5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pofung BF-S112 Two Way Radio Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a speaker accessory designed for use with two-way radios, enhancing audio output for clearer communication.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sLo0l-j6ek6rPF7ccFE7WjWWPNwykif1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BaoFeng UV-5R+ Dual-Band 136-174/400-480 MHz FM Ham Two-Way Radio (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, dual-band handheld transceiver for amateur radio enthusiasts, allowing communication over VHF and UHF frequencies.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_212_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_212_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_212_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_213",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_213_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OlEr4rrB2dYj4YA3Q_OoJgqYnX2IfEO6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon EF 50mm f/1.2 L USM Lens for Canon Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance, wide-aperture lens designed for achieving exceptional image quality and shallow depth of field effects on Canon digital SLR cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1v8Fs-fjB22R-_pCzNf9mQOm7QbPRM1_f&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jill-e Designs Small Leather Camera Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish and compact leather case designed to protect and carry small cameras and essential accessories.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cW-bpAJ9Nt8U9O7c4o3UD95pQi_MDGCK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fotodiox 6&quot;x8&quot; Softbox for Flash, Speedlight, Nikon SB-600, SB-700, SB-800, SB-900, SB-910, Canon Speedlite 380EX, 430EX, II, 550EX, 580EX, II, 600EX-RT, Vivita Flash, Sunpack, Sunpak, Nissin, Sigma, Sony, Pentax, Olympus, Panasonic Lumix Flashes</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a versatile softbox designed to attach to various camera flashes, providing diffused lighting for photography.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=187xzy2FBr7N02sEC-I3xMs-NbKKXRSAQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Opteka RFT-40 Remote Shutter Release &amp; Wireless Flash/Light Trigger Combo</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile device that allows photographers to remotely control their camera's shutter and trigger flash or lighting equipment wirelessly.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qv5-qHpRwIgo-5hkIi2t6ivQ71Dh1l2L&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cowboystudio 400 Watt Photography Studio Monolight, Studio Strobe Light with 75 W Model Lamp</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 400-watt monolight for photography studios, featuring a 75-watt modeling lamp for enhanced lighting control and precision in capturing images.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OlEr4rrB2dYj4YA3Q_OoJgqYnX2IfEO6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon EF 50mm f/1.2 L USM Lens for Canon Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance, wide-aperture lens designed for achieving exceptional image quality and shallow depth of field effects on Canon digital SLR cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1v8Fs-fjB22R-_pCzNf9mQOm7QbPRM1_f&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jill-e Designs Small Leather Camera Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish and compact leather case designed to protect and carry small cameras and essential accessories.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10RwkGImLPhkP2SYxRbj1pZO7qE7z1s8K&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ImogenStudio QCP-A100 +Cam Video Security Accessory for Smartphones (White)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A smartphone-compatible video security accessory that enhances home surveillance by providing real-time monitoring capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cW-bpAJ9Nt8U9O7c4o3UD95pQi_MDGCK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fotodiox 6&quot;x8&quot; Softbox for Flash, Speedlight, Nikon SB-600, SB-700, SB-800, SB-900, SB-910, Canon Speedlite 380EX, 430EX, II, 550EX, 580EX, II, 600EX-RT, Vivita Flash, Sunpack, Sunpak, Nissin, Sigma, Sony, Pentax, Olympus, Panasonic Lumix Flashes</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a versatile softbox designed to attach to various camera flashes, providing diffused lighting for photography.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=187xzy2FBr7N02sEC-I3xMs-NbKKXRSAQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Opteka RFT-40 Remote Shutter Release &amp; Wireless Flash/Light Trigger Combo</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile device that allows photographers to remotely control their camera's shutter and trigger flash or lighting equipment wirelessly.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qv5-qHpRwIgo-5hkIi2t6ivQ71Dh1l2L&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cowboystudio 400 Watt Photography Studio Monolight, Studio Strobe Light with 75 W Model Lamp</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 400-watt monolight for photography studios, featuring a 75-watt modeling lamp for enhanced lighting control and precision in capturing images.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_213_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_213_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_213_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_214",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_214_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Rf3u7GNczfljx2Lqs2KAFpn5u9JB7Jxw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Silverstone Tek 3.5-Inch to 2 X 2.5-Inch Hard Drive HDD SSD Bay Converter, Silver (SDP08)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to install two 2.5-inch hard drives or SSDs into a single 3.5-inch drive bay in a computer case.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sOB36q5offp9vxkS-pYbDbLFZc9ZHjGx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Wireless Wave Combo Mk550 With Keyboard and Laser Mouse</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless ergonomic keyboard and laser mouse set designed for comfortable typing and precise cursor control.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17B8YKM9Ko5ZxcBxVeVOdIXrUG3o5tViq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Dominator 16GB (4x4GB)  DDR3 1600 MHz (PC3 12800) Desktop Memory (CMP16GX3M4X1600C7)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 16GB DDR3 desktop memory kit, consisting of four 4GB modules, designed to enhance system speed and multitasking capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dgy9q4MmcEANm7nrp_FCwCmBYUi5E9Xx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">D-Link PowerLine Adapter AV500 Gigabit Mini Starter Kit (DHP-501AV)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device enables network connectivity through your home's electrical wiring, providing a simple solution for extending internet access to areas without Ethernet cabling.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Rf3u7GNczfljx2Lqs2KAFpn5u9JB7Jxw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Silverstone Tek 3.5-Inch to 2 X 2.5-Inch Hard Drive HDD SSD Bay Converter, Silver (SDP08)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to install two 2.5-inch hard drives or SSDs into a single 3.5-inch drive bay in a computer case.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sOB36q5offp9vxkS-pYbDbLFZc9ZHjGx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Wireless Wave Combo Mk550 With Keyboard and Laser Mouse</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless ergonomic keyboard and laser mouse set designed for comfortable typing and precise cursor control.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17B8YKM9Ko5ZxcBxVeVOdIXrUG3o5tViq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Dominator 16GB (4x4GB)  DDR3 1600 MHz (PC3 12800) Desktop Memory (CMP16GX3M4X1600C7)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 16GB DDR3 desktop memory kit, consisting of four 4GB modules, designed to enhance system speed and multitasking capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lwBdRzG_TWNa3_4IA_KFBlttaRCmK9L7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Professional Series&nbsp; HX 1050 Watt ATX/EPS Modular 80 PLUS Gold (HX1050)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-efficiency 1050-watt modular power supply designed for desktop computers, supporting both ATX and EPS standards, and certified 80 PLUS Gold for energy efficiency.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S2cokFtY6wyh5q1-2FLv2jo6k_f7GM0_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ASUS Sabertooth 990FX/GEN3 R2.0 DDR3 1800 AM3 Motherboards</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance motherboard designed for gaming and demanding applications, compatible with AMD processors and DDR3 memory, featuring enhanced durability and PCIe 3.0 support.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1V63u5S5E2BJd9V-1HjoneVK8mjhA_QJq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AMD Phenom II X6 1055T Processor (HDT55TFBGRBOX)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A six-core desktop CPU from AMD designed for multitasking and performance in computing tasks.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_214_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_214_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_214_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_215",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_215_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Rf3u7GNczfljx2Lqs2KAFpn5u9JB7Jxw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Silverstone Tek 3.5-Inch to 2 X 2.5-Inch Hard Drive HDD SSD Bay Converter, Silver (SDP08)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to install two 2.5-inch hard drives or SSDs into a single 3.5-inch drive bay in a computer case.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y0hRb0lB59cgqcf9CTmopexR9WMtWpe2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Wireless Desktop 3000</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless keyboard and mouse combination designed for computers, offering convenience and freedom from cables.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17B8YKM9Ko5ZxcBxVeVOdIXrUG3o5tViq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Dominator 16GB (4x4GB)  DDR3 1600 MHz (PC3 12800) Desktop Memory (CMP16GX3M4X1600C7)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 16GB DDR3 desktop memory kit, consisting of four 4GB modules, designed to enhance system speed and multitasking capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dgy9q4MmcEANm7nrp_FCwCmBYUi5E9Xx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">D-Link PowerLine Adapter AV500 Gigabit Mini Starter Kit (DHP-501AV)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device enables network connectivity through your home's electrical wiring, providing a simple solution for extending internet access to areas without Ethernet cabling.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Rf3u7GNczfljx2Lqs2KAFpn5u9JB7Jxw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Silverstone Tek 3.5-Inch to 2 X 2.5-Inch Hard Drive HDD SSD Bay Converter, Silver (SDP08)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device allows you to install two 2.5-inch hard drives or SSDs into a single 3.5-inch drive bay in a computer case.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y0hRb0lB59cgqcf9CTmopexR9WMtWpe2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Microsoft Wireless Desktop 3000</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless keyboard and mouse combination designed for computers, offering convenience and freedom from cables.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17B8YKM9Ko5ZxcBxVeVOdIXrUG3o5tViq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Corsair Dominator 16GB (4x4GB)  DDR3 1600 MHz (PC3 12800) Desktop Memory (CMP16GX3M4X1600C7)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance 16GB DDR3 desktop memory kit, consisting of four 4GB modules, designed to enhance system speed and multitasking capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dgy9q4MmcEANm7nrp_FCwCmBYUi5E9Xx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">D-Link PowerLine Adapter AV500 Gigabit Mini Starter Kit (DHP-501AV)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device enables network connectivity through your home's electrical wiring, providing a simple solution for extending internet access to areas without Ethernet cabling.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14vE-BDIGZ8ywVBZg3TXujM1DdPbc_2nl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Asus Sabertooth Z87 LGA 1150 Motherboard</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance motherboard designed for Intel processors with an LGA 1150 socket, featuring robust durability and advanced thermal management for gaming and computing applications.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_215_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_215_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_215_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_216",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_216_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17i_bZDQyUaayaXisul5NpM73gjAN1ptI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Monoprice 40-Feet Slim Series High Speed HDMI Cable with RedMere Technology (109171)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 40-foot high-speed HDMI cable featuring RedMere technology for efficient signal transmission and reduced cable bulk, ideal for connecting video devices over long distances.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=107u6hNQDkJMz1YpcoG9q2q-K0d4M8jJ3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bayco KW-110 Cord Storage Reel with Center Spin Handle, 100-Feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable storage reel designed to neatly organize and dispense up to 100 feet of electrical cord with a convenient center spin handle for easy winding and unwinding.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=102nutHBwhz-4HaSuycR0B5bcK5sLJoha&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Velcro Reusable Self-Gripping Cable Ties, 0.5 Inches x 8 Inches Long, Black, 100 Ties per Pack (91140)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are black, reusable cable ties designed for organizing and securing electronic cords and cables, measuring 0.5 inches by 8 inches, with 100 ties included in the pack.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17i_bZDQyUaayaXisul5NpM73gjAN1ptI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Monoprice 40-Feet Slim Series High Speed HDMI Cable with RedMere Technology (109171)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 40-foot high-speed HDMI cable featuring RedMere technology for efficient signal transmission and reduced cable bulk, ideal for connecting video devices over long distances.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=107u6hNQDkJMz1YpcoG9q2q-K0d4M8jJ3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bayco KW-110 Cord Storage Reel with Center Spin Handle, 100-Feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable storage reel designed to neatly organize and dispense up to 100 feet of electrical cord with a convenient center spin handle for easy winding and unwinding.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WilqmDZkxIZwCI7XxTVt62F7unDTI0fJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">OREI HD-104 1x4 4 Ports HDMI Powered Splitter for Full HD 1080P &amp; 3D Support (One Input To Four Outputs)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device distributes one HDMI input signal into four identical outputs, supporting full HD 1080p and 3D video formats.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bQ9_I7m0-PjTygKabxR2XOLgVP-VYGHe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 6.6 Feet (2-Pack) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed HDMI cable set designed for transmitting high-definition video and audio signals, supporting 3D and Audio Return Channel features, and suitable for connecting devices like TVs, monitors, and gaming consoles.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q3IrjF5BTEbjvuPoSZNESc-Vf-FtlIg8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 3 Feet (2-Pack) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pair of high-speed HDMI cables, each three feet long, designed for transmitting high-definition video and audio with support for 3D and Ethernet connectivity.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_216_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_216_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_216_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_217",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_217_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WilqmDZkxIZwCI7XxTVt62F7unDTI0fJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">OREI HD-104 1x4 4 Ports HDMI Powered Splitter for Full HD 1080P &amp; 3D Support (One Input To Four Outputs)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device distributes one HDMI input signal into four identical outputs, supporting full HD 1080p and 3D video formats.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ac2rVpT2ZLDlTcoLKVLdmpjvsOKx2XPw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Definitive Technology UEZA/Di 5.5BPS Rectangular Bipolar Surround In-wall/ceiling Speaker (Single)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an in-wall or ceiling-mounted bipolar surround sound speaker designed to enhance home audio systems by providing immersive, multidirectional sound.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bQ9_I7m0-PjTygKabxR2XOLgVP-VYGHe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 6.6 Feet (2-Pack) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed HDMI cable set designed for transmitting high-definition video and audio signals, supporting 3D and Audio Return Channel features, and suitable for connecting devices like TVs, monitors, and gaming consoles.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q3IrjF5BTEbjvuPoSZNESc-Vf-FtlIg8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 3 Feet (2-Pack) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pair of high-speed HDMI cables, each three feet long, designed for transmitting high-definition video and audio with support for 3D and Ethernet connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1t-gg7uU3x3fk0pSPJEh8xqFA8OzKcwgj&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Yamaha RX-V475 5.1-Channel Network AV Receiver with Airplay</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile audio-visual receiver that supports 5.1-channel surround sound, network connectivity, and wireless streaming via AirPlay for enhanced home audio experiences.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WilqmDZkxIZwCI7XxTVt62F7unDTI0fJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">OREI HD-104 1x4 4 Ports HDMI Powered Splitter for Full HD 1080P &amp; 3D Support (One Input To Four Outputs)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device distributes one HDMI input signal into four identical outputs, supporting full HD 1080p and 3D video formats.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ac2rVpT2ZLDlTcoLKVLdmpjvsOKx2XPw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Definitive Technology UEZA/Di 5.5BPS Rectangular Bipolar Surround In-wall/ceiling Speaker (Single)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an in-wall or ceiling-mounted bipolar surround sound speaker designed to enhance home audio systems by providing immersive, multidirectional sound.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bQ9_I7m0-PjTygKabxR2XOLgVP-VYGHe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 6.6 Feet (2-Pack) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed HDMI cable set designed for transmitting high-definition video and audio signals, supporting 3D and Audio Return Channel features, and suitable for connecting devices like TVs, monitors, and gaming consoles.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q3IrjF5BTEbjvuPoSZNESc-Vf-FtlIg8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 3 Feet (2-Pack) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pair of high-speed HDMI cables, each three feet long, designed for transmitting high-definition video and audio with support for 3D and Ethernet connectivity.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_217_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_217_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_217_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_218",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_218_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ui9iI1U0hoCtManCMYdh2SH2RmznKfBy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wacom Bamboo Feel Stylus for Microsoft Surface Pro 1 and 2 and tablets with Feel technology</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A precision stylus designed for Microsoft Surface Pro 1 and 2 tablets, utilizing Feel technology for enhanced pressure sensitivity and accuracy in digital drawing and note-taking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zvsmjFLKd1uZTeV95-qJAvbIAcNEXSnK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics Apple Certified Lightning to USB Cable - 3 Feet (0.9 Meter) - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable, black 3-foot cable designed for charging and syncing Apple devices with a Lightning connector.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13DvGcAY9EpUpeTciiBq_It-7J7OlJ9zt&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nexus 10 Pogo Cable</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A magnetic charging cable designed specifically for powering and syncing the Nexus 10 tablet via its pogo pin connectors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Eh6E7b2IDo9vuHVIpdNtZ5TiktB0HUh8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Foco - BLACK - Sound Booster Enhancer Amplifier for iPad Air, Ipad mini, Ipad 2,3,4 Iphone 5 and Much More</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device designed to amplify audio output for various iPad and iPhone models, enhancing sound quality without external power.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=127y6Pf3Jof3RoL_9VlXYO-7mdIzN84GT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Apple Lightning to USB Cable</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A charging and data transfer cable designed to connect Apple devices with a Lightning port to a USB-enabled device or power adapter.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=182drl9ucXE3xs4RzI1ihZvHSgLDFCbV8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">New Trent Airbender 1.0 - Wireless Bluetooth Clamshell iPad Keyboard Case. Compatible: iPad 4, iPad 3 and iPad 2. (upgraded version)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless Bluetooth keyboard case designed as a clamshell for iPad 2, 3, and 4, providing enhanced typing functionality and protection.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lGFwPSGWCCK7NWqe3kY4UjAjDkQN5Wjv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Panasonic RPHJE120D In-Ear Headphone, Orange</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are compact, orange in-ear headphones designed for delivering clear audio and comfortable listening experiences.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FDqi40_mF6MXdxevNPgyy3h8cH7V97xo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics USB 2.0 A-Male to A-Female Extension Cable - 9.8 Feet (3 Meters)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 9.8-foot USB extension cable that allows you to extend the reach between your USB devices and their connections.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1LcYpUPMoyxihoAHv1Tkc0Evgup2N0lcg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adonit Jot Touch 4 Bluetooth Pressure Sensitive Stylus for iPad, iPad Air, &amp; iPad Mini - Gun Metal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A Bluetooth-enabled stylus designed for iPads, featuring pressure sensitivity for precise drawing and note-taking, finished in a gun metal color.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zkUANWvL2TKP8_O40k4g2YkWAf9VvOpJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics iPad Air and Netbook Bag with Handle Fits 7 to 10-Inch Tablets (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, black carrying bag with a handle designed to securely fit and transport tablets and small netbooks ranging from 7 to 10 inches.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=127y6Pf3Jof3RoL_9VlXYO-7mdIzN84GT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Apple Lightning to USB Cable</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A charging and data transfer cable designed to connect Apple devices with a Lightning port to a USB-enabled device or power adapter.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1LcYpUPMoyxihoAHv1Tkc0Evgup2N0lcg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adonit Jot Touch 4 Bluetooth Pressure Sensitive Stylus for iPad, iPad Air, &amp; iPad Mini - Gun Metal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A Bluetooth-enabled stylus designed for iPads, featuring pressure sensitivity for precise drawing and note-taking, finished in a gun metal color.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=182drl9ucXE3xs4RzI1ihZvHSgLDFCbV8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">New Trent Airbender 1.0 - Wireless Bluetooth Clamshell iPad Keyboard Case. Compatible: iPad 4, iPad 3 and iPad 2. (upgraded version)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wireless Bluetooth keyboard case designed as a clamshell for iPad 2, 3, and 4, providing enhanced typing functionality and protection.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_218_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_218_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_218_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_219",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_219_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iVu6l2-31lwTqYD1VuXAylvk_jpvFX4h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Eye-Fi 16GB Pro X2 SDHC Class 10 Wireless Flash Memory Card Frustration Free Packaging EYE-FI-16PC-FF</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 16GB high-speed SDHC memory card with built-in Wi-Fi for wireless data transfer, designed for seamless use with digital cameras and compatible devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-vF41jofSF3NB3STqaCegpo_MVwvbuUR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vktech 10 Set of Rear Lens Cover with Camera Body Cap for Canon DSLR SLR EOS EF</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of protective caps designed to cover the rear of Canon DSLR lenses and the camera body to prevent dust and damage when not in use.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vBBrDAFY1at1Hdysx6lKLLxTVMcpr3Te&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony VCT-R640 Lightweight Tripod for DSCV1/P41/W1/P93/P73/P92/P100/P150/F88/F828 Digital Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, adjustable tripod designed for stability and compatibility with various Sony digital camera models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1J-BNK3P1gY7cNCuK2ARRLN2yPvP6hudw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wasabi Power Battery (2-Pack) and Charger for Canon LP-E8 and Canon EOS 550D, EOS 600D, EOS Rebel T2i, EOS Rebel T3i, EOS Rebel T4i, EOS Rebel T5i</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-pack of rechargeable batteries with a charger designed for Canon DSLR cameras compatible with the LP-E8 battery model, including the EOS 550D, 600D, Rebel T2i, T3i, T4i, and T5i.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bAE6mLvRuCeTDXaUW-0lPCd1cz070ryL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lens Cap Bundle - 4 Snap-on Lens Caps for DSLR Cameras including Nikon, Canon, Sony - One CamKix Microfiber Cleaning Cloth included (52mm)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This bundle includes four 52mm snap-on lens caps compatible with DSLR cameras from brands like Nikon, Canon, and Sony, along with a microfiber cleaning cloth for lens maintenance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15_0cEy3Zdbnyidm_0XLmVrv0P2mq5cvd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">58MM Reversible Flower Lens Hood (2013 Update) for CANON REBEL (T5i T4i T3i T3 T2i T1i XT XTi XSi SL1), CANON EOS (700D 650D 600D 550D 500D 450D 400D 350D 300D 1100D 100D 60D) + Premium MagicFiber Microfiber Lens Cleaning Cloth</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 58mm reversible lens hood designed to prevent lens flare and protect camera lenses on various Canon Rebel and EOS models, including a microfiber cloth for cleaning.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oDIp71naM3cs-0xcX23S190ez_cr7SBA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Altura Photo Rubber Eyepiece Eyecup for CANON Rebel T5i T4i T3i T3 T2i T1i XTi XSi XS SL1, CANON EOS 1100D 700D 650D 600D 550D 500D 450D 400D 300D 100D + Premium MagicFiber Microfiber Lens Cleaning Cloth</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A replacement rubber eyepiece eyecup designed for specific Canon Rebel and EOS camera models, paired with a microfiber cleaning cloth for lens maintenance.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iVu6l2-31lwTqYD1VuXAylvk_jpvFX4h&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Eye-Fi 16GB Pro X2 SDHC Class 10 Wireless Flash Memory Card Frustration Free Packaging EYE-FI-16PC-FF</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 16GB high-speed SDHC memory card with built-in Wi-Fi for wireless data transfer, designed for seamless use with digital cameras and compatible devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-vF41jofSF3NB3STqaCegpo_MVwvbuUR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vktech 10 Set of Rear Lens Cover with Camera Body Cap for Canon DSLR SLR EOS EF</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of protective caps designed to cover the rear of Canon DSLR lenses and the camera body to prevent dust and damage when not in use.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1J-BNK3P1gY7cNCuK2ARRLN2yPvP6hudw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wasabi Power Battery (2-Pack) and Charger for Canon LP-E8 and Canon EOS 550D, EOS 600D, EOS Rebel T2i, EOS Rebel T3i, EOS Rebel T4i, EOS Rebel T5i</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-pack of rechargeable batteries with a charger designed for Canon DSLR cameras compatible with the LP-E8 battery model, including the EOS 550D, 600D, Rebel T2i, T3i, T4i, and T5i.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bAE6mLvRuCeTDXaUW-0lPCd1cz070ryL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lens Cap Bundle - 4 Snap-on Lens Caps for DSLR Cameras including Nikon, Canon, Sony - One CamKix Microfiber Cleaning Cloth included (52mm)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This bundle includes four 52mm snap-on lens caps compatible with DSLR cameras from brands like Nikon, Canon, and Sony, along with a microfiber cleaning cloth for lens maintenance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15_0cEy3Zdbnyidm_0XLmVrv0P2mq5cvd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">58MM Reversible Flower Lens Hood (2013 Update) for CANON REBEL (T5i T4i T3i T3 T2i T1i XT XTi XSi SL1), CANON EOS (700D 650D 600D 550D 500D 450D 400D 350D 300D 1100D 100D 60D) + Premium MagicFiber Microfiber Lens Cleaning Cloth</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 58mm reversible lens hood designed to prevent lens flare and protect camera lenses on various Canon Rebel and EOS models, including a microfiber cloth for cleaning.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oDIp71naM3cs-0xcX23S190ez_cr7SBA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Altura Photo Rubber Eyepiece Eyecup for CANON Rebel T5i T4i T3i T3 T2i T1i XTi XSi XS SL1, CANON EOS 1100D 700D 650D 600D 550D 500D 450D 400D 300D 100D + Premium MagicFiber Microfiber Lens Cleaning Cloth</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A replacement rubber eyepiece eyecup designed for specific Canon Rebel and EOS camera models, paired with a microfiber cleaning cloth for lens maintenance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L1-sOBA3IgSEiOu7SdPqd7Lv4zCS8Mw9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon RC-6 Wireless Remote Controller for Canon XT/XTi, XSi, T1i and T2i Digital SLR Cameras</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This wireless remote controller allows users to conveniently operate compatible Canon digital SLR cameras from a distance, enabling hands-free photography.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_219_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_219_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_219_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

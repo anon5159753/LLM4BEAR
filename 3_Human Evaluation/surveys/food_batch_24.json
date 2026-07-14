@@ -1,0 +1,888 @@
+{
+  "title": "Food Bundle Comparison \u2014 Batch 24",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "food_pair_460",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_460_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NSB6BnG_SO8YhvM9UFFWHnob8iamyjYD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wonderful Pistachios, Salt and Pepper, 4.5 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 4.5-ounce bag of roasted pistachios seasoned with a savory blend of salt and pepper.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sR-2Zz1MfcjMhvVFysYhHIlvW_gtbgUu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Planters Cashews in Milk Chocolate, 3.5-Ounce Pouches (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of individually wrapped pouches containing cashew nuts coated in smooth milk chocolate, perfect for snacking or as a sweet treat.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TcdT0gC7POLV1QZrjuJCnZzytuHES_Hl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BEER NUTS Original Peanuts, 12-Ounce Cans (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six 12-ounce cans containing salted peanuts, perfect for snacking or serving at gatherings.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NSB6BnG_SO8YhvM9UFFWHnob8iamyjYD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Wonderful Pistachios, Salt and Pepper, 4.5 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 4.5-ounce bag of roasted pistachios seasoned with a savory blend of salt and pepper.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TcdT0gC7POLV1QZrjuJCnZzytuHES_Hl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BEER NUTS Original Peanuts, 12-Ounce Cans (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six 12-ounce cans containing salted peanuts, perfect for snacking or serving at gatherings.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_460_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_460_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_460_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_461",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_461_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19kpE6HQyIZXeL9NEvJoNVoXWUSs8dJAK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CAMERON'S Ground Coffee, Chocolate Mint, 12-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 12-ounce package of ground coffee infused with chocolate mint flavor, perfect for brewing a rich and aromatic cup of coffee.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UP3BNtk1Gmqpz-BaMS1IwL9lTkqijDLD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cowrie Shells Cut (1 LB)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are natural cowrie shells that have been cut for use in various arts and crafts projects, particularly in jewelry making and beadwork.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1w4WINKxB274FG3X5YeVnBwVygxSmRsQp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Crystallized Ginger, 3 LB - Sincerely Nuts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bulk package of sweetened, dried ginger pieces that provide a chewy texture and a spicy-sweet flavor, commonly used in baking, cooking, or as a snack.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19kpE6HQyIZXeL9NEvJoNVoXWUSs8dJAK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CAMERON'S Ground Coffee, Chocolate Mint, 12-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 12-ounce package of ground coffee infused with chocolate mint flavor, perfect for brewing a rich and aromatic cup of coffee.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mreviTJZpiXVvYnK7ujiyomyrorL4Kw3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ghirardelli Chocolate Intense Dark Squares, Assortment, 6.38-Ounce Bags (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product features a variety of rich and decadent dark chocolate squares, packaged in three 6.38-ounce bags, perfect for sharing or indulging in a gourmet treat.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_461_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_461_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_461_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_462",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_462_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19kpE6HQyIZXeL9NEvJoNVoXWUSs8dJAK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CAMERON'S Ground Coffee, Chocolate Mint, 12-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 12-ounce package of ground coffee infused with chocolate mint flavor, perfect for brewing a rich and aromatic cup of coffee.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1w4WINKxB274FG3X5YeVnBwVygxSmRsQp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dried Crystallized Ginger, 3 LB - Sincerely Nuts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bulk package of sweetened, dried ginger pieces that provide a chewy texture and a spicy-sweet flavor, commonly used in baking, cooking, or as a snack.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19kpE6HQyIZXeL9NEvJoNVoXWUSs8dJAK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CAMERON'S Ground Coffee, Chocolate Mint, 12-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 12-ounce package of ground coffee infused with chocolate mint flavor, perfect for brewing a rich and aromatic cup of coffee.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hOV8Ki13d1I8YYBkDdSSj4pd0eRYAaoh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Monin Hazelnut Syrup (1 Single 750 ml bottle)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A rich and nutty flavoring syrup designed for enhancing beverages, desserts, and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1H75WDgWRBmzTqvbvlcC0hassU7zx4F4Q&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">So Delicious Vanilla Coconut Milk 32oz (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy, plant-based beverage made from coconut milk with a vanilla flavor, available in a convenient pack of twelve 32-ounce containers.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_462_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_462_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_462_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_463",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_463_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sKDjGV3dPFdrjdjuHtm5SZbRO71dUksq&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Brookside Dark Chocolate, Pomegranate, 32 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 32-ounce bag of dark chocolate-covered pomegranate pieces that combine sweet and tart flavors with a rich chocolate coating.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=104qa_y1BPZNr-SRJWa_N3mQ6PQiXfRJ4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Go Raw Freeland Super Cookies, Ginger Snaps, 3-Ounce Bags (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are wholesome, crunchy ginger snap cookies made with raw ingredients, packaged in convenient 3-ounce bags, and sold in a set of six.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nTx3Hc-PgJqipH2i4JyNEgd9EM2S_aNO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Blue Diamond Almonds Wasabi &amp; Soy Sauce, Value Pack, 16-Ounce Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 16-ounce bag of crunchy almonds flavored with wasabi and soy sauce, perfect for snacking or adding a zesty twist to dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ugfcd-3v3VST6tx_-6hv3m67IwnxkNwH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Planters Fancy Whole Cashews with Sea Salt - 33 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These premium whole cashews are lightly seasoned with sea salt, offering a deliciously crunchy snack or versatile ingredient for various recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lgQHO-ci-d4oeXgBPO7KJWcScSSscnYt&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Stonewall Kitchen Spicy Bar Mix, 8 Ounce Can</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A zesty snack blend featuring a mix of crunchy ingredients seasoned with spices, perfect for entertaining or enjoying on its own.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_463_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_463_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_463_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_464",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_464_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pP3LgAZqIX9MGft3Qw8e6H5Du7AftWJf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Justin's Nut Butter Almond Butter, Classic, 16 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy almond butter made from high-quality almonds, perfect for spreading on toast, adding to smoothies, or enjoying straight from the jar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iskMyf166uPPjWdwMqkDw6M0F9GRZzPw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Justin's Natural Classic Peanut Butter 16 oz. Jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 16-ounce jar of creamy, all-natural peanut butter made from roasted peanuts, perfect for spreading on toast, adding to smoothies, or using in recipes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Y_zaEqNN8cB4dvuRKtJt5oB9HIueAUaL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nuts 'N More Almond Butter, Cinnamon Raisin, 16 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy almond butter blended with cinnamon and raisins, perfect for spreading on toast or adding to smoothies for a flavorful boost.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pP3LgAZqIX9MGft3Qw8e6H5Du7AftWJf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Justin's Nut Butter Almond Butter, Classic, 16 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy almond butter made from high-quality almonds, perfect for spreading on toast, adding to smoothies, or enjoying straight from the jar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XIejF0S5BNUqkezEkU1U3kS63cxHk99k&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jif Creamy Peanut Butter, 36 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bulk pack of smooth peanut butter perfect for spreading, baking, or adding to recipes, offering convenience for households or food service.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iwT0_gXN_BhiLUXzcLdT-m4q4fYN3ChT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Justin's Dark Choc P/Butter Milk Cups (12x1.4 Oz)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually wrapped milk chocolate cups filled with creamy dark chocolate peanut butter, packaged in a box of twelve 1.4-ounce cups.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iskMyf166uPPjWdwMqkDw6M0F9GRZzPw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Justin's Natural Classic Peanut Butter 16 oz. Jar</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 16-ounce jar of creamy, all-natural peanut butter made from roasted peanuts, perfect for spreading on toast, adding to smoothies, or using in recipes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_464_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_464_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_464_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_465",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_465_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XbWY_IEFQF3wCI6ebT7LdWnOZInKurvU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Compleats Beef Steak Tips with Mash Potatoes, 10-Ounce Microwavable Bowls (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of six microwavable bowls containing tender beef steak tips served with creamy mashed potatoes, designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fuYJHdOR8OzaTIA1VVXxyOHr_braUdlF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Chicken Breast &amp; Gravy with Mashed Potatoes, 10-Ounce Units (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient, ready-to-eat meal featuring tender chicken breast in gravy served with mashed potatoes, packaged in six 10-ounce units.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F5TUiZNWrWBqDZezsrvSt2AhrT9M1VU4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Meal Mart Amazing Meals Passover Beef Goulash 12 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A ready-to-eat beef goulash specifically designed for Passover, packaged in a 12 oz container.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XbWY_IEFQF3wCI6ebT7LdWnOZInKurvU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Compleats Beef Steak Tips with Mash Potatoes, 10-Ounce Microwavable Bowls (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of six microwavable bowls containing tender beef steak tips served with creamy mashed potatoes, designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fuYJHdOR8OzaTIA1VVXxyOHr_braUdlF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Chicken Breast &amp; Gravy with Mashed Potatoes, 10-Ounce Units (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient, ready-to-eat meal featuring tender chicken breast in gravy served with mashed potatoes, packaged in six 10-ounce units.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_465_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_465_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_465_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_466",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_466_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Sb3jhiVJRh2sj1H-cQRbYBN-sKvrX9KF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manischewitz Matzo Ball Soup, Reduced Sodium, Kosher for Passover, 24-ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of three 24-ounce containers of reduced sodium chicken soup featuring matzo balls, suitable for Passover and adhering to kosher dietary laws.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gg4tQp-7dz0vYNWfgjBPvXb0u2_mqDBe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manischewitz Flavored Matzo Cracker, Mediterranean, 9 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These Mediterranean-flavored matzo crackers are a crunchy snack option, perfect for pairing with dips or enjoying on their own.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F5TUiZNWrWBqDZezsrvSt2AhrT9M1VU4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Meal Mart Amazing Meals Passover Beef Goulash 12 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A ready-to-eat beef goulash specifically designed for Passover, packaged in a 12 oz container.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Sb3jhiVJRh2sj1H-cQRbYBN-sKvrX9KF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manischewitz Matzo Ball Soup, Reduced Sodium, Kosher for Passover, 24-ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of three 24-ounce containers of reduced sodium chicken soup featuring matzo balls, suitable for Passover and adhering to kosher dietary laws.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iCnvYSkZDY_3eTRl00_A8xOydTXh0a8l&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Healthy Choice Chicken Tortilla Soup, 14-Ounce Microwavable Containers (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of six 14-ounce microwavable containers of chicken tortilla soup, offering a convenient and nutritious meal option.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_466_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_466_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_466_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_467",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_467_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FOvMmXPZ3j4kSPlig8rWXFB6D51P6EoH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pepperidge Farm Dark Chocolate Milano Cookies, 6 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are gourmet cookies featuring a rich dark chocolate filling sandwiched between two crisp, buttery biscuits, packaged in a convenient 6-ounce size with 12 packs for sharing or snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1X6AXwPy0jeaoI-xoJR6imsuNeR4LBvDg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pepperidge Farm Chocolate Chunk Crispy Cookies, Sausalito Milk Chocolate Macadamia, 7.2-ounce (pack of 5)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of five 7.2-ounce bags of crispy cookies featuring a blend of chocolate chunks and macadamia nuts for a sweet, crunchy snack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XxfzzSv6oMcgWyRxe0B5aXrH28rgIYTe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ghirardelli Chocolate Squares, Milk Chocolate with Caramel Filling, 0.53-Ounce Squares (Pack of 430)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Individually wrapped milk chocolate squares filled with caramel, perfect for snacking or sharing.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FOvMmXPZ3j4kSPlig8rWXFB6D51P6EoH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pepperidge Farm Dark Chocolate Milano Cookies, 6 Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are gourmet cookies featuring a rich dark chocolate filling sandwiched between two crisp, buttery biscuits, packaged in a convenient 6-ounce size with 12 packs for sharing or snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1X6AXwPy0jeaoI-xoJR6imsuNeR4LBvDg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pepperidge Farm Chocolate Chunk Crispy Cookies, Sausalito Milk Chocolate Macadamia, 7.2-ounce (pack of 5)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of five 7.2-ounce bags of crispy cookies featuring a blend of chocolate chunks and macadamia nuts for a sweet, crunchy snack.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Sb3jhiVJRh2sj1H-cQRbYBN-sKvrX9KF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Manischewitz Matzo Ball Soup, Reduced Sodium, Kosher for Passover, 24-ounce (Pack of 3)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of three 24-ounce containers of reduced sodium chicken soup featuring matzo balls, suitable for Passover and adhering to kosher dietary laws.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XbWY_IEFQF3wCI6ebT7LdWnOZInKurvU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Compleats Beef Steak Tips with Mash Potatoes, 10-Ounce Microwavable Bowls (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A convenient pack of six microwavable bowls containing tender beef steak tips served with creamy mashed potatoes, designed for quick and easy meal preparation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1iCnvYSkZDY_3eTRl00_A8xOydTXh0a8l&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Healthy Choice Chicken Tortilla Soup, 14-Ounce Microwavable Containers (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of six 14-ounce microwavable containers of chicken tortilla soup, offering a convenient and nutritious meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fuYJHdOR8OzaTIA1VVXxyOHr_braUdlF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Chicken Breast &amp; Gravy with Mashed Potatoes, 10-Ounce Units (Pack of 6)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient, ready-to-eat meal featuring tender chicken breast in gravy served with mashed potatoes, packaged in six 10-ounce units.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F5TUiZNWrWBqDZezsrvSt2AhrT9M1VU4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Meal Mart Amazing Meals Passover Beef Goulash 12 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A ready-to-eat beef goulash specifically designed for Passover, packaged in a 12 oz container.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_467_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_467_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_467_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_468",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_468_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WDBfLdu-80UQQPKvk1AeCxRB0UkqWGFL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fun Dip Assorted 48 - 0.5oz Packs</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains 48 individual 0.5oz packets of flavored candy powder paired with edible dipping sticks, perfect for a fun and interactive treat.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z16mak1ayoMZFGFwJKFXdSVPgMOkdCm7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Charms Sweet Pops,48ct,30 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bulk pack of colorful lollipops, perfect for parties or candy buffets, featuring a variety of flavors and a sweet, long-lasting taste.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uxrQ0JgwC_uA6Y7C0JEiQcxfUh3XDhqV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sparkling ICE Spring Water, Orange Mango, 17-Ounce Bottles (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A refreshing, flavored sparkling water in a convenient 17-ounce bottle, available in a pack of 12, featuring a blend of orange and mango.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WDBfLdu-80UQQPKvk1AeCxRB0UkqWGFL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fun Dip Assorted 48 - 0.5oz Packs</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product contains 48 individual 0.5oz packets of flavored candy powder paired with edible dipping sticks, perfect for a fun and interactive treat.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z16mak1ayoMZFGFwJKFXdSVPgMOkdCm7&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Charms Sweet Pops,48ct,30 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bulk pack of colorful lollipops, perfect for parties or candy buffets, featuring a variety of flavors and a sweet, long-lasting taste.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_468_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_468_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_468_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_469",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_469_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lesaKqDS78uIvA09OYk06jJsNlTWNN_5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Chicory-Pecan Bitters - coffee &amp; nut flavors with aromatic spices</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A concentrated flavoring agent that combines coffee and nut flavors with aromatic spices, ideal for enhancing cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KzdtU7OXzgfXPGdhiMlXpl4ilqAHGVa-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Bitters Tonic Syrup - British Colonial Style 16.5oz glass bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This syrup is a concentrated mixer designed to enhance cocktails with a complex blend of flavors inspired by British colonial ingredients.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GPrWENTDb6FpBaZBUFBGJS7LPkuNPPC3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Mojo Cubano Bitters - bright citrus flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a cocktail mixer that adds bright citrus flavors to drinks, enhancing the taste of cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FDtfl7vVI7gRGDPxfOEE_rf3HhK7wSVL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Tex-Mex Bitters - grapefruit, lime, culantro, cumin, jalapeno flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavor-enhancing mixer featuring a blend of grapefruit, lime, culantro, cumin, and jalapeno, designed to add complexity to cocktails and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yuNfaHzGcdgt-jFnFB5S0Od195OKJouZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Cucumber Bitters - cucumber, lavender, lemon, mint flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a flavorful cocktail mixer that combines cucumber, lavender, lemon, and mint, perfect for enhancing drinks with a refreshing herbal twist.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lesaKqDS78uIvA09OYk06jJsNlTWNN_5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Chicory-Pecan Bitters - coffee &amp; nut flavors with aromatic spices</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A concentrated flavoring agent that combines coffee and nut flavors with aromatic spices, ideal for enhancing cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KzdtU7OXzgfXPGdhiMlXpl4ilqAHGVa-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Bitters Tonic Syrup - British Colonial Style 16.5oz glass bottle</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This syrup is a concentrated mixer designed to enhance cocktails with a complex blend of flavors inspired by British colonial ingredients.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GPrWENTDb6FpBaZBUFBGJS7LPkuNPPC3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Mojo Cubano Bitters - bright citrus flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a cocktail mixer that adds bright citrus flavors to drinks, enhancing the taste of cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1R56spxY9b5bKywidQJSua5tnxC8O-9Sw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Gumbo Bitters - tastes just like gumbo!</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavorful blend of spices and herbs designed to enhance cocktails and dishes with the distinctive taste of traditional gumbo.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FDtfl7vVI7gRGDPxfOEE_rf3HhK7wSVL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Tex-Mex Bitters - grapefruit, lime, culantro, cumin, jalapeno flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavor-enhancing mixer featuring a blend of grapefruit, lime, culantro, cumin, and jalapeno, designed to add complexity to cocktails and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yuNfaHzGcdgt-jFnFB5S0Od195OKJouZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Cucumber Bitters - cucumber, lavender, lemon, mint flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a flavorful cocktail mixer that combines cucumber, lavender, lemon, and mint, perfect for enhancing drinks with a refreshing herbal twist.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_469_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_469_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_469_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_470",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_470_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lesaKqDS78uIvA09OYk06jJsNlTWNN_5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Chicory-Pecan Bitters - coffee &amp; nut flavors with aromatic spices</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A concentrated flavoring agent that combines coffee and nut flavors with aromatic spices, ideal for enhancing cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GPrWENTDb6FpBaZBUFBGJS7LPkuNPPC3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Mojo Cubano Bitters - bright citrus flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a cocktail mixer that adds bright citrus flavors to drinks, enhancing the taste of cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FDtfl7vVI7gRGDPxfOEE_rf3HhK7wSVL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Tex-Mex Bitters - grapefruit, lime, culantro, cumin, jalapeno flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavor-enhancing mixer featuring a blend of grapefruit, lime, culantro, cumin, and jalapeno, designed to add complexity to cocktails and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yuNfaHzGcdgt-jFnFB5S0Od195OKJouZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Cucumber Bitters - cucumber, lavender, lemon, mint flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a flavorful cocktail mixer that combines cucumber, lavender, lemon, and mint, perfect for enhancing drinks with a refreshing herbal twist.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lesaKqDS78uIvA09OYk06jJsNlTWNN_5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Chicory-Pecan Bitters - coffee &amp; nut flavors with aromatic spices</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A concentrated flavoring agent that combines coffee and nut flavors with aromatic spices, ideal for enhancing cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GPrWENTDb6FpBaZBUFBGJS7LPkuNPPC3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Mojo Cubano Bitters - bright citrus flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a cocktail mixer that adds bright citrus flavors to drinks, enhancing the taste of cocktails and other beverages.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1R56spxY9b5bKywidQJSua5tnxC8O-9Sw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Gumbo Bitters - tastes just like gumbo!</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavorful blend of spices and herbs designed to enhance cocktails and dishes with the distinctive taste of traditional gumbo.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FDtfl7vVI7gRGDPxfOEE_rf3HhK7wSVL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Tex-Mex Bitters - grapefruit, lime, culantro, cumin, jalapeno flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A flavor-enhancing mixer featuring a blend of grapefruit, lime, culantro, cumin, and jalapeno, designed to add complexity to cocktails and culinary creations.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yuNfaHzGcdgt-jFnFB5S0Od195OKJouZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">El Guapo Cucumber Bitters - cucumber, lavender, lemon, mint flavors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a flavorful cocktail mixer that combines cucumber, lavender, lemon, and mint, perfect for enhancing drinks with a refreshing herbal twist.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_470_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_470_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_470_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_471",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_471_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_pBttswyOhHaMKKnd0_LRkch-Y3CIYAZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Snappy Popcorn 1 Gallon Snappy Pure Peanut Oil No Color Added, 128 Fl Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 128 fl oz container of pure peanut oil, perfect for cooking and frying, with no added colors, ideal for achieving crispy popcorn and other delicious fried dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vEg9iCcIBFkAMw-HiUDI4oL4BByxEZgx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hain Pure Foods Safflower Oil, 32 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile cooking oil with a light flavor, ideal for frying, saut\u00e9ing, and salad dressings.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_pBttswyOhHaMKKnd0_LRkch-Y3CIYAZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Snappy Popcorn 1 Gallon Snappy Pure Peanut Oil No Color Added, 128 Fl Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 128 fl oz container of pure peanut oil, perfect for cooking and frying, with no added colors, ideal for achieving crispy popcorn and other delicious fried dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16L7k3OLCe6uwSo5_zsdPO5O9mX1rvrCA&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">La Tourangelle Avocado Oil, 16.9 Ounce Tin</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This 16.9-ounce tin contains high-quality avocado oil, ideal for cooking, baking, and salad dressings, known for its rich flavor and health benefits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZdaLf3nAbBz9h5ZUCP5Ag5cn2D3A6iIY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">A L'Olivier Olive Oil Infused with Basil, 8.3 Ounce Tin in a Gift Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This gourmet olive oil, infused with fresh basil, comes in an elegant gift box and is perfect for enhancing salads, marinades, and culinary creations.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_471_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_471_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_471_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_472",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_472_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L5y3KQwQKI9yrBwoUzo70zhs_gGcGHId&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Beef Tamales, In Chili Sauce, 15-Ounce Units (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of twelve 15-ounce cans of beef tamales served in chili sauce, offering a convenient and flavorful meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ce1s1b1FTK8mUcYzD2LzKQY2JEMYBF8w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chunky Grilled Steak Chili with Beans, 19 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 19-ounce cans containing a hearty chili made with grilled steak and beans, perfect for a quick meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1e64UwR4b5Xtk58b_Fb9YjITAU_yY5Mtd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chunky Split Pea &amp; Ham Soup, 19 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 19-ounce cans of hearty split pea and ham soup, offering a savory and nutritious meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VGzmiqGYpNVn2JukqQcIMhLCKsoqqLIg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chicken Noodle Soup, 14.75 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 14.75-ounce cans of classic chicken noodle soup, featuring tender chicken, hearty noodles, and flavorful broth, perfect for a quick meal or comforting dish.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L5y3KQwQKI9yrBwoUzo70zhs_gGcGHId&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Beef Tamales, In Chili Sauce, 15-Ounce Units (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of twelve 15-ounce cans of beef tamales served in chili sauce, offering a convenient and flavorful meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ce1s1b1FTK8mUcYzD2LzKQY2JEMYBF8w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chunky Grilled Steak Chili with Beans, 19 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 19-ounce cans containing a hearty chili made with grilled steak and beans, perfect for a quick meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zvKiCKm_KuljI5HCXekNukju_rC59_Uu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LARABAR Fruit &amp; Nut Food Bar, Apple Pie, Gluten Free1.6 oz Bars (Pack of 16)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 16 gluten-free fruit and nut bars with an apple pie flavor, made from wholesome ingredients for a convenient snack option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1e64UwR4b5Xtk58b_Fb9YjITAU_yY5Mtd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chunky Split Pea &amp; Ham Soup, 19 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of twelve 19-ounce cans of hearty split pea and ham soup, offering a savory and nutritious meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VGzmiqGYpNVn2JukqQcIMhLCKsoqqLIg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chicken Noodle Soup, 14.75 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 14.75-ounce cans of classic chicken noodle soup, featuring tender chicken, hearty noodles, and flavorful broth, perfect for a quick meal or comforting dish.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_472_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_472_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_472_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_473",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_473_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L5y3KQwQKI9yrBwoUzo70zhs_gGcGHId&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hormel Beef Tamales, In Chili Sauce, 15-Ounce Units (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product consists of twelve 15-ounce cans of beef tamales served in chili sauce, offering a convenient and flavorful meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ce1s1b1FTK8mUcYzD2LzKQY2JEMYBF8w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chunky Grilled Steak Chili with Beans, 19 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 19-ounce cans containing a hearty chili made with grilled steak and beans, perfect for a quick meal option.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ce1s1b1FTK8mUcYzD2LzKQY2JEMYBF8w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Campbell's Chunky Grilled Steak Chili with Beans, 19 Ounce Cans (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of twelve 19-ounce cans containing a hearty chili made with grilled steak and beans, perfect for a quick meal option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q2IyzA9wmlN7G1aeQierTzor7qTFeQd5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fritos Cheese Dip, Jalapeno Cheddar, 9 Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A creamy and flavorful dip with a spicy jalapeno cheddar taste, perfect for pairing with chips or vegetables.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1grfEB2fK5O4ZRlbO3f2CPeiwvjuo5HrL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fritos The Original Corn Chip - 50/1 oz. bags</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 50 individual 1-ounce bags of classic corn chips, perfect for snacking on-the-go or serving at gatherings.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_473_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_473_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_473_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_474",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_474_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_pBttswyOhHaMKKnd0_LRkch-Y3CIYAZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Snappy Popcorn 1 Gallon Snappy Pure Peanut Oil No Color Added, 128 Fl Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 128 fl oz container of pure peanut oil, perfect for cooking and frying, with no added colors, ideal for achieving crispy popcorn and other delicious fried dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mzvOhhVv2783pgwXSiCPrJdfOzrdMHNx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jif Creamy Peanut Butter, 48 Ounce, 2 count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bulk package of smooth peanut butter, ideal for spreading on bread, adding to recipes, or enjoying straight from the jar.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_pBttswyOhHaMKKnd0_LRkch-Y3CIYAZ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Snappy Popcorn 1 Gallon Snappy Pure Peanut Oil No Color Added, 128 Fl Oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 128 fl oz container of pure peanut oil, perfect for cooking and frying, with no added colors, ideal for achieving crispy popcorn and other delicious fried dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mzvOhhVv2783pgwXSiCPrJdfOzrdMHNx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jif Creamy Peanut Butter, 48 Ounce, 2 count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a bulk package of smooth peanut butter, ideal for spreading on bread, adding to recipes, or enjoying straight from the jar.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1V66MH34nNZFxwao6_xPsmOhkRUekusZ9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Planters Salted Peanuts 3 Pound 8 Ounce Value Container</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A large value container of salted peanuts, perfect for snacking or adding to recipes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_474_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_474_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_474_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_475",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_475_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19KgkKePb_wjti-Vq-XLp7d8HabAwXb-Y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smuckers Sampler Pack (Pack of 6) (Simply Fruit Variety Pack of 6 Flavors)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A variety pack containing six different flavors of fruit spreads made with simple ingredients, perfect for enhancing breakfast items or snacks.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BlaOypThubLtWaWU9RFom90ddI9VxYWE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Y.S. Eco Bee Farms Raw Honey - 22 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a jar of unprocessed honey, sourced from eco-friendly bee farms, ideal for sweetening beverages, baking, or as a natural topping for various dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Jxx_JGTD_e1A_H2OaWpHejMJqd2lkPbd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jack Links Screamin Demon 12 2.4oz Sticks Per Box</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box containing 12 sticks of spicy beef jerky, offering a bold and flavorful snack option for meat lovers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cvVGfilUYHt9hhmK3Bl1dE_LtTv8_z-N&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jack Links Lil Chub Hot Sausage, 1.625 Ounce (Pack of 24)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 24 individual, spicy sausage sticks made from high-quality meat, perfect for on-the-go snacking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=158koljwZ9DpG31JYuS_VavWd6E6Tf4d-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jack Links Beef Steaks, Teriyaki, 1-Ounce (Pack of 12)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of 12 individually wrapped teriyaki-flavored beef steaks, perfect for a high-protein snack on the go.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_k5782HttTAktfz6nLLhl1cXCdR-reii&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nature Valley Chewy Fruit &amp; Nut Trail Mix Bars 6 Pack 7.4 oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A pack of six chewy snack bars made with a blend of fruits and nuts, designed for convenient on-the-go nourishment.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jf3ls65YCsxWnNRaGxc18eUOOdn6UQt5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KIND Bar Variety Pack, 12-Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A selection of nutritious snack bars featuring a variety of flavors, each made with wholesome ingredients like nuts, fruits, and grains, packaged in a convenient 12-count box.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_475_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_475_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_475_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_476",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_476_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F6Cd2goiG55sf-CNwiFIT4DbInBKbRmI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Go Veggie Vegan Parmesan Cheese Pack of 2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a plant-based alternative to traditional Parmesan cheese, packaged in a convenient two-pack for vegan consumers seeking a dairy-free cheese option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tMhmj2vPNG7f_8tVOnJNO9W-S1S0Xq3O&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Vegg Combo (4.5 Oz Container and the Vegg Cookbook)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A powdered egg substitute paired with a cookbook, designed for vegan cooking and baking.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GsR-VvCqTW2KFvZAevgWguw3gbfX4K75&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bob's Red Mill Gluten-Free Garbanzo Fava Flour, 22-Ounce Packages (Pack of 4)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A gluten-free flour blend made from garbanzo beans and fava beans, suitable for baking and cooking, available in a pack of four 22-ounce bags.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gNnhdtyenQ6yIANrVmoCIhRjxuM8UkIr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Simply Organic Garlic Powder Certified Organic, 3.64-Ounce Container</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a 3.64-ounce container of certified organic garlic powder, perfect for adding robust garlic flavor to a variety of dishes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F6Cd2goiG55sf-CNwiFIT4DbInBKbRmI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Go Veggie Vegan Parmesan Cheese Pack of 2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a plant-based alternative to traditional Parmesan cheese, packaged in a convenient two-pack for vegan consumers seeking a dairy-free cheese option.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tMhmj2vPNG7f_8tVOnJNO9W-S1S0Xq3O&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Vegg Combo (4.5 Oz Container and the Vegg Cookbook)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A powdered egg substitute paired with a cookbook, designed for vegan cooking and baking.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_476_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_476_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_476_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_477",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_477_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hZI9P5tcz95zuvaGG6mU653NJRP4WvFC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ghirardelli Chocolate Intense Dark 86% Cacao Midnight Reverie Gift Bag, 4.12oz</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A premium dark chocolate gift bag featuring 86% cacao, perfect for chocolate lovers seeking a rich and intense flavor experience.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L-AK5mvJmOnv8UjMwh1gZYiIh-TTcU0y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">[FFP] Lindt Excellence Dark Chocolate, 70% Cocoa, 6 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A premium dark chocolate product featuring 70% cocoa content, packaged in a convenient six-count format for indulgent snacking.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13W2NYLffR76AoWSXSY_irMMZITv0F_og&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chocolate Tootsie Pops 60 pops</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bag containing 60 chocolate-flavored lollipops with a chewy center, perfect for a sweet treat or party favor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S4wffiVt6ROWuRJVzijCOlhK940dUGU6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">General Mills Fiber One Brownies, 1 Pound-5.3 Oz (21.3 OZ)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually packaged, fiber-rich brownies from General Mills, designed to provide a healthier dessert option with a balance of taste and nutrition.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17YapNRMgmnF2mCpajlPkAc6LMSZIvqxv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One 90 Calorie Brownies 38 Ct</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box of low-calorie brownies that each contain fiber, designed as a healthier snack option with a total of 38 individually wrapped servings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qq6i0nzbTqcQPCACJMYgHr25oEWdKNAR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One Soft Baked Cookies, Chocolate Chip 24 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are soft-baked chocolate chip cookies designed to provide a tasty snack option with added fiber.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_477_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_477_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_477_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_478",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_478_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Ek_9H_5HgCDegs5DlHBHPmIbfuasZoPz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">McCormick Pure Ground Black Pepper, 18-Ounce</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This versatile seasoning is finely ground black pepper, ideal for enhancing the flavor of a wide range of dishes.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13W2NYLffR76AoWSXSY_irMMZITv0F_og&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chocolate Tootsie Pops 60 pops</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A bag containing 60 chocolate-flavored lollipops with a chewy center, perfect for a sweet treat or party favor.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S4wffiVt6ROWuRJVzijCOlhK940dUGU6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">General Mills Fiber One Brownies, 1 Pound-5.3 Oz (21.3 OZ)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually packaged, fiber-rich brownies from General Mills, designed to provide a healthier dessert option with a balance of taste and nutrition.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17YapNRMgmnF2mCpajlPkAc6LMSZIvqxv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One 90 Calorie Brownies 38 Ct</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box of low-calorie brownies that each contain fiber, designed as a healthier snack option with a total of 38 individually wrapped servings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kv5TAIJ3eFgT4RGxQeaT2oken_btw_zL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Rokeach Memorial Yahrzeit Tumbler, 1-count (Pack of 24)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a pack of 24 tumblers designed for commemorating loved ones during Yahrzeit, featuring a memorial design suitable for honoring Jewish traditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qq6i0nzbTqcQPCACJMYgHr25oEWdKNAR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One Soft Baked Cookies, Chocolate Chip 24 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are soft-baked chocolate chip cookies designed to provide a tasty snack option with added fiber.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S4wffiVt6ROWuRJVzijCOlhK940dUGU6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">General Mills Fiber One Brownies, 1 Pound-5.3 Oz (21.3 OZ)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually packaged, fiber-rich brownies from General Mills, designed to provide a healthier dessert option with a balance of taste and nutrition.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17YapNRMgmnF2mCpajlPkAc6LMSZIvqxv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One 90 Calorie Brownies 38 Ct</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box of low-calorie brownies that each contain fiber, designed as a healthier snack option with a total of 38 individually wrapped servings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qq6i0nzbTqcQPCACJMYgHr25oEWdKNAR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One Soft Baked Cookies, Chocolate Chip 24 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are soft-baked chocolate chip cookies designed to provide a tasty snack option with added fiber.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_478_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_478_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_478_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "food_pair_479",
+      "elements": [
+        {
+          "type": "html",
+          "name": "food_pair_479_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S4wffiVt6ROWuRJVzijCOlhK940dUGU6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">General Mills Fiber One Brownies, 1 Pound-5.3 Oz (21.3 OZ)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually packaged, fiber-rich brownies from General Mills, designed to provide a healthier dessert option with a balance of taste and nutrition.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qq6i0nzbTqcQPCACJMYgHr25oEWdKNAR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One Soft Baked Cookies, Chocolate Chip 24 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are soft-baked chocolate chip cookies designed to provide a tasty snack option with added fiber.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AFBPP8l4ElVppzb3Jeoi_mw49bvzOvdE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Jell-o Strawberry, Gelatin Dessert 3 Oz. 4-pack</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a convenient four-pack of strawberry-flavored gelatin dessert mix that sets into a wobbly treat when prepared with water.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S4wffiVt6ROWuRJVzijCOlhK940dUGU6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">General Mills Fiber One Brownies, 1 Pound-5.3 Oz (21.3 OZ)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are individually packaged, fiber-rich brownies from General Mills, designed to provide a healthier dessert option with a balance of taste and nutrition.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17YapNRMgmnF2mCpajlPkAc6LMSZIvqxv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One 90 Calorie Brownies 38 Ct</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A box of low-calorie brownies that each contain fiber, designed as a healthier snack option with a total of 38 individually wrapped servings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qq6i0nzbTqcQPCACJMYgHr25oEWdKNAR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Fiber One Soft Baked Cookies, Chocolate Chip 24 Count</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are soft-baked chocolate chip cookies designed to provide a tasty snack option with added fiber.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "food_pair_479_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_479_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "food_pair_479_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

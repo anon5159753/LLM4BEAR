@@ -1,0 +1,252 @@
+{
+    "0": {
+        "input": "Intent: Asian food products\nBundle Items:\n1. Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import ]\n2. Nagatanien OTONA NO FURIKAKE Mini #2 | Rice Seasoning | 34.8g ( 20 Pcs ) [ Japanese Import ]\n3. Faygo, Rock &amp; Rye Soda, 2 Liter (Pack of 8)\n4. Nagatanien Ochazuke Nori , Assortment&nbsp;(Pack of 50)\n5. Honey Bee Brand Premium Roasted Seaweed Snack (Green Laver) Pack of 9\n6. Dongwon Korean Olive Oil Flavored Seasoned Seaweed (Laver) Snack 0.17-ounce Bags (Pack of 9)\n7. Moonstruck Chocolate 40pc Valentine Wrapped Collection\n",
+        "target_score": 2.0,
+        "annotations": "The bundle does not integrate functionally as there are items like the Faygo, Rock & Rye Soda and the Moonstruck Chocolates which are not asian products. Additionally, the asian products do not complement each other as they are a mix of Japanese and Korean products. The diversity does not add to the bundle and there are too many items, many of which are not thematically similar."
+    },
+    "1": {
+        "input": "Intent: They are complementary granola/topping\nBundle Items:\n1. Bob's Red Mill Flaked Coconut Unsweetened,  4 - 12-Ounce Bags\n2. Bob's Red Mill Granola, Apple Cinnamon No Fat, 12-Ounce Bags (Pack of 4)\n",
+        "target_score": 5.0,
+        "annotations": "This bundle functions extremely well as part of the granola + shredded coconut breakfast bundle. The items make thematic sense, and the diversity of the shredded coconut complements the granola very well."
+    },
+    "2": {
+        "input": "Intent: vegetables\nBundle Items:\n1. Libby's Organic Sweet Peas, 15-Ounces Cans (Pack of 12)\n2. Green Giant Mixed Vegetable Blend, 15-Ounce (Pack of 6)\n",
+        "target_score": 4.0,
+        "annotations": "This bundle functions well to provide canned vegetables. The items are thematically similar, though perhaps some more items could be added for diversity."
+    },
+    "3": {
+        "input": "Intent: feed baby\nBundle Items:\n1. Bright Beginnings Premium Milk-Based Baby Powder Formula with Iron, Stage 2, 24.0 Ounce\n2. Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz.  (pack of 4) (Packaging May Vary)\n3. Bright Beginnings Premium Milk-Based Formula with Iron, 23.4 Ounce\n4. Vermont Organics Soy-Based Organic Infant Formula with Iron, 23.2 oz. cans (pack of 4)\n",
+        "target_score": 3.0,
+        "annotations": "Whilst this bundle clearly functions as a way to provide baby formula to a baby, I disagree with the fact that all 4 formulas are necessary to the bundle. Maybe 2 of the same brand would suffice, and the other two does not provide additional diversity."
+    },
+    "4": {
+        "input": "Intent: Spicy World Crushed Mint Leaves, 3.5-Ounce Bags (Pack of 6)\nBundle Items:\n1. Bob's Red Mill Bulgur Red Wheat Ala, 28-Ounce (Pack of 4)\n2. Yehuda Hummus\n3. Libby's Organic Garbanzo Beans, 15-Ounces Cans (Pack of 12)\n4. Frontier Garlic Powder, 16 Ounce Bags (Pack of 2)\n5. Spicy World Crushed Mint Leaves, 3.5-Ounce Bags (Pack of 6)\n6. Kevala Organic Tahini 16 oz\n7. Nature's Way Coconut Oil, 16 Ounce\n8. Lawry's Taco Spices &amp; Seasonings, 1-Ounce Packets (Pack of 24)\n9. Spicy World Tellicherry Pepper, 14-Ounce Unit\n10. Cortas Falafel Powder 200gr (7oz)\n",
+        "target_score": 2.0,
+        "annotations": "This bundle seems to want to function as a way to provide Indian seasoning to food, though the additional diversity seems to suggest it is a general seasoning bundle with an extremely broad coverage of spices and seasoning. This diversity damages the complementary of the bundle, and the items are not quite thematically similar. There is even randomly taco spices and seasoning. Overall, the amount of disconnected items makes the bundle quite unappealing."
+    },
+    "5": {
+        "input": "Intent: Fruit Leather\nBundle Items:\n1. Stretch Island Fruit Leather Variety Pack 48-Count, 0.5-Ounce Package\n2. Stretch Island Original Fruit Leather, Mango, 30 -  0.5-Ounce Bars Per Box\n",
+        "target_score": 4.0,
+        "annotations": "This bundle functions to provide fruit leather variety. The variety pack is very good at providing diversity to the fruit leather enjoyer who seems to specifically prefer the mango variety. Due to the variety already being provided by the variety pack, the bundle actually has less complementary. The items are thematically similar. Perhaps the bundle could be improved but it is sufficient."
+    },
+    "6": {
+        "input": "Intent: Exotic Flavours\nBundle Items:\n1. Indus Organic Nutmeg Whole Jumbo, 8 Ounce\n2. The Ginger People All Natural Crystallized Ginger Select Slices, 1 lb Bag in a Gift Box\n",
+        "target_score": 2.0,
+        "annotations": "The bundle functions as a means to add additional flavour to various dishes. However, it seems like the items are not thematically similar enough. For instance, 1 pound of ginger crystallized ginger is mixed with 8 ounces of nutmeg. Perhaps an additional item needs to be added to increase diversity and complementarity."
+    },
+    "7": {
+        "input": "Intent: seeds\nBundle Items:\n1. Crunchies Freeze-Dried Fruit Snack, Pineapple, 1.5-Ounce Pouches (Pack of 6)\n2. NOW Foods SUNFLOWER SEEDS HULLED RAW 1 LB\n3. Sun Maid Fruit Bits, 7-Ounce Bags (Pack of 6)\n",
+        "target_score": 3.0,
+        "annotations": "The bundle functions to add snacking options for users. However, it seems like the raw sunflower seeds do not fit the theme of dried fruit and thus, is not similar. Thus, to increase complementary, perhaps the sunflower seeds need to be removed."
+    },
+    "8": {
+        "input": "Intent: Different food for cooking\nBundle Items:\n1. Sam Mills Pasta D'Oro Gluten Free Penne Rigate, 1-Pound (Pack of 6)\n2. Bob's Red Mill Gluten-Free Pancake Mix, 22-Ounce Packages (Pack of 4)\n",
+        "target_score": 1.0,
+        "annotations": "The function makes little sense as a bundle, as the pasta and pancake mix fulfill different niches with no overlap. The bundle has no thematic similarity, and the bundle does not seem inteded for a specific user. No complementarity or functional diversity."
+    },
+    "9": {
+        "input": "Intent: the intent was chewable candy. \nBundle Items:\n1. Mary Jane, 16 Oz\n2. 5 Lb. Bulk Bag Mary Janes Candy\n3. Ghirardelli SQUARES Double Fudge,  4.63-Ounce Package\n4. Mary Jane Candy 2 Pound Snack Pack Approx. 110 pcs.\n5. Mary Janes: 5LBS\n",
+        "target_score": 2.0,
+        "annotations": "The bundle seems specifically for Mary Janes Candy. Thus, the diversity of the Ghirardelli squares chocolate does not complement to the bundle. Given that all the chocolates are the same, and are at 2 and 5 pounds each, it is also difficult to recommend this bundle to users, given the sheer bulk quantities. Thus, some items should be removed as they share the same niche."
+    },
+    "10": {
+        "input": "Intent: different candy\nBundle Items:\n1. YummyEarth Organic Lollipops, Assorted Flavors, 5-Pound Bag\n2. Swerseys Chocolate 1940's-1970's Nostalgic Candy Assortment Gift Box, Number 62, 1.5 Pound\n3. World Wide Gourmet Foods Snack Box, Deluxe Edition\n",
+        "target_score": 5.0,
+        "annotations": "The bundle seems to function as a means to add variety in bulk. To fulfill this, there are an assortment of lollipops, candy and snack foods of different varieties, each complementing each other. Thus, the diversity is high, and somehow is also thematically similar."
+    },
+    "11": {
+        "input": "Intent: different candy\nBundle Items:\n1. LifeSavers Sugar Free Wint-O-Green Hard Candy, 2.75-Ounce Bags, (Pack of 12)\n2. Werther's Original Hard Candy, Caramel Sugar Free, 2.75-Ounce Bags (Pack of 12)\n3. LifeSavers Sugar Free 5 Flavor Hard Candy, 2.75-Ounce Bags, (Pack of 12)\n4. LifeSavers sugar free wild cherry hard candy - 2.75 Ea (Pack of 12)\n5. Jolly Rancher Sugar Free Hard Candy, Assorted Flavors, 3.6-Ounce Bags (Pack of 12)\n",
+        "target_score": 4.0,
+        "annotations": "The bundle seems highly coherent, and seems to function to give users many different varieties of hard candy. The diversity of the caramel hard candies may be off, as it provides a chocolate caramel flavour rather than just pure rock candy. However, it maintains enough thematic similarity to rock candy that it may be passable and does not damage the complementarity of the bundle."
+    },
+    "12": {
+        "input": "Intent: K-cup coffee\nBundle Items:\n1. Grove Square Hot Cocoa, Dark, 24 Count Single Serve Cup for Keurig K-Cup Brewers\n2. Caf&eacute; Escapes Keurig K Cups, Caramel, 24 Count\n3. Van Houtte Raspberry Chocolate Truffle Keurig K-Cups, 18 Count, 6.35 OZ (180g)\n4. Gloria Jean's Caramel Almond Torte Coffee Keurig K-Cups, 18 Count\n5. Trader Joe's Instant Coffee Packets with Creamer &amp; Sugar -10 Packets - 2 Pack\n6. Brooklyn Beans Breakfast Blend Decaffeinated CoffeeSingle-cup coffee for Keurig K-Cup Brewers for Keurig Brewers, 40 Count\n7. Mind Reader &quot;The Wall&quot; 50 Capacity K-Cup Coffee Pod Display Rack Holder, Black\n",
+        "target_score": 4.0,
+        "annotations": "There are many different varieties of coffee pods that can be used with Keurig brewing systems. There is also a wall which can hold these pods. The diversity of the instant coffee packets seem to damage the complementarity of the bundle which would otherwise be perfect."
+    },
+    "13": {
+        "input": "Intent: Baking goods\nBundle Items:\n1. Morton Iodized Table Salt - 4lb. box\n2. Domino Sugar, Granulated, 10-Pound Bags\n3. Morton Iodized Salt 26oz\n4. Crisco Pure Vegetable Oil, 128 Ounce (Pack of 4)\n5. Crisco Butter Flavor Non Stick Cooking Spray- 3 Pack\n",
+        "target_score": 3.0,
+        "annotations": "The bundle does not function under the intent baking goods, but rather the sugar, salt and cooking oil may form a cooking essentials kit. However the butter flavour non stick cooking spray may be more for baking, and is not essential to the kit, and does not complement other items. If it were to be removed it would make the bundle more thematically similar."
+    },
+    "14": {
+        "input": "Intent: cup coffee\nBundle Items:\n1. Green Mountain Coffee Fair Trade Wild Mountain Blueberry, 24-Count K-Cups for Keurig Brewers (Pack of 2)\n2. Green Mountain Limited Edition Golden French Toast K Cups 24 Count\n3. Green Mountain Coffee Dark Magic (Extra Bold), K-cups For Keurig Brewers, 24-count Box\n4. Keurig, Gloria Jean's, Hazelnut, K-Cup packs, 50-Count\n5. Keurig, Coffee People, Jet Fuel, 50 Count K-Cup Packs\n6. Keurig, Tully's Italian Roast,50 K-Cup Packs\n7. Keurig, The Original Donut Shop, 50 Count K-Cup Packs\n8. Green Mountain Coffee - Wild Mountain Blueberry 24 Count K-Cups - (Pack of 4)\n",
+        "target_score": 3.0,
+        "annotations": "The bundle is for trying different varieties of coffee pods. However, providing 8 different pod types seems to do more harm for diversity than improve the complementarity of the bundle. Some coffee pods should be removed to improve the bundle."
+    },
+    "15": {
+        "input": "Intent: Noodles\nBundle Items:\n1. Nongshim Chapagetti Chajang Noodle, 4.5 Ounce (Pack of 24)\n2. Nongshim Neoguri Spicy Seafood Noodle Ramyun, 4.2 Ounce Packages (Pack of 20)\n3. Nongshim Shin Ramyun Black Noodle Soup, 4.58 Ounce Packages (Pack of 18)\n4. Nongshim Shin Noodle Ramyun Gourmet Spicy, 4.2-Ounce Packages, 20-Count\n5. Nong Shim Hot and Spicy Noodle Soup:Ansung Tangmyun\n",
+        "target_score": 5.0,
+        "annotations": "The bundle is a Nongshim variety pack of instant noodles. Under this umbrella each item complements each other, and diversity is provided by the different flavour. The items are all thematically similar."
+    },
+    "16": {
+        "input": "Intent: HEALTHY FOOD\nBundle Items:\n1. Kitchens of India Paste for Butter Chicken Curry, 3.5-Ounce Boxes (Pack of 6)\n2. Lime (Citron Vert) Teisseire all natural Lime (Citron Vert) Syrup 600 ml 20.3oz, One\n3. Frontera Pouch, Fajita Skillet, 8-Ounce (Pack of 6)\n4. Sqwincher 060107-GR Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Grape Flavor, 0.11 oz Bag (Pack of 50)\n5. Bbq Bros Rubs (Southern Style)\n6. Monin Premium Gourmet Blackcurrant Syrup 750ml Bottle (black currant)\n7. Teisseire Blackcurrant Syrup 20.3 Fl Oz\n8. Taste of Bombay Basmati Rice, 5 Pound\n",
+        "target_score": 2.0,
+        "annotations": "The bundle functions poorly as a mix of two separate bundles. Basically, there is an electrolyte + drink mix bundle with a indian food bundle. Thus, some items do not complement some other items, and there is no useful diversity offered. "
+    },
+    "17": {
+        "input": "Intent: Seaweed\nBundle Items:\n1. Nagatanien OTONA NO FURIKAKE Mini #2 | Rice Seasoning | 34.8g ( 20 Pcs ) [ Japanese Import ]\n2. Nagatanien Ochazuke Nori , Assortment&nbsp;(Pack of 50)\n3. Honey Bee Brand Premium Roasted Seaweed Snack (Green Laver) Pack of 9\n4. Dongwon Korean Olive Oil Flavored Seasoned Seaweed (Laver) Snack 0.17-ounce Bags (Pack of 9)\n",
+        "target_score": 5.0,
+        "annotations": "The bundle functions for seaweed and rice seasoning bundle. There could be two bundles here, though seaweed can be added to a meal with rice and it would be very appropriate. Thus, this bundle is thematically coherent, and has good diversity and complementarity."
+    },
+    "18": {
+        "input": "Intent: Furikake\nBundle Items:\n1. Nagatanien OTONA NO FURIKAKE Mini #1 | Rice Seasoning | 37.6g ( 20 Pcs ) [ Japanese Import ]\n2. Faygo, Rock &amp; Rye Soda, 2 Liter (Pack of 8)\n",
+        "target_score": 1.0,
+        "annotations": "This bundle is god awful with cherry soda being mixed with rice seasoning. The bundle does not have a coherent function, has no complementarity, no thematic similarity and no useful diversity."
+    },
+    "19": {
+        "input": "Intent: Different food for baking\nBundle Items:\n1. Bisquick Pancake and Baking Mix, Gluten-Free, 16-Ounce Boxes (Pack of 3)\n2. Glutino Gluten Free Pantry Fluffy Pancake Mix, 16-Ounce Boxes (Pack of 6)\n3. Maple Grove Farms Gluten Free Pancake &amp; Waffle Mix, 16-Ounce Boxes (Pack of 4)\n",
+        "target_score": 5.0,
+        "annotations": "This bundle provides many different pancake mixes to test out. Under a specific intent of trying out different mixes, the items each complement each other, and are similar. "
+    },
+    "20": {
+        "input": "Intent: Vermont Organics Soy-Based Organic Infant Formula with Iron\nBundle Items:\n1. Vermont Organics Milk-Based Organic Infant Formula with Iron, 23.2 oz.  (pack of 4) (Packaging May Vary)\n2. Vermont Organics Soy-Based Organic Infant Formula with Iron, 23.2 oz. cans (pack of 4)\n",
+        "target_score": 3.0,
+        "annotations": "The bundle is for providing baby formula to babies. However, one is soy and one is milk-based. From the perspective that the parent may be unsure of which formula the baby might prefer, the items make sense. However, the complementary of the bundle is questionable."
+    },
+    "21": {
+        "input": "Intent: Different food for cooking\nBundle Items:\n1. The Spice Lab Ghost Pepper Salt Naga Jolokia- Really Hot, 4 oz.\n2. Bhut Jolokia (Ghost) Powder - Very Hot\n3. Mad Dog 357 Ghost Pepper Hot Sauce\n",
+        "target_score": 5.0,
+        "annotations": "This bundle functions well as a means to provide extreme spice and chilli options. The items are highly complementary and at different spice levels, the diversity is provided."
+    },
+    "22": {
+        "input": "Intent: fruits\nBundle Items:\n1. Raw Pepitas / No Shell Pumpkin Seeds (16oz bag)\n2. Oranges Slices: 5LBS\n3. Jansal Valley Raw Slivered Almonds, 1 Pound\n",
+        "target_score": 3.0,
+        "annotations": "The bundle seems to be for providing snacking options. However, the orange slice candy may not fully be suitable, as it is a sweet and unhealthy alternative compared to the pumpkin seeds and almonds. Thus, the complementarity is damaged. The bundle could be improved with another snacking option which is more health conscious."
+    },
+    "23": {
+        "input": "Intent: Baking goods\nBundle Items:\n1. McCormick Italian Seasoning, 6.25-Ounce\n2. Mulberries, Dried (1 LB.)\n3. Frontier Mustard Seed, Brown Mustard Whole Certified Organic, 16 Ounce Bags (Pack of 3)\n4. The Sprout House Ed's Mix Organic Sprouting Seeds - Alfalfa, Fenugreek, Broccoli, Clover 1 pound\n5. Frontier Natural Products - Nutritional Yeast Mini Flakes - 1 lb.\n6. GLUTEN-FREE KELP NOODLES 16 OZ\n",
+        "target_score": 2.0,
+        "annotations": "It seems very difficult to understand the function of this bundle. This is because it seems to be for seasoning, but the dried mulberies and kelp noodles are confusing additions and do not complement the bundle. The mini yeast flakes could be an exciting diversity pick but the thematic similarity of the bundle items is not quite there due to the non complementary items."
+    },
+    "24": {
+        "input": "Intent: Mother Earth Products\nBundle Items:\n1. Mother Earth Products Dried Zucchini, 1 Full Quart\n2. Mother Earth Products Dried Leek Rings, Green Onions, 1 Full Quart\n3. Mother Earth Products Dried Chives, Green Onions, 1 Full Quart\n4. Mother Earth Products Dried Celery, Crosscut, 1 Full Quart\n5. Mother Earth Products Dried Tomato Dices, 1 Full Quart\n6. Mother Earth Products Dried Garlic, Granulated, 1 Full Quart\n",
+        "target_score": 5.0,
+        "annotations": "The bundle is for dried vegetables and foods to add nutrition to dishes. The items are thematically similar, and the different vegetables provides diversity and complementarity."
+    },
+    "25": {
+        "input": "Intent: Snack\nBundle Items:\n1. Dried Apples, 16 Oz\n2. Lemon Peel Cut &amp; Sifted Organic - 1 lb,(Frontier)\n3. Harmony House Foods Freeze-Dried Blackberries, whole (4 oz, Quart Size Jar)\n4. Dryden And Palmer Old fashioned Rock Candy Amber Sugar Crystals, 5lbs Box\n5. Orange, Sweet Essential Oil 4 oz\n6. Frontier Natural Products Organic Orange Peel Cut and Sifted -- 1 lb\n",
+        "target_score": 3.0,
+        "annotations": "The bundle serves as a dried fruit bundle with some noise. For instance the rock candy and orange essential oil is not thematically similar to this purpose and thus, does not contribute to the diversity and complementarity of the bundle. However, the core of the bundle does make sense."
+    },
+    "26": {
+        "input": "Intent: Spices\nBundle Items:\n1. The Ginger People All Natural Crystallized Ginger Select Slices, 1 lb Bag in a Gift Box\n2. Bob's Red Mill White Corn Grits (2 / 24oz)\n",
+        "target_score": 1.0,
+        "annotations": "The bundle makes no sense. Adding a pound of crystallized ginger with white corn grits for savory dishes makes no sense whatsoever. There is no complementarity or helpful diversity."
+    },
+    "27": {
+        "input": "Intent: SNACKS ITEMS\nBundle Items:\n1. Teddie All Natural Peanut Butter, Smooth, 26-Ounce Jar (Pack of 3)\n2. Schar Crackers Cheese Bites Gluten Free, 4.4-Ounces (Pack of 3)\n3. If You Care Unbleached Large Baking Cups, 60-Count Boxes (Pack of 24)\n4. Just the Cheese Mini Round Snacks, Classic White Cheddar, 0.5-Ounce Bags (Pack of 16)\n5. Glutino Parmesan and Garlic Bagel Chips Gluten Free, 6-Ounce (Pack of 6)\n6. Cafe Bustelo Instant Espresso, 3.5-Ounce Jars (Pack of 4)\n7. Glutino Gluten Free Toaster Pastry, Strawberry, 1.83 oz. 5 Count\n",
+        "target_score": 2.0,
+        "annotations": "The bundle is nonsense and does not function. The items do not complement each other and are not thematically similar, other than the fact that this could be a bundle that offers gluten free options. However, the added diversity of random coffee and cheese snacks does not help the complementarity of the bundle and ruins its efficacy."
+    },
+    "28": {
+        "input": "Intent: Seasoning (Salt and sugar)\nBundle Items:\n1. Morton Iodized Table Salt - 4lb. box\n2. Domino Sugar, Granulated, 10-Pound Bags\n3. Morton Iodized Salt 26oz\n",
+        "target_score": 3.0,
+        "annotations": "The bundle is a cooking essentials bundle. The items do complement each other, though the 26oz salt does not add additional diversity or complementarity as the salt is already provided in bulk."
+    },
+    "29": {
+        "input": "Intent: Teas\nBundle Items:\n1. Harney &amp; Sons Hot Cinnamon Spice 30ct 2.67 oz\n2. Garden of Life Raw Organic Meal, 2.6lbs\n3. Celestial Seasonings Herb Tea, Tension Tamer, 20-Count Tea Bags (Pack of 6)\n",
+        "target_score": 3.0,
+        "annotations": "The bundle is a protein mix + tea combo. Rather than having two separate intents which do not complement each other, the bundle should focus on a single concept for thematic similarity. "
+    },
+    "30": {
+        "input": "Intent: Spaghetti Pasta\nBundle Items:\n1. Roland Barchetta Kalamata Olive Halves, 4-Pounds 6-Ounce Jar\n2. Tasty Bite Pad Thai Simmer Sauce Entree, Heat &amp; Eat, 7-Ounce Pouches (Pack of 6)\n3. Barilla Whole Grain Thin Spaghetti Pasta, 13.25 Ounce Boxes (Pack of 4)\n",
+        "target_score": 1.0,
+        "annotations": "The bundle seems to a collection of random food items without a clear function. The olives do not complement the noodles or the Pad Thai Sauce. There is no useful diversity or thematic similarity."
+    },
+    "31": {
+        "input": "Intent: COOKING SPICES\nBundle Items:\n1. Lime (Citron Vert) Teisseire all natural Lime (Citron Vert) Syrup 600 ml 20.3oz, One\n2. Frontera Pouch, Fajita Skillet, 8-Ounce (Pack of 6)\n3. Sqwincher 060107-GR Sugar Free Electrolyte Powdered Beverage Mix Lite Qwik Stik, Grape Flavor, 0.11 oz Bag (Pack of 50)\n4. Bbq Bros Rubs (Southern Style)\n5. Monin Premium Gourmet Blackcurrant Syrup 750ml Bottle (black currant)\n6. Teisseire Blackcurrant Syrup 20.3 Fl Oz\n",
+        "target_score": 2.0,
+        "annotations": "This bundle is a mix of beverage mixes and seasoning mixes. From that perspective, the bundle does not make sense, and some items do not complement others. The bundle should be split into two separate bundles due to the split thematic similarities of the bundle."
+    },
+    "32": {
+        "input": "Intent: sweet\nBundle Items:\n1. Mayan Caveman Cookies\n2. Tanka Bar Natural Buffalo Bar Variety Pack of 12\n3. Alpine Caveman Cookies\n",
+        "target_score": 2.0,
+        "annotations": "The bundle is a mix of Caveman Cookies and a buffalo protein-rich meat bar. I think the Buffalo Bar does not contribute useful diversity to add to the complementarity of the bundle, and something similar to the cookies should be added instead."
+    },
+    "33": {
+        "input": "Intent: Butter cookie\nBundle Items:\n1. Trader Joe's Banana Bread Mix\n2. Trader Joe's Apple &amp; Cinnamon Naturally Flavored Instant Oatmeal (2 Pack)\n",
+        "target_score": 1.0,
+        "annotations": "The banana bread mix does not complement the apple cinnamon oatmeal. One is a breakfast option and the other is for baking. There should be other items on the dataset that would better complement each individual item."
+    },
+    "34": {
+        "input": "Intent: Sweet cookies \nBundle Items:\n1. Keebler El Duende Cookies, Coconut, 11 Ounce (Pack of 12)\n2. Keebler Simply Made Cookies, Chocolate Chip, 10 Ounce\n3. Keebler El Duende Sandwich Cookies, Lemon, 13 Ounce (Pack of 12)\n",
+        "target_score": 5.0,
+        "annotations": "This functions as a cookie bundle. There are different flavors for diversity and they all complement each other well due to their thematic similarity."
+    },
+    "35": {
+        "input": "Intent: Canned goods\nBundle Items:\n1. Le Sueur Early June Peas, 15-Ounce (Pack of 8)\n2. Del Monte Diced Tomatoes Basil, Garlic and Oregano, 14.5-Ounce (Pack of 8)\n",
+        "target_score": 4.0,
+        "annotations": "This bundle functions as a way to bundle canned vegetables for users. The diversity could be improved by adding more canned goods. The complementary and similarity of the two items is high. "
+    },
+    "36": {
+        "input": "Intent: body supplements\nBundle Items:\n1. Tassimo Gevalia Pumpkin Spice Latte\n2. Tassimo Gevalia Peppermint Mocha Tdiscs (2 Pack) - Limited Edition\n3. Pirate's Booty Baked Rice and Corn Puffs 0.5 oz Gluten Free Snack Bags, Aged White Cheddar (Pack of 36)\n4. Corner Coffeehouse Sweet Vanilla Latte T DISC, 16-Count (8 Servings) for the TASSIMO Single Cup Brewer\n5. Cheetos Glow-in-The-Dark Halloween, 0.65 Ounce Bags, 30 count\n6. Gevalia 01317 Twinings Chai Tea Latte for Tassimo Coffee and Beverage Makers\n7. Plum Organics Tots Teensy Fruits, Apple, 5 Count (Pack of 8) (400g)\n8. Suchard Hot Chocolate Syrup, 8-Count T-Discs for Tassimo Coffeemakers (Pack of 2)\n",
+        "target_score": 2.0,
+        "annotations": "The bundle is meant to function as a coffee pod variety pack. However, there are random snacks such as the glow in the dark cheetos and fruit snacks which do not complement the coffee pod bundle as they share no thematic similarity."
+    },
+    "37": {
+        "input": "Intent: different candy\nBundle Items:\n1. Sun Maid Mixed Fruit, 7-Ounce Pouches (Pack of 6)\n2. Sun Maid Natural California Raisins, 20-Ounce\n",
+        "target_score": 5.0,
+        "annotations": "A very strong bundle for snacking purposes. The mixed fruit and raisins complement each other well and are thematically similar."
+    },
+    "38": {
+        "input": "Intent: Tea and Coffee\nBundle Items:\n1. San Francisco Bay Coffee Whole Bean Decaf Espresso Roast, 32-Ounce Bag\n2. 24 Count - Van Houtte Raspberry Chocolate Truffle Coffee Cup For Keurig K-Cup Brewers\n3. Celestial Seasonings Green Tea, Decaf Mint, 20-Count Tea Bags (Pack of 6)\n4. Twinings English Breakfast Tea, K-Cup Portion Pack for Keurig K-Cup Brewers, 24-Count\n",
+        "target_score": 3.0,
+        "annotations": "Although the bundle is for coffee users, having the coffee pods assumes the existence of the coffee pod machine, whilst the whole coffee beans requires a grinder and a different machine. Thus, upon closer inspection the bundle does not complement each other as much."
+    },
+    "39": {
+        "input": "Intent: garlic and chives\nBundle Items:\n1. Mother Earth Products Dried Chives, Green Onions, 1 Full Quart\n2. Mother Earth Products Dried Garlic, Granulated, 1 Full Quart\n",
+        "target_score": 4.0,
+        "annotations": "The bundle is dried chives and garlic. The bundle items complement each other, though more dried foods for seasoning could be added to improve the complementarity and diversity of the bundle."
+    },
+    "40": {
+        "input": "Intent: Pasta\nBundle Items:\n1. Barilla Elbow Pasta, 16 Ounce Boxes (Pack of 16)\n2. Ferara Pasta, Penne (Mostacioli), 1-Pound (Pack of 20)\n",
+        "target_score": 4.0,
+        "annotations": "This bundle is for bulk purchasing pasta types of pene and elbow-shaped pasta. It is designed for specific users, and is a thematically sound bundle."
+    },
+    "41": {
+        "input": "Intent: taste\nBundle Items:\n1. Happy Creamies Organic Veggie and Fruit Snacks with Coconut Milk, (Strawberry, Raspberry and Carrot), 1 Ounce (Pack of 8)\n2. Happy Baby Organic Puffs, Banana Puffs, 2.1-Ounce Containers(Pack of 6)\n3. Plum Organics Tots Fiddlesticks Snack Sticks, Berry, 2.12-Ounce Boxes (Pack of 6)\n4. Bigelow Cozy Chamomile Herbal Tea, 20-Count Boxes (Pack of 6)\n5. Signature's Dried Plums Pitted Prunes, 3.5 Pounds\n6. KAKOSI Organic Cocoa Butter 16 oz.\n7. Blue Sky Organic Root Beer Encore, 12 Ounce Cans (Pack of 24)\n8. Happy Baby happy tot Spinach, Mango &amp; Pear\n",
+        "target_score": 2.0,
+        "annotations": "This bundle seems to be a mix of baby snacks but strangely, herbal tea, dried plums, root beer and cocoa butter are add to the bundle to distract from the function. These items do not complement the baby food and snacks function, and hurt the thematic similarity of the bundle."
+    },
+    "42": {
+        "input": "Intent: Sweet Snacks\nBundle Items:\n1. Mallomars Pure Chocolate Cookies 8 ounce box (Pack of 3)\n2. The Ginger People All Natural Crystallized Ginger Select Slices, 1 lb Bag in a Gift Box\n",
+        "target_score": 1.0,
+        "annotations": "The marshmellow chocolate coated cookies does not directly complement the crystallised ginger slices. They are not similar enough to complement each other, and do not add any appropriate diversity."
+    },
+    "43": {
+        "input": "Intent: different teas\nBundle Items:\n1. Rishi Tea Silver Needle, 1.23 Ounce\n2. Numi Organic Tea White Rose, Full Leaf White Tea, 16-Count Tea Bags - 1.13 oz (Pack of 3)\n3. 4style Bright flowers design Tin Tea Box Mini Coffee box/ cute Storage box/ Storage Case 4pc/lot+Freeshipping\n4. Tea of Life White Teas, Dragon Lily, 25 Count\n",
+        "target_score": 5.0,
+        "annotations": "This is a highly coherent and functional bundle. There are many different flavours of tea, and a tin tea box to complement the diverse selection of flavours."
+    },
+    "44": {
+        "input": "Intent: Baking ingredients\nBundle Items:\n1. Nutiva Organic Extra Virgin Coconut Oil, 15-Ounce (Pack of 2)\n2. La Tourangelle Organic Canola Oil, 16.9-Ounce Tins (Pack of 3)\n3. Hidden Springs Maple Vermont Maple Syrup, 1 Pint - Fancy Grade - Light Amber\n4. Great River Organic Milling, Organic Specialty All Purpose Whole Wheat Flour, 25-Pound Package\n",
+        "target_score": 2.0,
+        "annotations": "The bundle seems to just say the bundle is for baking, but it does not directly serve a single baking function. For instance, it is very difficult to see how the maple syrup, canola oil and wheat flour would directly mix together. Thus, this bundle lacks complementarity, and thematic similarity."
+    },
+    "45": {
+        "input": "Intent: bundle 1\nBundle Items:\n1. Raw Pepitas / No Shell Pumpkin Seeds (16oz bag)\n2. Side Mates Traditional Couscous in Canister, Plain, 27 Ounce\n3. NOW Foods SUNFLOWER SEEDS HULLED RAW 1 LB\n4. Jansal Valley Raw Slivered Almonds, 1 Pound\n",
+        "target_score": 3.0,
+        "annotations": "The bundle seems to be for snacking. However, the couscous cannot be eaten directly, and it serves as a base for other dishes. Thus, the couscous does not directly complement the other three products and should be removed."
+    },
+    "46": {
+        "input": "Intent: Different food for drinking\nBundle Items:\n1. Tea Forte Loose Leaf Tea Canister - Jasmine Green 3.5 ounces\n2. Organic Silver Needle Loose Leaf White Tea\n",
+        "target_score": 5.0,
+        "annotations": "This is a stea bundle, mixing jasmine green tea and loose leaf white tea in a single bundle. The diversity is in the different flavour profiles, and they complement each other."
+    },
+    "47": {
+        "input": "Intent: snacks\nBundle Items:\n1. Campbell's Go Soup, Spicy Chorizo &amp; Pulled Chicken with Black Beans, 14-Ounce Microwavable Pouch\n2. Kraft Macaroni &amp; Cheese Dinner, Spirals, 5.5-Ounce Boxes (Pack of 24)\n3. Kirkland Signature Steak Strips Extra Thick Cut, 12 Ounce\n4. World Kitchens Brown Sugar Beef Jerky, 12-Ounce Bag\n5. Lance, Captain's Wafers, Jalapeno Cheddar Sandwich Crackers, 8 Count, 11oz Tray (Pack of 3)\n6. Royal Family Japanese Mixed Mochi, 15.8-Ounce (Pack of 4)\n7. Brix Bar, Milk Chocolate, 8-Ounce Packages (Pack of 3)\n",
+        "target_score": 1.0,
+        "annotations": "This bundle mixes too many unrelated products and thus, does not serve a single function. For instance, there is no reason why microwave macaroni should be mixed with japanese mochi. The diversity hurts the complementary of the bundle in this instance as there is no thematic similarity."
+    },
+    "48": {
+        "input": "Intent: \nTRADITIONAL SNACKS\n\nBundle Items:\n1. Mini Thattai\n2. Mullu Tenkuzhal\n3. Haldirams Hara Chiwda 400g\n",
+        "target_score": 5.0,
+        "annotations": "This bundle seems to be a traditional indian snacks package and it serves this function very well. The items are complementary, and the different options means there is useful diversity. The thematic similarity and coherence of the bundle is high too."
+    },
+    "49": {
+        "input": "Intent: Romanian\nBundle Items:\n1. HARBACH ROMANIAN BRANZA DE BURDUF 450g\n2. RAURENI ROMANIAN CASTRAVETI PICKLES 680G\n",
+        "target_score": 3.0,
+        "annotations": "The bundle could potentially make sense, but additional items must be added to truly make each item more complementary. This bundle has great potential as a cheese plate snack with milk cheese and pickles. However, more diverse options should be added to make this intent more explicit and clear."
+    }
+}

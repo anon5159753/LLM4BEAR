@@ -1,0 +1,888 @@
+{
+  "title": "Clothing Bundle Comparison \u2014 Batch 32",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "clothing_pair_620",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_620_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1G3TT-JnMbzMTlj99LZsiuUjy23jmVGeC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Runway 3792 Women's Stretch Round Neck Scrub Top Daybreak Medium</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's medical scrub top featuring a stretch fabric, round neck design, and a vibrant Daybreak color, suitable for healthcare professionals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tzXKXT24_Ee1NjoIu_-AslA4YT9lNwkQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cherokee Round Neck Top, Fluttering About, Small</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's small round neck top featuring a fluttering design, suitable for casual wear or as part of a medical scrub uniform.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L4ZRUJxbIHmpysuEhk9DNg705Agi7yYk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cherokee HQ Assorted Contrast Trim V-Neck Print Medical Scrub Tops</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These medical scrub tops feature a V-neck design with assorted prints and contrast trim, designed for healthcare professionals for comfort and style during work.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1G3TT-JnMbzMTlj99LZsiuUjy23jmVGeC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Runway 3792 Women's Stretch Round Neck Scrub Top Daybreak Medium</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's medical scrub top featuring a stretch fabric, round neck design, and a vibrant Daybreak color, suitable for healthcare professionals.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tzXKXT24_Ee1NjoIu_-AslA4YT9lNwkQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cherokee Round Neck Top, Fluttering About, Small</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's small round neck top featuring a fluttering design, suitable for casual wear or as part of a medical scrub uniform.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_620_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_620_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_620_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_621",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_621_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z4PAhi5VezOmay-ls1zqsADRUdkZsmLz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bslingerie Womens Floral Trim Fashion Bustier Corset &amp; Gloves Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish bustier corset featuring floral trim, accompanied by matching gloves, designed for a chic and alluring look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14y8tnzXtLIICqDz4P0JOqtsok3LwPuEU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adult Alice in Wonderland Wig</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A whimsical wig designed to resemble the hairstyle of Alice from Wonderland, perfect for costume parties or themed events.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14y8tnzXtLIICqDz4P0JOqtsok3LwPuEU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adult Alice in Wonderland Wig</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A whimsical wig designed to resemble the hairstyle of Alice from Wonderland, perfect for costume parties or themed events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QN1Axe6igZpsHqBl7wPOpC4GV2zH_w9H&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Light Blue Short Sleeves Bow Sweet Lolita Dress with Ruffles (X-Large)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A light blue, short-sleeved dress featuring a bow and ruffles, designed in the sweet Lolita style, available in X-Large size.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_621_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_621_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_621_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_622",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_622_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14y8tnzXtLIICqDz4P0JOqtsok3LwPuEU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adult Alice in Wonderland Wig</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A whimsical wig designed to resemble the hairstyle of Alice from Wonderland, perfect for costume parties or themed events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QN1Axe6igZpsHqBl7wPOpC4GV2zH_w9H&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Light Blue Short Sleeves Bow Sweet Lolita Dress with Ruffles (X-Large)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A light blue, short-sleeved dress featuring a bow and ruffles, designed in the sweet Lolita style, available in X-Large size.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z4PAhi5VezOmay-ls1zqsADRUdkZsmLz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bslingerie Womens Floral Trim Fashion Bustier Corset &amp; Gloves Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish bustier corset featuring floral trim, accompanied by matching gloves, designed for a chic and alluring look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14y8tnzXtLIICqDz4P0JOqtsok3LwPuEU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Adult Alice in Wonderland Wig</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A whimsical wig designed to resemble the hairstyle of Alice from Wonderland, perfect for costume parties or themed events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lL_uH5GNbOvsMJForqq9pBagieVkDjuP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">8 Pack Panty: Surprise Grab Bag- Mix of Black Fuchsia Thongs, Boyshorts and Briefs</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes eight assorted women's panties featuring a mix of thongs, boyshorts, and briefs in black and fuchsia colors.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_622_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_622_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_622_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_623",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_623_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18KI_byghj0LMohdbn5WsMuA3XLuGUqz6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">&quot;All Chicks Do Is Complain&quot; -- Peanuts -- Junk Food Mens T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This men's t-shirt features a humorous slogan inspired by the Peanuts comic strip, making it a fun and casual addition to a novelty wardrobe.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lMicebl-Cp-ioqmYi0o0rvmN52QJhxC6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smash -- The Incredible Hulk -- Marvel Comics -- Junk Food Mens T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's t-shirt featuring a design inspired by The Incredible Hulk from Marvel Comics, perfect for fans of the franchise.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pWDu0W0My2uh3M_WzZ6Dac5cW9t0pjWB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">JUNK FOOD CLOTHING Men's Let's Do Lunch T-Shirt, Liberty, Large</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's t-shirt featuring a playful \"Let's Do Lunch\" graphic, designed for comfort in a size large and made by Junk Food Clothing.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SbeD7SZEl_ADNqPlgde1iqp0EJcLCgaO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">JUNK FOOD CLOTHING Men's Superman Is Now Single T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This T-shirt features a humorous graphic design referencing Superman's single status, making it a fun casual wear option for fans of the superhero.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1f-8CHs_O930Q_IgxiDbY4MSTuFlJ4dl3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Paul Frank Junior's Plush Life Julius Head Print Pant</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These pajama pants feature a playful Julius the Monkey head print, designed for juniors and ideal for comfortable lounging or sleep.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nJy74cA72pqTlk6HS1xroI_nVa1cQRGS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lazy Daisy -- Snoopy -- Peanuts -- Junk Food Crop Sleeve Fitted Juniors T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This fitted juniors t-shirt features a cropped sleeve design and showcases a playful Snoopy graphic from the Peanuts comic series, making it a fun and trendy addition to any casual outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18KI_byghj0LMohdbn5WsMuA3XLuGUqz6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">&quot;All Chicks Do Is Complain&quot; -- Peanuts -- Junk Food Mens T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This men's t-shirt features a humorous slogan inspired by the Peanuts comic strip, making it a fun and casual addition to a novelty wardrobe.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lMicebl-Cp-ioqmYi0o0rvmN52QJhxC6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Smash -- The Incredible Hulk -- Marvel Comics -- Junk Food Mens T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's t-shirt featuring a design inspired by The Incredible Hulk from Marvel Comics, perfect for fans of the franchise.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pWDu0W0My2uh3M_WzZ6Dac5cW9t0pjWB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">JUNK FOOD CLOTHING Men's Let's Do Lunch T-Shirt, Liberty, Large</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's t-shirt featuring a playful \"Let's Do Lunch\" graphic, designed for comfort in a size large and made by Junk Food Clothing.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1SbeD7SZEl_ADNqPlgde1iqp0EJcLCgaO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">JUNK FOOD CLOTHING Men's Superman Is Now Single T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This T-shirt features a humorous graphic design referencing Superman's single status, making it a fun casual wear option for fans of the superhero.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_623_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_623_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_623_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_624",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_624_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ty1vRWJ7cL36-ruYIy9zRsoyMa2Pivdk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marilyn Monroe Classy Soft Chemise with Lace Trim and Adjustable Straps (X-Large, Pink Rose)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant pink rose chemise features lace trim and adjustable straps, providing a comfortable and stylish sleepwear option for women.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HZA1hQLJ_UN503hqmth39JOHWQmNqKwI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marilyn Monroe Collection Silky Smooth Stretch Chemise (X-Large, Shell Spots)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This X-Large chemise features a silky smooth fabric with a shell spots pattern, designed for comfortable sleep and lounging.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tj4RwQtfiLpkNbo9GcOJqP8vEq6qreFg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cotton Cantina Juniors Rayon Spaghetti Strap Tank Top with Lace Trim</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight tank top designed for juniors, featuring spaghetti straps and delicate lace trim, ideal for casual wear or layering.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ty1vRWJ7cL36-ruYIy9zRsoyMa2Pivdk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marilyn Monroe Classy Soft Chemise with Lace Trim and Adjustable Straps (X-Large, Pink Rose)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant pink rose chemise features lace trim and adjustable straps, providing a comfortable and stylish sleepwear option for women.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HZA1hQLJ_UN503hqmth39JOHWQmNqKwI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Marilyn Monroe Collection Silky Smooth Stretch Chemise (X-Large, Shell Spots)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This X-Large chemise features a silky smooth fabric with a shell spots pattern, designed for comfortable sleep and lounging.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_624_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_624_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_624_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_625",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_625_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Edn9WH294bCvBkupx5Y2phcxBAutkaXF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bellini Women's Fancy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a stylish pair of women's mules, designed for comfort and ease of wear, featuring an elegant and fancy aesthetic suitable for various occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z6R5AyV9AJ1pB0gmH_0eCx406NAEDfT2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Twisted Women's Daisy Faux Suede Strappy Gladiator Flip-flop Sandals</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These sandals feature a faux suede design with a strappy gladiator style and a flip-flop silhouette, ideal for casual summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EX7OJxdKXS10hHkY0_owwW-ZGsD3_hom&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Franco Sarto Uturn Travel Tote</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a spacious shoulder bag designed for travel, featuring a stylish and functional design suitable for carrying essentials.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Is5l6cYAm0FF3G_uzpygNx1b9qCtJPK-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CL by Chinese Laundry Women's Brilliance Fabric Ballet Flat</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's ballet flat made from fabric, designed for comfort and style, ideal for casual or semi-formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E6zHhy4eK7f4GhBeO20t6HAZYFEUiSA9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Irisa Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by AK Anne Klein, featuring a stylish and comfortable design suitable for casual and formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vWU8za9iPYJngMRYg8Z22fsmW5KwL-Pa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trotters Women's Cameron Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by Trotters, featuring a comfortable and stylish design suitable for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12ucmM71iAlJhHxFg3wS0SIC7fn-qIr9_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Annabella T-Strap Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This stylish women's sandal features a T-strap design, combining comfort and elegance for versatile summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1A8i6NT3er_8FzT08jwHedALKlVV2krFH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Womens Water Shoes Aqua Socks Pool Beach ,Yoga,Dance and Exercise 4 colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Lightweight and flexible footwear designed for women, suitable for water activities, yoga, dance, and exercise, available in four colors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dcpnxMpqmeow0DS-89GsjlSouykaeEVx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Franco Sarto Women's L-Vasca Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's sandal features a stylish design suitable for casual wear, combining comfort with a modern aesthetic.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z6R5AyV9AJ1pB0gmH_0eCx406NAEDfT2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Twisted Women's Daisy Faux Suede Strappy Gladiator Flip-flop Sandals</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These sandals feature a faux suede design with a strappy gladiator style and a flip-flop silhouette, ideal for casual summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E6zHhy4eK7f4GhBeO20t6HAZYFEUiSA9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Irisa Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by AK Anne Klein, featuring a stylish and comfortable design suitable for casual and formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vWU8za9iPYJngMRYg8Z22fsmW5KwL-Pa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trotters Women's Cameron Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by Trotters, featuring a comfortable and stylish design suitable for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12ucmM71iAlJhHxFg3wS0SIC7fn-qIr9_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Annabella T-Strap Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This stylish women's sandal features a T-strap design, combining comfort and elegance for versatile summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dcpnxMpqmeow0DS-89GsjlSouykaeEVx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Franco Sarto Women's L-Vasca Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's sandal features a stylish design suitable for casual wear, combining comfort with a modern aesthetic.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_625_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_625_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_625_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_626",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_626_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Edn9WH294bCvBkupx5Y2phcxBAutkaXF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bellini Women's Fancy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a stylish pair of women's mules, designed for comfort and ease of wear, featuring an elegant and fancy aesthetic suitable for various occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z6R5AyV9AJ1pB0gmH_0eCx406NAEDfT2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Twisted Women's Daisy Faux Suede Strappy Gladiator Flip-flop Sandals</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These sandals feature a faux suede design with a strappy gladiator style and a flip-flop silhouette, ideal for casual summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EX7OJxdKXS10hHkY0_owwW-ZGsD3_hom&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Franco Sarto Uturn Travel Tote</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a spacious shoulder bag designed for travel, featuring a stylish and functional design suitable for carrying essentials.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Is5l6cYAm0FF3G_uzpygNx1b9qCtJPK-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CL by Chinese Laundry Women's Brilliance Fabric Ballet Flat</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's ballet flat made from fabric, designed for comfort and style, ideal for casual or semi-formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E6zHhy4eK7f4GhBeO20t6HAZYFEUiSA9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Irisa Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by AK Anne Klein, featuring a stylish and comfortable design suitable for casual and formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vWU8za9iPYJngMRYg8Z22fsmW5KwL-Pa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trotters Women's Cameron Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by Trotters, featuring a comfortable and stylish design suitable for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12ucmM71iAlJhHxFg3wS0SIC7fn-qIr9_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Annabella T-Strap Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This stylish women's sandal features a T-strap design, combining comfort and elegance for versatile summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1A8i6NT3er_8FzT08jwHedALKlVV2krFH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Womens Water Shoes Aqua Socks Pool Beach ,Yoga,Dance and Exercise 4 colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Lightweight and flexible footwear designed for women, suitable for water activities, yoga, dance, and exercise, available in four colors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dcpnxMpqmeow0DS-89GsjlSouykaeEVx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Franco Sarto Women's L-Vasca Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's sandal features a stylish design suitable for casual wear, combining comfort with a modern aesthetic.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Edn9WH294bCvBkupx5Y2phcxBAutkaXF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bellini Women's Fancy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a stylish pair of women's mules, designed for comfort and ease of wear, featuring an elegant and fancy aesthetic suitable for various occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z6R5AyV9AJ1pB0gmH_0eCx406NAEDfT2&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Twisted Women's Daisy Faux Suede Strappy Gladiator Flip-flop Sandals</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These sandals feature a faux suede design with a strappy gladiator style and a flip-flop silhouette, ideal for casual summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Is5l6cYAm0FF3G_uzpygNx1b9qCtJPK-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CL by Chinese Laundry Women's Brilliance Fabric Ballet Flat</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's ballet flat made from fabric, designed for comfort and style, ideal for casual or semi-formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E6zHhy4eK7f4GhBeO20t6HAZYFEUiSA9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Irisa Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by AK Anne Klein, featuring a stylish and comfortable design suitable for casual and formal occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vWU8za9iPYJngMRYg8Z22fsmW5KwL-Pa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trotters Women's Cameron Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's sandal designed by Trotters, featuring a comfortable and stylish design suitable for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12ucmM71iAlJhHxFg3wS0SIC7fn-qIr9_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AK Anne Klein Women's Annabella T-Strap Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This stylish women's sandal features a T-strap design, combining comfort and elegance for versatile summer wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1A8i6NT3er_8FzT08jwHedALKlVV2krFH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Womens Water Shoes Aqua Socks Pool Beach ,Yoga,Dance and Exercise 4 colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Lightweight and flexible footwear designed for women, suitable for water activities, yoga, dance, and exercise, available in four colors.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dcpnxMpqmeow0DS-89GsjlSouykaeEVx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Franco Sarto Women's L-Vasca Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's sandal features a stylish design suitable for casual wear, combining comfort with a modern aesthetic.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_626_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_626_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_626_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_627",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_627_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1k9eYBzAboRlAMXU_dy1jfes-v75Ff3k4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Wmns Cuttler SW35007 Womens Laced Zip Velvet Fur Trainers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are women's stylish trainers featuring a laced and zip design made from velvet with fur accents, suitable for casual streetwear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Gw9I1DhVuUdswE3SQ4QPQ-WRpeq63qxF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Skytop Womens</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These high-top fashion sneakers for women feature a sleek design and are ideal for casual wear and street style.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DTrmIXiN8YJS3xV82MIgy3fkdcGm7s8m&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SUPRA KIDS VAIDER HIGH TOP SNEAKERS S11208K SUPRA KIDS VAIDER HIGH TOP SNEAKERS</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">High-top sneakers designed for kids, featuring a stylish silhouette suitable for casual wear and skateboarding activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1k9eYBzAboRlAMXU_dy1jfes-v75Ff3k4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Wmns Cuttler SW35007 Womens Laced Zip Velvet Fur Trainers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are women's stylish trainers featuring a laced and zip design made from velvet with fur accents, suitable for casual streetwear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Gw9I1DhVuUdswE3SQ4QPQ-WRpeq63qxF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Skytop Womens</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These high-top fashion sneakers for women feature a sleek design and are ideal for casual wear and street style.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_627_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_627_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_627_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_628",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_628_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IWgRF97vwD5uxXrioVgVedlYtSn8FVQx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black Buttons Ripped Fringe Denim Shorts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These women's denim shorts feature a black wash, decorative buttons, and a stylish ripped fringe hem for a trendy, casual look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12uEQxRkmX-4DMrGaL9MY7W3oCMVt-4VC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black White Spaghetti Strap Lace Vest</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish vest featuring a black and white lace design with spaghetti straps, ideal for layering or wearing on its own.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IWgRF97vwD5uxXrioVgVedlYtSn8FVQx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black Buttons Ripped Fringe Denim Shorts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These women's denim shorts feature a black wash, decorative buttons, and a stylish ripped fringe hem for a trendy, casual look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1X1TxRt3MXeOHeLFdmedLrjhiN9j1jxOS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside White Hooded Long Sleeve Biscuit Print Sweatshirt (One-Size, Multicolor)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a cozy, multicolored sweatshirt featuring a hood and a playful biscuit print, designed for women in a versatile one-size fit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12uEQxRkmX-4DMrGaL9MY7W3oCMVt-4VC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black White Spaghetti Strap Lace Vest</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish vest featuring a black and white lace design with spaghetti straps, ideal for layering or wearing on its own.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_628_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_628_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_628_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_629",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_629_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IWgRF97vwD5uxXrioVgVedlYtSn8FVQx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black Buttons Ripped Fringe Denim Shorts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These women's denim shorts feature a black wash, decorative buttons, and a stylish ripped fringe hem for a trendy, casual look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1X1TxRt3MXeOHeLFdmedLrjhiN9j1jxOS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside White Hooded Long Sleeve Biscuit Print Sweatshirt (One-Size, Multicolor)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a cozy, multicolored sweatshirt featuring a hood and a playful biscuit print, designed for women in a versatile one-size fit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DTrmIXiN8YJS3xV82MIgy3fkdcGm7s8m&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SUPRA KIDS VAIDER HIGH TOP SNEAKERS S11208K SUPRA KIDS VAIDER HIGH TOP SNEAKERS</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">High-top sneakers designed for kids, featuring a stylish silhouette suitable for casual wear and skateboarding activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1k9eYBzAboRlAMXU_dy1jfes-v75Ff3k4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Wmns Cuttler SW35007 Womens Laced Zip Velvet Fur Trainers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are women's stylish trainers featuring a laced and zip design made from velvet with fur accents, suitable for casual streetwear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Gw9I1DhVuUdswE3SQ4QPQ-WRpeq63qxF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Skytop Womens</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These high-top fashion sneakers for women feature a sleek design and are ideal for casual wear and street style.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12uEQxRkmX-4DMrGaL9MY7W3oCMVt-4VC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black White Spaghetti Strap Lace Vest</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish vest featuring a black and white lace design with spaghetti straps, ideal for layering or wearing on its own.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IWgRF97vwD5uxXrioVgVedlYtSn8FVQx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside Women's Black Buttons Ripped Fringe Denim Shorts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These women's denim shorts feature a black wash, decorative buttons, and a stylish ripped fringe hem for a trendy, casual look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1X1TxRt3MXeOHeLFdmedLrjhiN9j1jxOS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sheinside White Hooded Long Sleeve Biscuit Print Sweatshirt (One-Size, Multicolor)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a cozy, multicolored sweatshirt featuring a hood and a playful biscuit print, designed for women in a versatile one-size fit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1k9eYBzAboRlAMXU_dy1jfes-v75Ff3k4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Supra Wmns Cuttler SW35007 Womens Laced Zip Velvet Fur Trainers</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are women's stylish trainers featuring a laced and zip design made from velvet with fur accents, suitable for casual streetwear.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_629_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_629_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_629_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_630",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_630_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdBDzw5oy2cKvjXXejY0oRnyx2-K3cbe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Set Of 3 Stainless Steel High Shine Bangle Bracelet Silver Yellow and Rose Gold</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes three stainless steel bangles featuring a high shine finish in silver, yellow gold, and rose gold colors, perfect for layering or wearing individually.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GxNrxIiucY8Kh9giJ1dGVOqA1dWm9O8r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Blue Glass and White Simulated Diamond Drop Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These drop earrings feature a design of blue glass accented with white simulated diamonds set in sterling silver, offering a stylish accessory for various occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AJwA7bd62lWyAVzEyepQT9bZQ-jsZVu_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Women's Stainless Steel Gold Colored 10-Strand Cable Wire Chain Necklace, 16&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 16-inch women's necklace made of stainless steel featuring a gold-colored 10-strand cable wire design.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S-_0Z4HPYcuDMEkvV-N5YuQQ6HU5oapl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Women's Stainless Steel Silver Colored Cable Wire Chain Necklace, 16&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 16-inch women's necklace made of stainless steel with a silver-colored cable wire chain design.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dFuhLXABOSPYiXBJSK-MSKzaNuSVCB_Z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gold Ion Plated in Stainless Steel Braided Bangle Bracelet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish bangle bracelet featuring a braided design, crafted from stainless steel and enhanced with a gold ion plating for an elegant look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kOoWaqKTflsemWnW3W7sBgiHos2AAKA_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nine West &quot;Mix It Up&quot; Tri-Tone Linear Open Link Drop Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a tri-tone design with open link drop elements, providing a stylish and contemporary accessory for any outfit.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pdBDzw5oy2cKvjXXejY0oRnyx2-K3cbe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Set Of 3 Stainless Steel High Shine Bangle Bracelet Silver Yellow and Rose Gold</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes three stainless steel bangles featuring a high shine finish in silver, yellow gold, and rose gold colors, perfect for layering or wearing individually.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GxNrxIiucY8Kh9giJ1dGVOqA1dWm9O8r&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Blue Glass and White Simulated Diamond Drop Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These drop earrings feature a design of blue glass accented with white simulated diamonds set in sterling silver, offering a stylish accessory for various occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RKDF2c1tcIWCu7PKNvgXBPiqsHF_QqjR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bronze with Multi-Plating Czech Emerald Hammered Geometric Shape Dangle Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a hammered geometric design in a bronze finish, adorned with multi-plated accents and Czech emerald stones, creating a stylish dangle effect.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1AJwA7bd62lWyAVzEyepQT9bZQ-jsZVu_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Women's Stainless Steel Gold Colored 10-Strand Cable Wire Chain Necklace, 16&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 16-inch women's necklace made of stainless steel featuring a gold-colored 10-strand cable wire design.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HGyHky1pvlSwTJFeXlrmw1aTI983Y5Ik&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lucky Brand &quot;Wild Flower Ears&quot; Silver-Tone Flower Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These silver-tone earrings feature a flower design, perfect for adding a touch of whimsy to any outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1S-_0Z4HPYcuDMEkvV-N5YuQQ6HU5oapl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Women's Stainless Steel Silver Colored Cable Wire Chain Necklace, 16&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 16-inch women's necklace made of stainless steel with a silver-colored cable wire chain design.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YZlgnAi0NTW9gZPuxh9EPG1NN7I7-Mtt&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Invicta Men's 12828 Specialty Blue Dial Watch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This men's watch features a striking blue dial and is part of the Specialty collection by Invicta, known for its stylish design and durability.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dFuhLXABOSPYiXBJSK-MSKzaNuSVCB_Z&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gold Ion Plated in Stainless Steel Braided Bangle Bracelet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish bangle bracelet featuring a braided design, crafted from stainless steel and enhanced with a gold ion plating for an elegant look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kOoWaqKTflsemWnW3W7sBgiHos2AAKA_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nine West &quot;Mix It Up&quot; Tri-Tone Linear Open Link Drop Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a tri-tone design with open link drop elements, providing a stylish and contemporary accessory for any outfit.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_630_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_630_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_630_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_631",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_631_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dHWwTh2KnXYQ6aI-iZeSkFTSGmpuV7mK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Black Minidress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish and short black dress designed for women, ideal for casual outings or parties.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PBWNPhzTmkNOXjwi1veUwN_k2UxBDHdE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ladies My Love Leatherette Dress Burgundy-Large</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a burgundy leatherette dress designed for women, featuring a sleek silhouette suitable for night out or cocktail events, available in a large size.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mAi-agxP_rHc5-0HOUlss2kchGYUFNcS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Burlesque-Boutique Women's Red Striped Gothic Punk Overbust Corset</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This overbust corset features a striking red striped design, ideal for creating a gothic punk aesthetic while providing support and shaping to the waist.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dHWwTh2KnXYQ6aI-iZeSkFTSGmpuV7mK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Black Minidress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish and short black dress designed for women, ideal for casual outings or parties.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PBWNPhzTmkNOXjwi1veUwN_k2UxBDHdE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ladies My Love Leatherette Dress Burgundy-Large</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a burgundy leatherette dress designed for women, featuring a sleek silhouette suitable for night out or cocktail events, available in a large size.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_631_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_631_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_631_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_632",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_632_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gVe-psA4r7TWEmvHMbURbeik9f7XEt9K&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">High Waist Leather Skinny Leggings Pants Tights Full Treggings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These form-fitting leggings feature a high waist design and are made from leather-like material, offering a stylish and sleek alternative to traditional pants.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mAi-agxP_rHc5-0HOUlss2kchGYUFNcS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Burlesque-Boutique Women's Red Striped Gothic Punk Overbust Corset</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This overbust corset features a striking red striped design, ideal for creating a gothic punk aesthetic while providing support and shaping to the waist.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dHWwTh2KnXYQ6aI-iZeSkFTSGmpuV7mK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Black Minidress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish and short black dress designed for women, ideal for casual outings or parties.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PBWNPhzTmkNOXjwi1veUwN_k2UxBDHdE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ladies My Love Leatherette Dress Burgundy-Large</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a burgundy leatherette dress designed for women, featuring a sleek silhouette suitable for night out or cocktail events, available in a large size.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1gVe-psA4r7TWEmvHMbURbeik9f7XEt9K&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">High Waist Leather Skinny Leggings Pants Tights Full Treggings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These form-fitting leggings feature a high waist design and are made from leather-like material, offering a stylish and sleek alternative to traditional pants.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dHWwTh2KnXYQ6aI-iZeSkFTSGmpuV7mK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Black Minidress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish and short black dress designed for women, ideal for casual outings or parties.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PBWNPhzTmkNOXjwi1veUwN_k2UxBDHdE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ladies My Love Leatherette Dress Burgundy-Large</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a burgundy leatherette dress designed for women, featuring a sleek silhouette suitable for night out or cocktail events, available in a large size.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_632_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_632_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_632_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_633",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_633_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VbRH5N3huhDAMqPBET6S7EQsPJc1MLLS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">asoidchi Women's Batwing Round Neck Knitted Pullover</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's pullover features a batwing design and round neckline, crafted from knitted fabric for a relaxed and comfortable fit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1GcT-cM0D13JGMQdoxFN6JMXoLXGEjc-M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lee Women's Relaxed Fit Straight-Leg Pant</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are relaxed fit straight-leg pants designed for women, providing comfort and a classic silhouette suitable for casual wear or everyday activities.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VbRH5N3huhDAMqPBET6S7EQsPJc1MLLS&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">asoidchi Women's Batwing Round Neck Knitted Pullover</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's pullover features a batwing design and round neckline, crafted from knitted fabric for a relaxed and comfortable fit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lWZ0DBoUmqtCv2qi63uiITxfLoVvCF63&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">s4a Black Plus Size Convertible Dress Plus Size Swimsuit</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This versatile black convertible dress can be worn as a stylish cover-up or transformed into a plus-size swimsuit, making it an ideal choice for beach or poolside outings.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_633_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_633_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_633_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_634",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_634_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a4UJo-1PBGrxUPUEnntlIJtLbufueu8a&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KONOV Jewelry 2pcs Leather Rope Brown &amp; Black Unisex Surfer Wrap Bracelets</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes two unisex surfer-style wrap bracelets made of leather rope in brown and black colors, designed for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kycO65dREb_GEG2AWXc5qJfx1s8hlCUe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gold-Tone and White Epoxy Anchor Button Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a gold-tone finish with white epoxy detailing in a nautical anchor design, making them a stylish accessory for maritime-themed outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15sr0JyOc5mMsORZsj7FTktzxJiYjoY6y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Steve Madden &quot;White&quot; Multi-Colored Bead Stretch and Spike Adjustable Macrame Bracelet, 11&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adjustable macrame bracelet features a mix of multi-colored beads and spikes, designed for a stylish and trendy look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Jj_M7kquuiQ0XK6t8g1FwhNQrjXKtCu8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NINE WEST VINTAGE AMERICA &quot;Charmed Life&quot; Silver-Tone Heart Slider Bracelet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a silver-tone bracelet featuring a heart slider design, ideal for adding a charming touch to various outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fSMUPuw95t4Z3NW-wX7t6HSvFBktEk07&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Juicy Couture White Daisy Stud Leather Bracelet, 8.47&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an 8.47-inch leather bracelet featuring a white daisy stud design, ideal for adding a playful and stylish touch to women's jewelry collections.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yfOWjnflIh5hD5XO0VIulTFbeV-LPyY4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nine West &quot;Classics&quot; Gold-Tone and Crystal Drop Off Hoop Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These gold-tone hoop earrings feature a drop design adorned with crystals, offering a stylish and elegant accessory for various outfits.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1403ZYMIOkKU8YxUXAk5pIjMO1nU_L9rh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KONOV Jewelry Vintage Style Alloy Double Ring Pendant Adjustable Leather Cord Mens Necklace Chain</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A vintage-style necklace featuring a double ring pendant on an adjustable leather cord, designed for men.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a4UJo-1PBGrxUPUEnntlIJtLbufueu8a&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">KONOV Jewelry 2pcs Leather Rope Brown &amp; Black Unisex Surfer Wrap Bracelets</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This set includes two unisex surfer-style wrap bracelets made of leather rope in brown and black colors, designed for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1j8lNe5jtXgG2GXvdEfumI6qLDfrRq8wL&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NFL Dallas Cowboys Dog Tag Necklace</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a dog tag design adorned with the Dallas Cowboys logo, making it a stylish accessory for fans of the team.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1kycO65dREb_GEG2AWXc5qJfx1s8hlCUe&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gold-Tone and White Epoxy Anchor Button Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a gold-tone finish with white epoxy detailing in a nautical anchor design, making them a stylish accessory for maritime-themed outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15sr0JyOc5mMsORZsj7FTktzxJiYjoY6y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Steve Madden &quot;White&quot; Multi-Colored Bead Stretch and Spike Adjustable Macrame Bracelet, 11&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adjustable macrame bracelet features a mix of multi-colored beads and spikes, designed for a stylish and trendy look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Jj_M7kquuiQ0XK6t8g1FwhNQrjXKtCu8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NINE WEST VINTAGE AMERICA &quot;Charmed Life&quot; Silver-Tone Heart Slider Bracelet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a silver-tone bracelet featuring a heart slider design, ideal for adding a charming touch to various outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fSMUPuw95t4Z3NW-wX7t6HSvFBktEk07&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Juicy Couture White Daisy Stud Leather Bracelet, 8.47&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an 8.47-inch leather bracelet featuring a white daisy stud design, ideal for adding a playful and stylish touch to women's jewelry collections.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1yfOWjnflIh5hD5XO0VIulTFbeV-LPyY4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nine West &quot;Classics&quot; Gold-Tone and Crystal Drop Off Hoop Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These gold-tone hoop earrings feature a drop design adorned with crystals, offering a stylish and elegant accessory for various outfits.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_634_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_634_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_634_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_635",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_635_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14XRp5SSGCst2CjTajELjRfv45kTBuPEp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trina Turk Women's Robyn, Pool Party, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This dress features a vibrant pool party color, designed for women to wear at night out events or cocktail gatherings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a-gi1FBv4J-TUT6GCvZL7l5e-RRzLU7M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ERIN erin fetherston Women's Twist And Tied Sleeveless Ruched Cocktail Dress, Grenadine Ombre, 2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This sleeveless cocktail dress features a twist and tie design with ruched detailing in a vibrant grenadine ombre color, ideal for evening events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EGXTMXXBelzPteIi9I9uAtd2UFJvqhaI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vintage Blue Shaper 1-PC</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a vintage-style one-piece swimsuit designed to enhance the silhouette, featuring a blue color and suitable for women, including plus sizes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14XRp5SSGCst2CjTajELjRfv45kTBuPEp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trina Turk Women's Robyn, Pool Party, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This dress features a vibrant pool party color, designed for women to wear at night out events or cocktail gatherings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a-gi1FBv4J-TUT6GCvZL7l5e-RRzLU7M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ERIN erin fetherston Women's Twist And Tied Sleeveless Ruched Cocktail Dress, Grenadine Ombre, 2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This sleeveless cocktail dress features a twist and tie design with ruched detailing in a vibrant grenadine ombre color, ideal for evening events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oGa-Kj6SQsPQ_qpBfeIV64G6u9TEpaHD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cynthia Steffe Women's Mercedes Dress, Deep Indigo, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant deep indigo dress is designed for women, suitable for various special occasions such as cocktail events and weddings.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_635_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_635_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_635_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_636",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_636_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15osgOKZ3SVfMbGtrerK4LgansNq6_KGO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">aryn K Women's Print Halter Maxi Dress, Multi, X-Small</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, multi-colored halter maxi dress designed for women, featuring a flowing silhouette suitable for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oGa-Kj6SQsPQ_qpBfeIV64G6u9TEpaHD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cynthia Steffe Women's Mercedes Dress, Deep Indigo, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant deep indigo dress is designed for women, suitable for various special occasions such as cocktail events and weddings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14XRp5SSGCst2CjTajELjRfv45kTBuPEp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trina Turk Women's Robyn, Pool Party, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This dress features a vibrant pool party color, designed for women to wear at night out events or cocktail gatherings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a-gi1FBv4J-TUT6GCvZL7l5e-RRzLU7M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ERIN erin fetherston Women's Twist And Tied Sleeveless Ruched Cocktail Dress, Grenadine Ombre, 2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This sleeveless cocktail dress features a twist and tie design with ruched detailing in a vibrant grenadine ombre color, ideal for evening events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EGXTMXXBelzPteIi9I9uAtd2UFJvqhaI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vintage Blue Shaper 1-PC</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a vintage-style one-piece swimsuit designed to enhance the silhouette, featuring a blue color and suitable for women, including plus sizes.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=15osgOKZ3SVfMbGtrerK4LgansNq6_KGO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">aryn K Women's Print Halter Maxi Dress, Multi, X-Small</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, multi-colored halter maxi dress designed for women, featuring a flowing silhouette suitable for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oGa-Kj6SQsPQ_qpBfeIV64G6u9TEpaHD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cynthia Steffe Women's Mercedes Dress, Deep Indigo, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant deep indigo dress is designed for women, suitable for various special occasions such as cocktail events and weddings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14XRp5SSGCst2CjTajELjRfv45kTBuPEp&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Trina Turk Women's Robyn, Pool Party, 0</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This dress features a vibrant pool party color, designed for women to wear at night out events or cocktail gatherings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1a-gi1FBv4J-TUT6GCvZL7l5e-RRzLU7M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ERIN erin fetherston Women's Twist And Tied Sleeveless Ruched Cocktail Dress, Grenadine Ombre, 2</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This sleeveless cocktail dress features a twist and tie design with ruched detailing in a vibrant grenadine ombre color, ideal for evening events.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_636_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_636_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_636_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_637",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_637_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cyVN5HSS9J96kTDReHB-ZOGfvNha4IIQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Youyoupifa Trendy Design Long Lasting Shockproof Army Style LED Watch with Alloy Bracelet and 28 Blue LED Lights for Time &amp; Date Display</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a durable army-style LED watch featuring an alloy bracelet and 28 blue LED lights for displaying time and date.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PWoG_hHGaA3ajkM0NYFn5hxbDUkg7vjC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Youyoupifa Red+Yellow+Green+Blue LED Light Stainless Steel Fashion Wrist Watch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish stainless steel wristwatch for women featuring bright LED lights in red, yellow, green, and blue.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qac8_g4EkvXKb5nDOForUJsPX5Q_4CeV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Youyoupifa Rubber Strap Creative LED Wrist Watch (White)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This innovative wristwatch features a rubber strap and LED display, providing a modern and stylish way to tell time.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cyVN5HSS9J96kTDReHB-ZOGfvNha4IIQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Youyoupifa Trendy Design Long Lasting Shockproof Army Style LED Watch with Alloy Bracelet and 28 Blue LED Lights for Time &amp; Date Display</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a durable army-style LED watch featuring an alloy bracelet and 28 blue LED lights for displaying time and date.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PWoG_hHGaA3ajkM0NYFn5hxbDUkg7vjC&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Youyoupifa Red+Yellow+Green+Blue LED Light Stainless Steel Fashion Wrist Watch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish stainless steel wristwatch for women featuring bright LED lights in red, yellow, green, and blue.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Qac8_g4EkvXKb5nDOForUJsPX5Q_4CeV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Youyoupifa Rubber Strap Creative LED Wrist Watch (White)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This innovative wristwatch features a rubber strap and LED display, providing a modern and stylish way to tell time.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sOhCYsj7XVsdAzNLFLTyhOmlSha_78-m&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">YouYouPifa New Hours Luxury Style 2 Dial Stainless Steel Case Leather strap Quartz Watch (White)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish quartz watch featuring a stainless steel case, dual dial design, and a leather strap, suitable for both men and women.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_637_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_637_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_637_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_638",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_638_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10LzGWvuKGuyKa8ygmehZaJCOlIxC2AOQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Yupoong Wool Blend Snapback Snap Back Hat Baseball Cap 6098M</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish snapback baseball cap made from a wool blend, designed for comfortable wear and a classic look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14wI_ormSV4BRhxJBl81S9ThDjDx35aYY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canvas Unisex 4.2 oz. Jersey Deep V-Neck - WHITE - XS Unisex Jersey</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, deep V-neck jersey top designed for both men and women, made from soft canvas fabric and available in white.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hsBw_WSqh0pK8kp3kIuZLxAkis5QSCtM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hee Grand Sport Pants Men</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are men's active sport pants designed for comfort and performance during physical activities.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10LzGWvuKGuyKa8ygmehZaJCOlIxC2AOQ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Yupoong Wool Blend Snapback Snap Back Hat Baseball Cap 6098M</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish snapback baseball cap made from a wool blend, designed for comfortable wear and a classic look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1xOeS0A6aR_l6tq9IHv-sY5zl5PAjFihn&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ELLAZHU Baggy Spring Harem Hippie Dots Stiching Pants Trouser Onesize GY80</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are loose-fitting, casual harem pants designed with a dotted pattern and stitching details, suitable for spring wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14wI_ormSV4BRhxJBl81S9ThDjDx35aYY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canvas Unisex 4.2 oz. Jersey Deep V-Neck - WHITE - XS Unisex Jersey</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A lightweight, deep V-neck jersey top designed for both men and women, made from soft canvas fabric and available in white.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hsBw_WSqh0pK8kp3kIuZLxAkis5QSCtM&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hee Grand Sport Pants Men</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are men's active sport pants designed for comfort and performance during physical activities.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_638_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_638_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_638_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_639",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_639_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q30RoCXEuWq7muGsZXIFI_6RxOW1xymh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vintage &quot;Buddy&quot; Wayfarer Sunglasses - (6 Colors Available)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These retro-inspired sunglasses feature a classic Wayfarer design and are available in six different colors, making them a stylish accessory for women.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1fuCS5-OOlHttjgicgku_sSlKqrd6lLa0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lot of 2 Nerd Glasses Buddy Holly Wayfarer Black and White Frame Clear Dark Lenses</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes two pairs of retro-style Buddy Holly-inspired Wayfarer sunglasses featuring black and white frames with clear dark lenses.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nxLF9O4yKVEeZHhiMd2aJ_fuzbLq6sgw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hee Grand Men's Plaid Short Sleeve Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a short sleeve button-down shirt for men featuring a stylish plaid pattern, ideal for casual wear.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1q30RoCXEuWq7muGsZXIFI_6RxOW1xymh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vintage &quot;Buddy&quot; Wayfarer Sunglasses - (6 Colors Available)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These retro-inspired sunglasses feature a classic Wayfarer design and are available in six different colors, making them a stylish accessory for women.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZW3OB-1iiN3VEJ3X51GH6O7bvin5yabl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Suncloud Patrol Polarized Sunglasses</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are polarized sunglasses designed for outdoor activities, offering UV protection and enhanced visibility in bright conditions.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_639_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_639_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_639_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

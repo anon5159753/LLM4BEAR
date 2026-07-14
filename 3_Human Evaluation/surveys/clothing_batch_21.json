@@ -1,0 +1,888 @@
+{
+  "title": "Clothing Bundle Comparison \u2014 Batch 21",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "clothing_pair_400",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_400_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14VKSJTIGy2SM7w_j1HfJC9MfWewT0yEc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Women's Mush II Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comfortable and lightweight flip flop designed for women, featuring a soft foam footbed and durable straps for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10OZZB1vb8rgRxFmnei7t6VzPhqfxzQWG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Men's Mush II Sublimation Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These men's flip flops feature a comfortable and cushioned footbed, ideal for casual wear and outdoor activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=186Da-rsMhLQkMOffzd1T0W9w9H4SIEPY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Women's Omnium Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile and durable sandal designed for women, featuring adjustable straps and a rugged sole for outdoor activities and water sports.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14VKSJTIGy2SM7w_j1HfJC9MfWewT0yEc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Women's Mush II Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comfortable and lightweight flip flop designed for women, featuring a soft foam footbed and durable straps for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10OZZB1vb8rgRxFmnei7t6VzPhqfxzQWG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Men's Mush II Sublimation Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These men's flip flops feature a comfortable and cushioned footbed, ideal for casual wear and outdoor activities.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_400_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_400_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_400_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_401",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_401_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14VKSJTIGy2SM7w_j1HfJC9MfWewT0yEc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Women's Mush II Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comfortable and lightweight flip flop designed for women, featuring a soft foam footbed and durable straps for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sqHpBEw4qTH69czuwd8aI1Th5lMXBWst&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dearfoams Women's DF486 Boot,Leopard,Small (Women's 5-6 M US)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pair of women's leopard-print boot slippers designed for comfort and warmth, suitable for sizes 5-6 M US.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=14VKSJTIGy2SM7w_j1HfJC9MfWewT0yEc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Women's Mush II Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comfortable and lightweight flip flop designed for women, featuring a soft foam footbed and durable straps for casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10OZZB1vb8rgRxFmnei7t6VzPhqfxzQWG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Men's Mush II Sublimation Flip Flop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These men's flip flops feature a comfortable and cushioned footbed, ideal for casual wear and outdoor activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TMOvOZcYm4Iz4aYlnN1PwoNSbFC5WtIg&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Columbia Men's Techsun III Water Shoe</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a lightweight water shoe designed for men, featuring quick-drying materials and a durable sole for traction and comfort during water activities or casual outings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1na8owwIKrJ36ncu7cynpTQYgP86ru6Cd&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Speedo Women's Beach Runner Water Shoe</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This lightweight water shoe is designed for women, offering comfort and traction for beach activities and water sports.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_401_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_401_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_401_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_402",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_402_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KoFeQKppvkHHonVqROOpuxxW2nPEEPip&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tok Tok Designs&reg; B131 Men's Bow Ties (Bright Yellow)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a bright yellow bow tie designed for men, perfect for adding a pop of color to formal or semi-formal attire.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1CEr_RAjY_mXZYGMbIosw86PxpSnzAxCV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FBTS-9003 - Gold - Navy - Sky - Mens Self Tie Bow Tie</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This self-tie bow tie features a stylish combination of gold, navy, and sky colors, making it a versatile accessory for men's formal or semi-formal attire.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1wuiAblZ7SH1i4XiYxcewRcmgA3GpMw7o&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tok Tok Designs&reg; BK131 Boys Bow Ties (Bright Yellow)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A vibrant bright yellow bow tie designed for boys, perfect for formal occasions or adding a stylish touch to casual outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1KoFeQKppvkHHonVqROOpuxxW2nPEEPip&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tok Tok Designs&reg; B131 Men's Bow Ties (Bright Yellow)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a bright yellow bow tie designed for men, perfect for adding a pop of color to formal or semi-formal attire.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_402_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_402_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_402_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_403",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_403_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qGtw47THop0WAN8PcEuQNtF9oojvQCWk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Classykidzshop Black Turquoise Toddler Boy Vest Set (Baby - Size 7)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish vest set designed for toddler boys, featuring a black and turquoise color scheme, suitable for formal occasions or special events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hO8OQhIDy3ntzcQPjCdLOCvMhcwoNgic&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gino Giovanni Baby and Toddler Boy Summer Suit Natural/beige Vest Short Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a lightweight summer outfit for baby and toddler boys, featuring a natural/beige vest and matching shorts, ideal for warm weather occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ADc7BwLCHLGXlwqlgHNOI12xveFO-6SG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Dinosaur and Rescue Team Boy Children Socks-6 Pairs</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes six pairs of boys' socks featuring fun dinosaur and rescue team designs.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10Ch1nSw4FKBILwopPzZ9payyfZyapLjV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Johnnie Lene Boys Textured Suit Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish textured suit set designed for boys, ideal for formal occasions or special events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L1ByPhJDGFxfCO8uGgt_HpD6ph8IBogW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Johnnie Lene Natural Color Textured Suit Set for Boys From Baby to Teen</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish and textured suit set designed for boys, suitable for ages ranging from infants to teenagers, perfect for formal occasions.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qGtw47THop0WAN8PcEuQNtF9oojvQCWk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Classykidzshop Black Turquoise Toddler Boy Vest Set (Baby - Size 7)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish vest set designed for toddler boys, featuring a black and turquoise color scheme, suitable for formal occasions or special events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hO8OQhIDy3ntzcQPjCdLOCvMhcwoNgic&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gino Giovanni Baby and Toddler Boy Summer Suit Natural/beige Vest Short Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a lightweight summer outfit for baby and toddler boys, featuring a natural/beige vest and matching shorts, ideal for warm weather occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=10Ch1nSw4FKBILwopPzZ9payyfZyapLjV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Johnnie Lene Boys Textured Suit Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish textured suit set designed for boys, ideal for formal occasions or special events.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1L1ByPhJDGFxfCO8uGgt_HpD6ph8IBogW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Johnnie Lene Natural Color Textured Suit Set for Boys From Baby to Teen</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A stylish and textured suit set designed for boys, suitable for ages ranging from infants to teenagers, perfect for formal occasions.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_403_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_403_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_403_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_404",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_404_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13WNxexQlrkaV3TMYIFKT2P2_nb9rqT6M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Mountain Men's Sasquatch T-shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's T-shirt featuring a graphic design of Sasquatch, ideal for casual wear and novelty occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1H76cjDwCvjKW3D4Wr3rmQfah1V31PnQb&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Mountain Bigfoot Adult T-shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adult T-shirt features a graphic design of Bigfoot, making it a unique and playful addition to a man's casual wardrobe.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sBb7FZnULtSA2xF_9NCOjTrJ2TXM8A0c&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gone Squatchin Black T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This black T-shirt features a humorous \"Gone Squatchin\" graphic, making it a fun choice for casual wear or for those who enjoy Bigfoot-themed apparel.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1THrqusJ9v8GJ9Q0xfb_p4GdfZsPHtIwm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Medium Black Womens Keep It Squatchy Bigfoot Sasquatch Deluxe Soft Fashion Hooded Sweatshirt Hoodie</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a medium-sized black hooded sweatshirt designed for women, featuring a playful Bigfoot graphic, made from soft fabric for comfort and casual wear.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=13WNxexQlrkaV3TMYIFKT2P2_nb9rqT6M&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Mountain Men's Sasquatch T-shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's T-shirt featuring a graphic design of Sasquatch, ideal for casual wear and novelty occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1H76cjDwCvjKW3D4Wr3rmQfah1V31PnQb&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">The Mountain Bigfoot Adult T-shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This adult T-shirt features a graphic design of Bigfoot, making it a unique and playful addition to a man's casual wardrobe.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sBb7FZnULtSA2xF_9NCOjTrJ2TXM8A0c&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Gone Squatchin Black T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This black T-shirt features a humorous \"Gone Squatchin\" graphic, making it a fun choice for casual wear or for those who enjoy Bigfoot-themed apparel.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_404_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_404_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_404_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_405",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_405_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lHIxa0zL0W9l2o_tqPTfGcQy9EIVSoM4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">adidas Men's Drive 2 Jacket</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This lightweight, moisture-wicking jacket is designed for men, providing comfort and breathability during active pursuits, making it ideal for workouts or casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zTOd4cq0CVRQC4UfpTraK392XoiOGSRn&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hanes Tagless 100% ComfortSoft Cotton Long Sleeve T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This long sleeve t-shirt is made from 100% ComfortSoft cotton, ensuring a soft and tag-free wearing experience for men.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NvHIWtgb1KUKsznMtuWfe3OTyAxRFHkF&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">100% Cowhide Leather Black Leather Belt Snap on Belt Strap 1.5&quot; Wide</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a durable black belt made from 100% cowhide leather, featuring a snap-on strap that is 1.5 inches wide.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vsG1_k7aSVPzArboom_TXyxxHOUe0biV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Radikal-G By GBX Mens Deed Strap Ankle Motorcycle Boot Shoe</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's ankle boot designed for motorcycle riding, featuring a strap detail for added style and functionality.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_405_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_405_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_405_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_406",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_406_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lzHnE9n9V3uAP-LIN-Sd_PejiXmncUht&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Richie House Girl's Dress with Multilayered Pastel Ruffles and Pearl Accents RH0920</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A charming girl's dress featuring multilayered pastel ruffles and pearl accents, perfect for playful occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1nLgtcg3RSxGgEwhZs3PMKt5RN4IXrquE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Asoidchi Boho Bohemian Chiffon Stripes Summer Beach One-piece Sleeveless Maxi Dress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a lightweight, sleeveless maxi dress featuring a bohemian design with chiffon stripes, ideal for summer beach outings.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1VNGPkizWaw5dl-Anr_f8471BYOpUmHO1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bonnie Baby Baby-Girls Infant Dot Satin Dress with Sash</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A charming satin dress designed for infant girls, featuring a polka dot pattern and an elegant sash for special occasions.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1lzHnE9n9V3uAP-LIN-Sd_PejiXmncUht&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Richie House Girl's Dress with Multilayered Pastel Ruffles and Pearl Accents RH0920</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A charming girl's dress featuring multilayered pastel ruffles and pearl accents, perfect for playful occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TzBA3AkKNTuWx-qE145sJ6RyWFeOGDnO&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Stride Rite Colette Dress Sandal (Toddler)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This toddler dress sandal features a stylish design suitable for young girls, providing comfort and support for everyday wear.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_406_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_406_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_406_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_407",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_407_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19AEuCesM-KlHCTCV8eo7MCEK_6CZ_h-1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Timberland Men's Natural Grain Leather Commuter Bifold Wallet D72242 More Colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This bifold wallet is crafted from natural grain leather and designed for men, featuring multiple compartments for cards and cash, making it ideal for everyday commuting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UlXMmdOK352tCgi_fDGQE8GI7_54lLjx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kenneth Cole Reaction (AP) 112518-W08 Urban Organizer Wallet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This wallet is a stylish and functional accessory designed to keep your essentials organized, featuring multiple compartments for cards, cash, and other small items.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1pKcaRefwLPJtWvG6tAYIGxarWjczZ8NR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kenneth Cole Reaction Women's Checkbook Cover Clutch in Gift Box new!</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This stylish clutch serves as a checkbook cover and wallet, designed for women, and comes elegantly packaged in a gift box.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19AEuCesM-KlHCTCV8eo7MCEK_6CZ_h-1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Timberland Men's Natural Grain Leather Commuter Bifold Wallet D72242 More Colors</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This bifold wallet is crafted from natural grain leather and designed for men, featuring multiple compartments for cards and cash, making it ideal for everyday commuting.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1UlXMmdOK352tCgi_fDGQE8GI7_54lLjx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kenneth Cole Reaction (AP) 112518-W08 Urban Organizer Wallet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This wallet is a stylish and functional accessory designed to keep your essentials organized, featuring multiple compartments for cards, cash, and other small items.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_407_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_407_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_407_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_408",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_408_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NM6O-wFVkENz89qNviwFu_89rJ_EoDZu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Cubic Zirconia Heart Ring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A heart-shaped ring made of sterling silver and adorned with cubic zirconia, perfect for adding a touch of sparkle to any outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=187qvT2ru5W47xCgr54jORGfCYgmgi0vo&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bling Jewelry Sterling Silver Pave Chocolate Cubic Zircona Two Hearts Ring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This ring features a heart-shaped design adorned with chocolate cubic zirconia stones set in sterling silver, making it a stylish and romantic accessory.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=115g-ar13dE7HI3jiV9ThhbxnzDFxOtiB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">18k Gold-Plated Sterling Silver African Amethyst Hoop Earrings (0.7&quot; Diameter)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a 0.7-inch diameter hoop design crafted from sterling silver and plated with 18k gold, adorned with African amethyst gemstones.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NM6O-wFVkENz89qNviwFu_89rJ_EoDZu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Cubic Zirconia Heart Ring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A heart-shaped ring made of sterling silver and adorned with cubic zirconia, perfect for adding a touch of sparkle to any outfit.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_408_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_408_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_408_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_409",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_409_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Mmupt9XBxH_8nFlM0-JOwRXFK6XVfyac&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Heirloom Finds Elegant Simulated Blue Druzy Gold Tone Post Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a gold tone setting adorned with elegant simulated blue druzy stones, designed for a stylish and eye-catching accessory.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m-svxH3rH_Xh24SXwVgoN9-mjwYgjTsK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">18k Yellow Gold-Plated Sterling Silver, Citrine, and Peridot Pendant Necklace with Diamond Accents (0.01 cttw, IJ Color, I2-I3 Clarity), 18&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pendant necklace featuring a design of yellow gold-plated sterling silver adorned with citrine and peridot gemstones, along with diamond accents, and measuring 18 inches in length.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=115g-ar13dE7HI3jiV9ThhbxnzDFxOtiB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">18k Gold-Plated Sterling Silver African Amethyst Hoop Earrings (0.7&quot; Diameter)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a 0.7-inch diameter hoop design crafted from sterling silver and plated with 18k gold, adorned with African amethyst gemstones.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NM6O-wFVkENz89qNviwFu_89rJ_EoDZu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Cubic Zirconia Heart Ring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A heart-shaped ring made of sterling silver and adorned with cubic zirconia, perfect for adding a touch of sparkle to any outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zCrSXqZo_CmK_VPhpjDsjAgDqb-U-zsc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pink Gold Plated Sterling Silver Clear Crystal Circle Pendant Necklace, 18&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a pink gold plated sterling silver chain with a clear crystal circle pendant, measuring 18 inches in length.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Mmupt9XBxH_8nFlM0-JOwRXFK6XVfyac&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Heirloom Finds Elegant Simulated Blue Druzy Gold Tone Post Earrings</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a gold tone setting adorned with elegant simulated blue druzy stones, designed for a stylish and eye-catching accessory.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Kp-coeribQRjYeUCBwSGzAgZh2UVeSZP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Black Diamond Windows Drusy and Cubic Zirconia Pendant Necklace , 18&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an 18-inch pendant necklace featuring a design that incorporates sterling silver, black diamonds, drusy, and cubic zirconia for a distinctive and elegant look.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11uEckSXvZygwngnejwP91Nd8Y9MtN-P8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Heirloom Finds Elegant Simulated Blue Druzy Gold Tone Pendant Necklace</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish pendant necklace featuring a simulated blue druzy stone set in a gold-tone setting, designed to add a touch of elegance to any outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1m-svxH3rH_Xh24SXwVgoN9-mjwYgjTsK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">18k Yellow Gold-Plated Sterling Silver, Citrine, and Peridot Pendant Necklace with Diamond Accents (0.01 cttw, IJ Color, I2-I3 Clarity), 18&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pendant necklace featuring a design of yellow gold-plated sterling silver adorned with citrine and peridot gemstones, along with diamond accents, and measuring 18 inches in length.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=115g-ar13dE7HI3jiV9ThhbxnzDFxOtiB&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">18k Gold-Plated Sterling Silver African Amethyst Hoop Earrings (0.7&quot; Diameter)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings feature a 0.7-inch diameter hoop design crafted from sterling silver and plated with 18k gold, adorned with African amethyst gemstones.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NM6O-wFVkENz89qNviwFu_89rJ_EoDZu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Cubic Zirconia Heart Ring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A heart-shaped ring made of sterling silver and adorned with cubic zirconia, perfect for adding a touch of sparkle to any outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1zCrSXqZo_CmK_VPhpjDsjAgDqb-U-zsc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pink Gold Plated Sterling Silver Clear Crystal Circle Pendant Necklace, 18&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a pink gold plated sterling silver chain with a clear crystal circle pendant, measuring 18 inches in length.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_409_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_409_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_409_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_410",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_410_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1_QKbnYGzxu0b3v406Ir1aFbmLkxdk7i8&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Florsheim Men's Decatur Oxford</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a classic men's dress shoe featuring a sleek Oxford design, suitable for formal and business occasions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Eh-i1rXrXvmWRItC0dLzJWbD7PM4GT2e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Calvin Klein Women's Diema Pump</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sleek and stylish pump designed for women, featuring a classic silhouette and crafted by Calvin Klein for versatile wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1oZEvjVOG1ufALoy_CiJUQKhXNe8YhNzP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kenneth Cole REACTION Men's Sim-Plicity Oxford</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pair of men's oxford shoes designed by Kenneth Cole REACTION, featuring a sleek and simple style suitable for formal or semi-formal occasions.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vOg8mghjJSA01CSrFxCIYas3pzSlqvSm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Irregular Choice Women's Squiggly Diggly Platform Pump</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a unique women's platform pump featuring a squiggly design, perfect for adding a playful touch to any outfit.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16boAg9B8PqJyE9k-6fjI6SfPT49M62cw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Poetic Licence Women's Wild Safari Platform Pump</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This women's platform pump features a bold safari-inspired design, combining style and comfort for fashionable footwear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=114dy3A87YfI_LldDgF24QYrCLFILwNXI&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Irregular Choice Women's Mcgillionare,Purple Multi,US 5.5 M</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a pair of women's purple multi-colored pumps designed by Irregular Choice, featuring a unique and whimsical style ideal for adding flair to any outfit.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_410_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_410_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_410_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_411",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_411_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qkVHfEm4ZdFOswxfjS14tfpXwCakf7g4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bling Jewelry 925 Sterling Silver Ball Bead Chain Necklace 150 Gauge Italy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a chain made of 925 sterling silver ball beads, designed for durability and style, and is crafted in Italy.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uAF1-OHy23zHjmk5AkE_HhdCpXqL6K7P&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Marcasite Clover Ring, w/ Brilliant Cut Amethyst CZ, 1/2 inch (13 mm) wide</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This ring features a clover design crafted from sterling silver, adorned with marcasite stones and a brilliant cut amethyst cubic zirconia, measuring 1/2 inch wide.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qkVHfEm4ZdFOswxfjS14tfpXwCakf7g4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bling Jewelry 925 Sterling Silver Ball Bead Chain Necklace 150 Gauge Italy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a chain made of 925 sterling silver ball beads, designed for durability and style, and is crafted in Italy.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1YhyrPRCeHLYiNwO7a_RIsmtN036Rstxy&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">.925 Sterling Silver Hoops Endless Hoop Hoops Earrings Sleeper 2x14mm</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These earrings are small, lightweight endless hoop earrings made of .925 sterling silver, measuring 2mm in thickness and 14mm in diameter, ideal for everyday wear.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_411_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_411_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_411_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_412",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_412_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uuXLJvSSgzMHAMkXU-7JsWN0vhPBA26N&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Izod Boys 2-7 Slim Straight Jean, Storm, 05</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Slim straight jeans designed for boys aged 2 to 7, featuring a storm color for versatile casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XXovAyqKX4JbypdZlDY-avYCLo_4_6Jt&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Hanes ComfortBlend EcoSmart Crewneck Men's T-Shirt</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a comfortable, eco-friendly crewneck t-shirt designed for men, made from a blend of cotton and polyester for softness and durability.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uuXLJvSSgzMHAMkXU-7JsWN0vhPBA26N&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Izod Boys 2-7 Slim Straight Jean, Storm, 05</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Slim straight jeans designed for boys aged 2 to 7, featuring a storm color for versatile casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TiKE9mo5eClIDg4LDvmdJGc7f3PMwST-&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AME Sleepwear Boys Angry Birds Sling Shot, Black/Red, 6</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a boys' pajama set featuring an Angry Birds slingshot design, designed for sleepwear, in a black and red color scheme, suitable for a 6-year-old.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_412_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_412_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_412_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_413",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_413_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1aCxBXINOuuba5X4xIEvcTgNOlgBcvKsT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pair of 3D Cherries Pendant with Black Star Charm on Black Ball Chain Necklace from Sourpuss Clothing</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a pair of 3D cherry-themed pendants accompanied by a black star charm, all suspended on a black ball chain, making it a quirky accessory for casual outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DGY94QUT6N5CvKwJ2pvbqDwlivyzokrU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lucky Black Diamond Elephant Necklace in Sterling Silver</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sterling silver necklace featuring a black diamond elephant pendant, designed as a unique and stylish accessory for women.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1DGY94QUT6N5CvKwJ2pvbqDwlivyzokrU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lucky Black Diamond Elephant Necklace in Sterling Silver</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A sterling silver necklace featuring a black diamond elephant pendant, designed as a unique and stylish accessory for women.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FnqC2ZKXEVhCYOV_3Pnf2kOwBYd6dsOf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pro Jewelry .925 Sterling Silver &quot;Multicolor Paws on Round&quot; Charm Bead for Snake Chain Charm Bracelet 5073</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This charm bead is made of .925 sterling silver and features a multicolored paw print design, designed to be added to snake chain charm bracelets.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_413_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_413_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_413_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_414",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_414_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EiCpVr7ctzkQWFC9yiLx6eG0KKRz9Lif&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Orthaheel Tide Slide In Orthopedic Sandals</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These orthopedic sandals feature a slide-on design that provides comfort and support for women's feet, ideal for casual wear or outdoor activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=186Da-rsMhLQkMOffzd1T0W9w9H4SIEPY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Teva Women's Omnium Sandal</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile and durable sandal designed for women, featuring adjustable straps and a rugged sole for outdoor activities and water sports.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1EiCpVr7ctzkQWFC9yiLx6eG0KKRz9Lif&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Orthaheel Tide Slide In Orthopedic Sandals</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These orthopedic sandals feature a slide-on design that provides comfort and support for women's feet, ideal for casual wear or outdoor activities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1w5NVm1tA1Tkc-9iumQQYJSgXGQAXZdOP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">PUMA El Ace JR Sneaker (Little Kid/Big Kid)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a versatile sneaker designed for both little and big kids, suitable for various athletic activities and casual wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bqkANu_ZZMcs--8inK-1OsBi_s1Irpl9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">PUMA Men's Cell Gen Running Shoe</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a lightweight running shoe designed for men, featuring cushioning technology for comfort and support during athletic activities.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_414_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_414_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_414_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_415",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_415_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BOesvm1wHfX2q10v4DauIQzKBbkw7e1Y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Goodnight Kiss Women's Thermal Fleece Pajama Set, White, Medium</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a cozy thermal fleece pajama set for women in white, designed for warmth and comfort during sleep or lounging, available in a medium size.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RZs5gI1clpxgzchN28uNvQdj7DcpviG_&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nautica Sleepwear Women's Solid Knit Anchor Capri Pant</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These women's capri pants are made from soft knit fabric and feature a solid color design with an anchor motif, ideal for comfortable sleep or lounging.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1BOesvm1wHfX2q10v4DauIQzKBbkw7e1Y&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Goodnight Kiss Women's Thermal Fleece Pajama Set, White, Medium</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a cozy thermal fleece pajama set for women in white, designed for warmth and comfort during sleep or lounging, available in a medium size.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1RYKDTwbaWAosZik_G2B-qg9Vv6-UPqz1&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TITLE Tricot Pro Warm-Up Set</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a warm-up set designed for men, consisting of a matching jacket and pants ideal for athletic activities and pre-game preparation.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_415_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_415_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_415_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_416",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_416_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1bcNvFowxdlsj8KuV3oc9_BvsrHtd6rUH&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Backless Sexy Miniskirt Suit Club Wear Dress with G-string</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This garment is a provocative miniskirt suit designed for club wear, featuring a backless design and accompanied by a G-string.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19X0PtxR15TyKZzmP_QKitqE_7Qp-T4_3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Derek Heart Juniors Solid Feathered Poplin Foam Cup Dress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This dress features a solid color design, feathered detailing, and foam cups for added support, making it a stylish and comfortable choice for casual occasions in juniors' fashion.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19X0PtxR15TyKZzmP_QKitqE_7Qp-T4_3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Derek Heart Juniors Solid Feathered Poplin Foam Cup Dress</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This dress features a solid color design, feathered detailing, and foam cups for added support, making it a stylish and comfortable choice for casual occasions in juniors' fashion.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Z0RavSc3yoBcyLSh_OuvQN8yUIaI1bGb&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Nine West Women's Drusilla Pump</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a stylish women's pump designed by Nine West, featuring a classic silhouette suitable for both formal and casual occasions.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_416_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_416_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_416_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_417",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_417_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JnqKKSh35-_pepxI1lD1geimdWBD6pgR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Merrell Men's Thermo 6 Waterproof Cold Weather Boot</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a waterproof cold weather boot designed for men, ideal for hiking and outdoor activities in snowy and wet conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ngIC6WK2ugcs6YPVKsPUcdaLYogmB0Pc&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Heat Holders Thermal Socks, Men's Original, US Shoe Size 7-12, Navy</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These thermal socks are designed for men, providing warmth and comfort for US shoe sizes 7-12, in a stylish navy color.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1JnqKKSh35-_pepxI1lD1geimdWBD6pgR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Merrell Men's Thermo 6 Waterproof Cold Weather Boot</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a waterproof cold weather boot designed for men, ideal for hiking and outdoor activities in snowy and wet conditions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vK_9II7npY9Qe35fbHGyQbrHCStP4o8v&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Casio General Men's Watches Edifice Chronograph EF-539D-1A5VDF - WW</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's chronograph wristwatch featuring a stainless steel design and advanced timing functions, suitable for sports and everyday wear.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tgaEo2nuNiOv4iYOjkJnXzU_4NTsg7ca&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Orient Men's CEM65001B &quot;Black Mako&quot; Automatic Dive Watch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a men's automatic dive watch designed for water sports, featuring a durable black design suitable for both athletic and casual wear.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_417_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_417_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_417_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_418",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_418_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IxJUcpsvL1XyHCLUbvtPLqtS9AgoL3Pm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Channel Set Diamond Cut Multi Color Crystal Band Size 4-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's adjustable band ring made of 18k yellow gold plating, featuring a channel set design adorned with diamond cut multi-color crystals, available in sizes 4 to 9.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HINJSr2aKuVgTvF4E4T_9KvFW_4hG7Mm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 Gold Tone Diamond-cut Cubic Zirconia Solitaire Ring R54</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant ring features a gold tone finish with a diamond-cut design, showcasing a striking cubic zirconia stone as the centerpiece, making it ideal for special occasions such as engagements.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hF1e25gOhfO_D9R_tNFASyoiuNJniQr3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lekani 18KRGP Plated Base Rose Gold Color Rhinestone Crystal Hoop Earring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are hoop earrings made of 18-karat rose gold plated metal adorned with rhinestone crystals, designed to add a touch of elegance to women's outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PEksreSieR5KtayQGhXYPPysxkmrZ5Sk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Purple Crystal &amp; White Enamel Flower Cocktail Ring Size 5-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This ring features an 18k yellow gold plated design adorned with a purple crystal and white enamel, shaped like a flower, and is adjustable to fit sizes 5 to 9.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IxJUcpsvL1XyHCLUbvtPLqtS9AgoL3Pm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Channel Set Diamond Cut Multi Color Crystal Band Size 4-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's adjustable band ring made of 18k yellow gold plating, featuring a channel set design adorned with diamond cut multi-color crystals, available in sizes 4 to 9.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HINJSr2aKuVgTvF4E4T_9KvFW_4hG7Mm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 Gold Tone Diamond-cut Cubic Zirconia Solitaire Ring R54</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant ring features a gold tone finish with a diamond-cut design, showcasing a striking cubic zirconia stone as the centerpiece, making it ideal for special occasions such as engagements.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hF1e25gOhfO_D9R_tNFASyoiuNJniQr3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lekani 18KRGP Plated Base Rose Gold Color Rhinestone Crystal Hoop Earring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are hoop earrings made of 18-karat rose gold plated metal adorned with rhinestone crystals, designed to add a touch of elegance to women's outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PEksreSieR5KtayQGhXYPPysxkmrZ5Sk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Purple Crystal &amp; White Enamel Flower Cocktail Ring Size 5-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This ring features an 18k yellow gold plated design adorned with a purple crystal and white enamel, shaped like a flower, and is adjustable to fit sizes 5 to 9.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1p-NfmY6eI26KLSYoIOosCJ6siGiw0YOv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sterling Silver Pressed Flower Teardrop Pendant Necklace, 16&quot;</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This necklace features a teardrop-shaped pendant made of sterling silver, showcasing a pressed flower design, and is designed to be worn at a length of 16 inches.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_418_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_418_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_418_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "clothing_pair_419",
+      "elements": [
+        {
+          "type": "html",
+          "name": "clothing_pair_419_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IxJUcpsvL1XyHCLUbvtPLqtS9AgoL3Pm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Channel Set Diamond Cut Multi Color Crystal Band Size 4-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's adjustable band ring made of 18k yellow gold plating, featuring a channel set design adorned with diamond cut multi-color crystals, available in sizes 4 to 9.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HINJSr2aKuVgTvF4E4T_9KvFW_4hG7Mm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 Gold Tone Diamond-cut Cubic Zirconia Solitaire Ring R54</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant ring features a gold tone finish with a diamond-cut design, showcasing a striking cubic zirconia stone as the centerpiece, making it ideal for special occasions such as engagements.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1hF1e25gOhfO_D9R_tNFASyoiuNJniQr3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Lekani 18KRGP Plated Base Rose Gold Color Rhinestone Crystal Hoop Earring</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">These are hoop earrings made of 18-karat rose gold plated metal adorned with rhinestone crystals, designed to add a touch of elegance to women's outfits.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PEksreSieR5KtayQGhXYPPysxkmrZ5Sk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Purple Crystal &amp; White Enamel Flower Cocktail Ring Size 5-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This ring features an 18k yellow gold plated design adorned with a purple crystal and white enamel, shaped like a flower, and is adjustable to fit sizes 5 to 9.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HINJSr2aKuVgTvF4E4T_9KvFW_4hG7Mm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 Gold Tone Diamond-cut Cubic Zirconia Solitaire Ring R54</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This elegant ring features a gold tone finish with a diamond-cut design, showcasing a striking cubic zirconia stone as the centerpiece, making it ideal for special occasions such as engagements.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1IxJUcpsvL1XyHCLUbvtPLqtS9AgoL3Pm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">FM42 18k Yellow Gold Plated Channel Set Diamond Cut Multi Color Crystal Band Size 4-9</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a women's adjustable band ring made of 18k yellow gold plating, featuring a channel set design adorned with diamond cut multi-color crystals, available in sizes 4 to 9.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "clothing_pair_419_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_419_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "clothing_pair_419_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "title": "Electronics Bundle Comparison \u2014 Batch 53",
+  "showProgressBar": "top",
+  "showQuestionNumbers": "off",
+  "widthMode": "responsive",
+  "pages": [
+    {
+      "name": "electronics_pair_1040",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1040_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PwFIBFw6mBUL_yel4DBal7OwvECMHxxV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Steiner 235 10x26 Safari Pro Binocular</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Compact and lightweight binoculars designed for outdoor enthusiasts, offering 10x magnification and 26mm objective lens diameter for clear and detailed viewing.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vu5_Qdgv2kx84sxAQYJZxK_aFTFjQ1uh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Coleman Xtreme C5WP 12 MP 33ft Waterproof Digital Camera</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A waterproof digital camera designed for underwater photography, featuring a 12-megapixel sensor and capable of operating at depths of up to 33 feet.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PwFIBFw6mBUL_yel4DBal7OwvECMHxxV&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Steiner 235 10x26 Safari Pro Binocular</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">Compact and lightweight binoculars designed for outdoor enthusiasts, offering 10x magnification and 26mm objective lens diameter for clear and detailed viewing.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vu5_Qdgv2kx84sxAQYJZxK_aFTFjQ1uh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Coleman Xtreme C5WP 12 MP 33ft Waterproof Digital Camera</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A waterproof digital camera designed for underwater photography, featuring a 12-megapixel sensor and capable of operating at depths of up to 33 feet.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1F-E9kSVAvdSLftPqSDKVJnl3Kt7hRZHR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">2-piece of Super High Resolution Hdmi 2m (6 Feet) Accessory Bundle for Hdtv, Plasma, Lcd, Ps3, DVD Players, Satellite &amp; Cable Boxes</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a set of two high-resolution 6-foot HDMI cables designed for connecting HDTVs, plasma and LCD screens, gaming consoles like PS3, DVD players, and satellite or cable boxes.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1040_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1040_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1040_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1041",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1041_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1cBl1EpClmr_HEhVnYm2--6ni1Q4BziuJ&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Seagate Backup Plus 3TB USB 3.0 Desktop External Hard Drive for Mac (STCB3000900)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity, Mac-compatible external hard drive offering 3TB of storage and fast data transfer via USB 3.0.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=11XG-SHSpKJXnEJDXffN6Aa_EA31wjxaG&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; Uspeed USB 3.0 3.5 inch Front Panel with 2 USB 3.0 Ports Hub [20 Pin Connector &amp; 2ft Adapter Cable]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A front panel accessory for desktop computers that provides two additional USB 3.0 ports for faster data transfer, connecting via a 20-pin connector and a 2-foot adapter cable.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ZF4BZNpfRcERLdBgxTuU7F05Mkx-oMiu&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CalDigit SuperSpeed USB 3.0 2-Port PCIe x1 Card for Mac Pro</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an expansion card that adds two high-speed USB 3.0 ports to a Mac Pro, enhancing connectivity for external devices.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jqSV7Zpkl9G1SU5NUfhtjZ2vaXmxhuMW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">New Laptop AC Adapter/Power Supply Charger/Power Cord for Toshiba Satellite A105-S4342 M105-S3011 A105-S4284 A105-S4334 A105-S4384 A105-S4004 A105-S4054 A105-S4064 A105-S4074 A105-S4084 A105-S4094 A105-S4274 A105-S4284 A105-S4334 A105-S4384 M105-S3041 M110 M115-S3094 M115-S3144 M115-S3154 P105-S6024 P105-S6147M100 M105-S3041 M110 M115-S3094 P105 m115</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a compatible power supply designed to charge and power various Toshiba Satellite laptop models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1NNk7Rssj8CnlG7T7TGFZD8iMTNj4Vr4s&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">4 Port Mini USB 2.0 Hub For Laptop PC High Speed 480Mbps Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This compact device expands a single USB port into four, allowing multiple peripherals to connect to a laptop or PC simultaneously at high-speed data transfer rates of up to 480Mbps.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1041_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1041_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1041_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1042",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1042_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17WLz6qt9bjeoZarU7-6K2FfDoD0I_eML&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cheaplights 6 PCS 3.75&quot; Spring Clamps</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of six durable spring clamps designed for securely holding lighting equipment or backdrops in photography studios.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19wXWD-aMMD-CyH_XIALytH9ky-EOH_3D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WD My Passport Ultra 2TB Portable External USB 3.0 Hard Drive with Auto Backup - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable 2TB external hard drive with USB 3.0 connectivity and automatic backup features, designed for convenient data storage and transfer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Gt2BfeJKTUViSklYMa76NI5cm4zZP0Jk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LimoStudio PHOTOGRAPHY STUDIO LIGHTING KIT BLACK UMBRELLA LIGHT MUSLIN BACKDROP WHITE BLACK GREEN BACDKROP KIT_AGG707</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comprehensive photography studio kit that includes black umbrellas and muslin backdrops in white, black, and green for versatile lighting and background setups.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19wXWD-aMMD-CyH_XIALytH9ky-EOH_3D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WD My Passport Ultra 2TB Portable External USB 3.0 Hard Drive with Auto Backup - Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable 2TB external hard drive with USB 3.0 connectivity and automatic backup features, designed for convenient data storage and transfer.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Gt2BfeJKTUViSklYMa76NI5cm4zZP0Jk&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">LimoStudio PHOTOGRAPHY STUDIO LIGHTING KIT BLACK UMBRELLA LIGHT MUSLIN BACKDROP WHITE BLACK GREEN BACDKROP KIT_AGG707</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A comprehensive photography studio kit that includes black umbrellas and muslin backdrops in white, black, and green for versatile lighting and background setups.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=16fOI4zBlg4FdbrWISbF_Abwu-dgUcF0o&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Canon Rebel T5i Digital SLR Camera</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A versatile and user-friendly digital single-lens reflex camera ideal for capturing high-quality photos and videos, featuring advanced imaging capabilities and creative controls.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1042_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1042_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1042_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1043",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1043_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=131rIx8wluA7rjtnpHE4A3aMLsNc0zibP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Channel Master CM2016 HDTV VHF High Band and UHF Antenna</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance antenna designed to receive both VHF high-band and UHF signals for improved HDTV reception.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TbF_A16YZa_XBV-DRASdw6f7y0b8AcEa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">CableWholesale 6-Feet RG58 AU Stranded BNC Cable, Braided (10X1-01106)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot cable with RG58 AU stranded wires and BNC connectors used for transmitting radio frequency signals in electronic devices.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=131rIx8wluA7rjtnpHE4A3aMLsNc0zibP&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Channel Master CM2016 HDTV VHF High Band and UHF Antenna</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a high-performance antenna designed to receive both VHF high-band and UHF signals for improved HDTV reception.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1c5XrL2zwxy6rbxgALsQd2pka_emzGz8D&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger Dual Shielded Subwoofer Audio RCA Cable with Gold plated connectors - 8 Feet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an 8-foot audio cable designed for connecting subwoofers, featuring dual shielding and gold-plated connectors for enhanced sound quality and reduced interference.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18QYBLDRvNQtxVD6HcBhasVxtwDQZ_Fu5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Linksys DOCSIS 3.0 Cable Modem (DPC3008-CC)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This internal cable modem provides high-speed internet connectivity by connecting directly to your broadband cable service using DOCSIS 3.0 technology.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HaDoFUaOx_sIuERa3C-gNtqjYIAJhoO3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cisco Model DPC3010 DOCSIS 3.0 8x4 Cable Modem - Cable modem - external - Hi-Speed USB / Gigabit E -</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an external cable modem that supports DOCSIS 3.0 standard, featuring 8 downstream and 4 upstream channels for high-speed internet connectivity, with Hi-Speed USB and Gigabit Ethernet interfaces.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1043_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1043_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1043_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1044",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1044_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18QYBLDRvNQtxVD6HcBhasVxtwDQZ_Fu5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Linksys DOCSIS 3.0 Cable Modem (DPC3008-CC)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This internal cable modem provides high-speed internet connectivity by connecting directly to your broadband cable service using DOCSIS 3.0 technology.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PwN4In9MGDq8V61Yo6x8SV-TsTCjMVPK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TP-LINK TL-WDR4300 Wireless N750 Dual Band Router, Gigabit, 2.4GHz 300Mbps+5Ghz 450Mbps, 2 USB port, Wireless On/Off Switch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-band wireless router providing combined speeds of up to 750Mbps with gigabit ports and USB connectivity for sharing devices, ideal for high-speed internet and network management.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=18QYBLDRvNQtxVD6HcBhasVxtwDQZ_Fu5&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Linksys DOCSIS 3.0 Cable Modem (DPC3008-CC)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This internal cable modem provides high-speed internet connectivity by connecting directly to your broadband cable service using DOCSIS 3.0 technology.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1HaDoFUaOx_sIuERa3C-gNtqjYIAJhoO3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Cisco Model DPC3010 DOCSIS 3.0 8x4 Cable Modem - Cable modem - external - Hi-Speed USB / Gigabit E -</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an external cable modem that supports DOCSIS 3.0 standard, featuring 8 downstream and 4 upstream channels for high-speed internet connectivity, with Hi-Speed USB and Gigabit Ethernet interfaces.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1044_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1044_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1044_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1045",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1045_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1d4zLjIfMs8LGzz65E4Ds3kZNN5REpd3b&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter, Frustration-Free Packaging - SDSDQU-064G-AFFP-A</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed 64GB microSDXC memory card with an adapter, designed for fast data transfer and storage expansion in devices like smartphones, cameras, and tablets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jYtCU9dG0hX_MZg-w1P6NVjNBd4b3PsW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; USB 3.0 Multi-in-1 Card Reader 4-Slots for SDXC, SDHC, SD, CF, High-Speed CF (UDMA), MS, M2, Micro SDXC, Micro SDHC, Micro SD Cards [Support UHS-I Cards]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that allows users to read and transfer data from various types of memory cards, such as SD, CF, and Micro SD, utilizing high-speed USB 3.0 connectivity.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1d4zLjIfMs8LGzz65E4Ds3kZNN5REpd3b&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter, Frustration-Free Packaging - SDSDQU-064G-AFFP-A</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed 64GB microSDXC memory card with an adapter, designed for fast data transfer and storage expansion in devices like smartphones, cameras, and tablets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1o68HZfN07HmDQmOUNMJL9VixwwWpEr0F&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Pioneer TS-SWX251 10&quot; Flat Subwoofer with Enclosure 800 Watts</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, high-power subwoofer designed for cars, delivering deep bass with an 800-watt capacity, housed in a slim enclosure for easy installation.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1045_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1045_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1045_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1046",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1046_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1LY7nXZHMSMwctP1yP_ADl9Bgtg6YhFrh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ubiquiti POE-48 Power Over Ethernet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A power adapter that delivers 48V of power over Ethernet cables to compatible devices, eliminating the need for separate power cords.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TBCjKJSiP_Az4O3VUnErOkbUyln3AVUX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NETGEAR GS108NA ProSafe 8-Port Gigabit Ethernet Desktop Switch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">An 8-port device that connects multiple computers or network-enabled devices to a local area network (LAN) at gigabit speeds, ideal for expanding network capacity efficiently.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PwN4In9MGDq8V61Yo6x8SV-TsTCjMVPK&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">TP-LINK TL-WDR4300 Wireless N750 Dual Band Router, Gigabit, 2.4GHz 300Mbps+5Ghz 450Mbps, 2 USB port, Wireless On/Off Switch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A dual-band wireless router providing combined speeds of up to 750Mbps with gigabit ports and USB connectivity for sharing devices, ideal for high-speed internet and network management.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1LY7nXZHMSMwctP1yP_ADl9Bgtg6YhFrh&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ubiquiti POE-48 Power Over Ethernet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A power adapter that delivers 48V of power over Ethernet cables to compatible devices, eliminating the need for separate power cords.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dZ8NTDEHmtunDswqtVP10Q6azCiQwEM4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Crucial M500 120GB SATA 2.5-Inch 7mm (with 9.5mm adapter) Internal Solid State Drive CT120M500SSD1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 120GB internal solid-state drive designed for laptops and desktops, featuring a 2.5-inch form factor with a 7mm thickness and an included 9.5mm adapter for versatile installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sodJz39uT5tF874wtgTqzVC_ZT2FOQwY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Cruzer Fit 4GB USB 2.0 Low-Profile Flash Drive- SDCZ33-004G-B35</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and low-profile 4GB USB 2.0 flash drive designed for convenient and portable data storage.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1TBCjKJSiP_Az4O3VUnErOkbUyln3AVUX&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">NETGEAR GS108NA ProSafe 8-Port Gigabit Ethernet Desktop Switch</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">An 8-port device that connects multiple computers or network-enabled devices to a local area network (LAN) at gigabit speeds, ideal for expanding network capacity efficiently.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1T5zowO4wTiGUW9bJxHD05iQzbaJ7-Zx6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ORICO AC525-2S -BK Aluminum 2 Bay 5.25 &quot; to 2.5 &quot; Hard Drive SSD mounting Converter Bracket Adapter Support Crucial 256 / 128 GB M4 and Samsung 830</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This aluminum adapter bracket allows you to mount two 2.5-inch SSDs or hard drives into a single 5.25-inch bay, supporting compatibility with Crucial and Samsung models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1U0Z5coNRCMGgYFRO2f6v9XPwDcLJSbtR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">C2G / Cables to Go - 27400 - 6ft 3-Slot Notebook Power Cord</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot power cord with a three-slot connector designed for providing electricity to notebook computers.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1046_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1046_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1046_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1047",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1047_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dZ8NTDEHmtunDswqtVP10Q6azCiQwEM4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Crucial M500 120GB SATA 2.5-Inch 7mm (with 9.5mm adapter) Internal Solid State Drive CT120M500SSD1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 120GB internal solid-state drive designed for laptops and desktops, featuring a 2.5-inch form factor with a 7mm thickness and an included 9.5mm adapter for versatile installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1T5zowO4wTiGUW9bJxHD05iQzbaJ7-Zx6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ORICO AC525-2S -BK Aluminum 2 Bay 5.25 &quot; to 2.5 &quot; Hard Drive SSD mounting Converter Bracket Adapter Support Crucial 256 / 128 GB M4 and Samsung 830</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This aluminum adapter bracket allows you to mount two 2.5-inch SSDs or hard drives into a single 5.25-inch bay, supporting compatibility with Crucial and Samsung models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jZVSLJtU5uTLNvcNxCXZc5ghlrXs-xC3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">5 Pack of 18&quot; Double Locking SATA III/6Gb/s Cables</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A set of five high-speed SATA III cables designed for secure data transfer between internal storage devices and motherboards, offering double locking for enhanced connection stability.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1dZ8NTDEHmtunDswqtVP10Q6azCiQwEM4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Crucial M500 120GB SATA 2.5-Inch 7mm (with 9.5mm adapter) Internal Solid State Drive CT120M500SSD1</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 120GB internal solid-state drive designed for laptops and desktops, featuring a 2.5-inch form factor with a 7mm thickness and an included 9.5mm adapter for versatile installation.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sodJz39uT5tF874wtgTqzVC_ZT2FOQwY&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Cruzer Fit 4GB USB 2.0 Low-Profile Flash Drive- SDCZ33-004G-B35</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and low-profile 4GB USB 2.0 flash drive designed for convenient and portable data storage.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XRtgP_mlmFXAsfLQsXaf1y1CTQc787i0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ortek Windows 7 Vista XP Media Center MCE PC Remote Control and Infrared Receiver for Home, Premium and Ultimate Edition</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a remote control with an infrared receiver designed for operating Windows Media Center on PCs running Windows 7, Vista, or XP Home, Premium, and Ultimate Editions.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1T5zowO4wTiGUW9bJxHD05iQzbaJ7-Zx6&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ORICO AC525-2S -BK Aluminum 2 Bay 5.25 &quot; to 2.5 &quot; Hard Drive SSD mounting Converter Bracket Adapter Support Crucial 256 / 128 GB M4 and Samsung 830</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This aluminum adapter bracket allows you to mount two 2.5-inch SSDs or hard drives into a single 5.25-inch bay, supporting compatibility with Crucial and Samsung models.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1U0Z5coNRCMGgYFRO2f6v9XPwDcLJSbtR&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">C2G / Cables to Go - 27400 - 6ft 3-Slot Notebook Power Cord</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot power cord with a three-slot connector designed for providing electricity to notebook computers.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1047_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1047_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1047_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1048",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1048_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1y6uzUE7ltWp2lxL0DhUQuAGZ7ZL8ja-x&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kingston 4 GB microSDHC Class 4 Flash Memory Card SDC4/4GBET</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 4 GB microSDHC memory card designed for storing data in portable electronic devices, compatible with devices supporting Class 4 speed.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Cyt-GrRpOQc4Wh0VzWftEpXubyVvs3m4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Olympus 32 MB xD Picture Card</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A small, portable memory card designed for storing digital photos and multimedia files, compatible with certain Olympus and Fujifilm digital cameras.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1y6uzUE7ltWp2lxL0DhUQuAGZ7ZL8ja-x&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kingston 4 GB microSDHC Class 4 Flash Memory Card SDC4/4GBET</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 4 GB microSDHC memory card designed for storing data in portable electronic devices, compatible with devices supporting Class 4 speed.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jYtCU9dG0hX_MZg-w1P6NVjNBd4b3PsW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; USB 3.0 Multi-in-1 Card Reader 4-Slots for SDXC, SDHC, SD, CF, High-Speed CF (UDMA), MS, M2, Micro SDXC, Micro SDHC, Micro SD Cards [Support UHS-I Cards]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that allows users to read and transfer data from various types of memory cards, such as SD, CF, and Micro SD, utilizing high-speed USB 3.0 connectivity.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1048_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1048_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1048_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1049",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1049_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1psOM6cKxcxZag3VXZ4w1EOFQUTSocD_w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HP DVD Lightscribe Recordable Media - DVD-R - 16x - 4.70 GB - 50 Pack Cake Box (4064)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 50-pack of 16x speed DVD-R discs with 4.7 GB capacity each, featuring Lightscribe technology for labeling directly on the disc surface.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vjlijY8Mr_URivIlNsO0RxTbwubcOwYD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Verbatim 94934 700 MB 52x LightScribe Gold Recordable Discs CD-R, 30-Disc Spindle (Discontinued by Manufacturer)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A spindle of 30 gold-colored, recordable CD-R discs with a 700 MB capacity and LightScribe technology for laser-etched labeling, capable of 52x write speed.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1psOM6cKxcxZag3VXZ4w1EOFQUTSocD_w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HP DVD Lightscribe Recordable Media - DVD-R - 16x - 4.70 GB - 50 Pack Cake Box (4064)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 50-pack of 16x speed DVD-R discs with 4.7 GB capacity each, featuring Lightscribe technology for labeling directly on the disc surface.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1XFPYzPEykr97VlO6QV2fwHk1ef2JR6ap&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BUFFALO 8x USB 2.0 Portable DVD Writer - DVSM-PC58U2VB</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable device that connects via USB to enable reading and writing of DVDs on computers without built-in optical drives.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1049_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1049_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1049_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1050",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1050_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mD4Uu-BQdLFWVTinhK5EETdxVMFMQkVU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics High-Speed HDMI Cable - 15 Feet ( 4.6 Meters) Supports Ethernet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 15-foot HDMI cable that supports Ethernet, designed for high-speed audio and video transmission between devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Lj5Ov4P1a-M6uSoQ36_oCzoGqfCW90GU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 6.6 Feet (2m) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6.6-foot high-speed HDMI cable designed for enhanced video and audio quality, supporting 3D content and Ethernet connectivity.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mD4Uu-BQdLFWVTinhK5EETdxVMFMQkVU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics High-Speed HDMI Cable - 15 Feet ( 4.6 Meters) Supports Ethernet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 15-foot HDMI cable that supports Ethernet, designed for high-speed audio and video transmission between devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tdLGAc0Ar87kmrFvItmut15s0TbMkqMD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Etekcity&reg; HDMI to AV Composite RCA CVBS Video + Audio Converter For TV PS3 VHS VCR DVD</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts HDMI input to RCA composite video and audio output, allowing modern digital devices to connect with older AV equipment.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1050_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1050_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1050_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1051",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1051_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OxLFVnc6a0bJ8sTC23j7v-xLfago0eMx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony DVDirect Express VRDP1 Multi-Function DVD Writer for Sony Handycam Camcorders with USB interface-Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, multifunctional DVD writer designed for Sony Handycam camcorders, allowing users to directly transfer and burn video footage onto DVDs via a USB connection.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=12YbyauZ8UrA_jcaNJIPagWSTAaU9gMzT&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">WD My Passport 2TB Portable External USB 3.0 Hard Drive Storage Black (WDBY8L0020BBK-NESN)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact and portable 2TB external hard drive designed for data storage and fast file transfer via USB 3.0.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=125rSmFZVxTJH03c4t7yITfZURY0ApxMm&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics USB Cable - 3.0 A Male to Micro B - 6 Feet (1.8 Meters)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6-foot USB 3.0 cable with a Type A male to Micro B connection, suitable for fast data transfer and charging compatible devices.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FeLNBD6aNIN5-bbleKjTje-KDQNgnCdt&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Tiffen 46mm UV Protection Filter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a 46mm ultraviolet filter designed to protect camera lenses from UV rays and physical damage while enhancing image clarity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1tdLGAc0Ar87kmrFvItmut15s0TbMkqMD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Etekcity&reg; HDMI to AV Composite RCA CVBS Video + Audio Converter For TV PS3 VHS VCR DVD</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts HDMI input to RCA composite video and audio output, allowing modern digital devices to connect with older AV equipment.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OxLFVnc6a0bJ8sTC23j7v-xLfago0eMx&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Sony DVDirect Express VRDP1 Multi-Function DVD Writer for Sony Handycam Camcorders with USB interface-Black</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact, multifunctional DVD writer designed for Sony Handycam camcorders, allowing users to directly transfer and burn video footage onto DVDs via a USB connection.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1psOM6cKxcxZag3VXZ4w1EOFQUTSocD_w&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">HP DVD Lightscribe Recordable Media - DVD-R - 16x - 4.70 GB - 50 Pack Cake Box (4064)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 50-pack of 16x speed DVD-R discs with 4.7 GB capacity each, featuring Lightscribe technology for labeling directly on the disc surface.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1y6uzUE7ltWp2lxL0DhUQuAGZ7ZL8ja-x&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Kingston 4 GB microSDHC Class 4 Flash Memory Card SDC4/4GBET</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 4 GB microSDHC memory card designed for storing data in portable electronic devices, compatible with devices supporting Class 4 speed.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1mD4Uu-BQdLFWVTinhK5EETdxVMFMQkVU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">AmazonBasics High-Speed HDMI Cable - 15 Feet ( 4.6 Meters) Supports Ethernet</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 15-foot HDMI cable that supports Ethernet, designed for high-speed audio and video transmission between devices.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Lj5Ov4P1a-M6uSoQ36_oCzoGqfCW90GU&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed HDMI Cable with Ethernet 6.6 Feet (2m) - Supports 3D and Audio Return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 6.6-foot high-speed HDMI cable designed for enhanced video and audio quality, supporting 3D content and Ethernet connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1vjlijY8Mr_URivIlNsO0RxTbwubcOwYD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Verbatim 94934 700 MB 52x LightScribe Gold Recordable Discs CD-R, 30-Disc Spindle (Discontinued by Manufacturer)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A spindle of 30 gold-colored, recordable CD-R discs with a 700 MB capacity and LightScribe technology for laser-etched labeling, capable of 52x write speed.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Cyt-GrRpOQc4Wh0VzWftEpXubyVvs3m4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Olympus 32 MB xD Picture Card</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A small, portable memory card designed for storing digital photos and multimedia files, compatible with certain Olympus and Fujifilm digital cameras.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Kl_1-qUINM0-q0Il22eZgb3HzNwGr2H4&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Roku 2 XS 1080p Streaming Player (Old Model)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition streaming media player that allows you to access and watch digital content on your TV from various online services.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1051_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1051_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1051_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1052",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1052_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qUWOClGvKMPV3lhiwjWMrOQEvQWu4ShN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">GMYLE (TM) White 360 degrees Rotating Swivel Magnetic Wake Up Sleep Function Smart Leather Flip Folio Stand Cover Case Pouch for Samsung Galaxy Tab 10.1 P7510 Tab 2 P5100</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a white leather folio case with a 360-degree rotating swivel and magnetic wake/sleep functionality, designed to protect and support Samsung Galaxy Tab 10.1 and Tab 2 tablets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sgxvlvwdoWYCIB2baVvSCrzVQYo45OM0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bargains Depot 2 pcs (2 in 1 Bundle Combo Pack) Capacitive Stylus/styli Universal Touch Screen Pen for Tablet PC Computer : Samsung Galaxy Tab 10.1 Inch 16GB 32GB 64GB Tablet, Samsung Galaxy Tab 7 Inch 16GB Tablet, Samsung Galaxy Tab 7.0 - Purple/Pink</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a two-pack of capacitive styluses designed for use with various Samsung Galaxy Tab tablets, featuring a purple and pink color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WXywZk-Vk9X8gc_humo_PpjejnVfMGh9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eForCity 2 packs Reusable Screen Protectors Compatible with Samsung&copy; Galaxy Tab 2/ 10.1/ P5100/ P5110</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes two reusable screen protectors designed to fit and protect the screens of Samsung Galaxy Tab 2 10.1 tablets, models P5100 and P5110, from scratches and smudges.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-xNvDjahYYRglDtW5QXqWJ5TTnbVXOX3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chromo Inc&reg; 7&quot; Android 4.1 Capacitive 5 Point Multi-Touch Screen - Black {New Model September 2013}</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 7-inch Android tablet with a capacitive multi-touch screen, running Android 4.1, released in September 2013.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qUWOClGvKMPV3lhiwjWMrOQEvQWu4ShN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">GMYLE (TM) White 360 degrees Rotating Swivel Magnetic Wake Up Sleep Function Smart Leather Flip Folio Stand Cover Case Pouch for Samsung Galaxy Tab 10.1 P7510 Tab 2 P5100</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a white leather folio case with a 360-degree rotating swivel and magnetic wake/sleep functionality, designed to protect and support Samsung Galaxy Tab 10.1 and Tab 2 tablets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sgxvlvwdoWYCIB2baVvSCrzVQYo45OM0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bargains Depot 2 pcs (2 in 1 Bundle Combo Pack) Capacitive Stylus/styli Universal Touch Screen Pen for Tablet PC Computer : Samsung Galaxy Tab 10.1 Inch 16GB 32GB 64GB Tablet, Samsung Galaxy Tab 7 Inch 16GB Tablet, Samsung Galaxy Tab 7.0 - Purple/Pink</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a two-pack of capacitive styluses designed for use with various Samsung Galaxy Tab tablets, featuring a purple and pink color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WXywZk-Vk9X8gc_humo_PpjejnVfMGh9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eForCity 2 packs Reusable Screen Protectors Compatible with Samsung&copy; Galaxy Tab 2/ 10.1/ P5100/ P5110</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes two reusable screen protectors designed to fit and protect the screens of Samsung Galaxy Tab 2 10.1 tablets, models P5100 and P5110, from scratches and smudges.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1052_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1052_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1052_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1053",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1053_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1-xNvDjahYYRglDtW5QXqWJ5TTnbVXOX3&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Chromo Inc&reg; 7&quot; Android 4.1 Capacitive 5 Point Multi-Touch Screen - Black {New Model September 2013}</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 7-inch Android tablet with a capacitive multi-touch screen, running Android 4.1, released in September 2013.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qUWOClGvKMPV3lhiwjWMrOQEvQWu4ShN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">GMYLE (TM) White 360 degrees Rotating Swivel Magnetic Wake Up Sleep Function Smart Leather Flip Folio Stand Cover Case Pouch for Samsung Galaxy Tab 10.1 P7510 Tab 2 P5100</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a white leather folio case with a 360-degree rotating swivel and magnetic wake/sleep functionality, designed to protect and support Samsung Galaxy Tab 10.1 and Tab 2 tablets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sgxvlvwdoWYCIB2baVvSCrzVQYo45OM0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bargains Depot 2 pcs (2 in 1 Bundle Combo Pack) Capacitive Stylus/styli Universal Touch Screen Pen for Tablet PC Computer : Samsung Galaxy Tab 10.1 Inch 16GB 32GB 64GB Tablet, Samsung Galaxy Tab 7 Inch 16GB Tablet, Samsung Galaxy Tab 7.0 - Purple/Pink</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a two-pack of capacitive styluses designed for use with various Samsung Galaxy Tab tablets, featuring a purple and pink color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WXywZk-Vk9X8gc_humo_PpjejnVfMGh9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eForCity 2 packs Reusable Screen Protectors Compatible with Samsung&copy; Galaxy Tab 2/ 10.1/ P5100/ P5110</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes two reusable screen protectors designed to fit and protect the screens of Samsung Galaxy Tab 2 10.1 tablets, models P5100 and P5110, from scratches and smudges.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Hp2q7yYBExqiFPYkRPiuVTeuS9FEh80e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Toshiba L55-A5284 15.6&quot; Professional Laptop</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-performance 15.6-inch laptop designed for professional use, featuring powerful processing capabilities and essential connectivity options.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1qUWOClGvKMPV3lhiwjWMrOQEvQWu4ShN&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">GMYLE (TM) White 360 degrees Rotating Swivel Magnetic Wake Up Sleep Function Smart Leather Flip Folio Stand Cover Case Pouch for Samsung Galaxy Tab 10.1 P7510 Tab 2 P5100</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a white leather folio case with a 360-degree rotating swivel and magnetic wake/sleep functionality, designed to protect and support Samsung Galaxy Tab 10.1 and Tab 2 tablets.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1sgxvlvwdoWYCIB2baVvSCrzVQYo45OM0&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Bargains Depot 2 pcs (2 in 1 Bundle Combo Pack) Capacitive Stylus/styli Universal Touch Screen Pen for Tablet PC Computer : Samsung Galaxy Tab 10.1 Inch 16GB 32GB 64GB Tablet, Samsung Galaxy Tab 7 Inch 16GB Tablet, Samsung Galaxy Tab 7.0 - Purple/Pink</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is a two-pack of capacitive styluses designed for use with various Samsung Galaxy Tab tablets, featuring a purple and pink color scheme.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1WXywZk-Vk9X8gc_humo_PpjejnVfMGh9&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">eForCity 2 packs Reusable Screen Protectors Compatible with Samsung&copy; Galaxy Tab 2/ 10.1/ P5100/ P5110</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product includes two reusable screen protectors designed to fit and protect the screens of Samsung Galaxy Tab 2 10.1 tablets, models P5100 and P5110, from scratches and smudges.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1053_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1053_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1053_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1054",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1054_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1y4jH1PN4NL-_NPnrdzy3bsPAlrZQpGdr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung 64GB Class 10 MicroSDXC Ultra High Speed Memory Card 50MB/s Read 20MB/s Write with Komputerbay SD Adapter and MobileMate USB Reader</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a high-speed 64GB MicroSDXC memory card designed for fast data transfer and storage, compatible with various devices, and includes an SD adapter and a USB reader for enhanced connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jYtCU9dG0hX_MZg-w1P6NVjNBd4b3PsW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; USB 3.0 Multi-in-1 Card Reader 4-Slots for SDXC, SDHC, SD, CF, High-Speed CF (UDMA), MS, M2, Micro SDXC, Micro SDHC, Micro SD Cards [Support UHS-I Cards]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that allows users to read and transfer data from various types of memory cards, such as SD, CF, and Micro SD, utilizing high-speed USB 3.0 connectivity.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1y4jH1PN4NL-_NPnrdzy3bsPAlrZQpGdr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung 64GB Class 10 MicroSDXC Ultra High Speed Memory Card 50MB/s Read 20MB/s Write with Komputerbay SD Adapter and MobileMate USB Reader</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a high-speed 64GB MicroSDXC memory card designed for fast data transfer and storage, compatible with various devices, and includes an SD adapter and a USB reader for enhanced connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ldiDyZ4jXz6kna4EO07I4Adhn5q_ROkz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Komputerbay 64GB Class 10 UHS-1 Grade 1 70MB/s MicroSDXC Pro Memory Card using Samsung NAND with Komputerbay SD Adapter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity, high-speed MicroSDXC memory card ideal for expanding storage in electronic devices, featuring Samsung NAND technology and an adapter for versatile use.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1054_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1054_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1054_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1055",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1055_html",
+          "html": "\n        <!-- randomise: no -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1y4jH1PN4NL-_NPnrdzy3bsPAlrZQpGdr&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Samsung 64GB Class 10 MicroSDXC Ultra High Speed Memory Card 50MB/s Read 20MB/s Write with Komputerbay SD Adapter and MobileMate USB Reader</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This product is a high-speed 64GB MicroSDXC memory card designed for fast data transfer and storage, compatible with various devices, and includes an SD adapter and a USB reader for enhanced connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ldiDyZ4jXz6kna4EO07I4Adhn5q_ROkz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Komputerbay 64GB Class 10 UHS-1 Grade 1 70MB/s MicroSDXC Pro Memory Card using Samsung NAND with Komputerbay SD Adapter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity, high-speed MicroSDXC memory card ideal for expanding storage in electronic devices, featuring Samsung NAND technology and an adapter for versatile use.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1ldiDyZ4jXz6kna4EO07I4Adhn5q_ROkz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Komputerbay 64GB Class 10 UHS-1 Grade 1 70MB/s MicroSDXC Pro Memory Card using Samsung NAND with Komputerbay SD Adapter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-capacity, high-speed MicroSDXC memory card ideal for expanding storage in electronic devices, featuring Samsung NAND technology and an adapter for versatile use.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1jYtCU9dG0hX_MZg-w1P6NVjNBd4b3PsW&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Anker&reg; USB 3.0 Multi-in-1 Card Reader 4-Slots for SDXC, SDHC, SD, CF, High-Speed CF (UDMA), MS, M2, Micro SDXC, Micro SDHC, Micro SD Cards [Support UHS-I Cards]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that allows users to read and transfer data from various types of memory cards, such as SD, CF, and Micro SD, utilizing high-speed USB 3.0 connectivity.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1055_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1055_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1055_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1056",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1056_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1osby40ARsJAJgQ3Wu88c2TECkrKVBEtE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Roku 3 Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition device that connects to your TV, enabling access to a wide range of streaming services and channels via the internet.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PneOY8b9NS37LaJDhk9NsEKizVUvbbvw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ARRIS / Motorola SurfBoard SB6141 DOCSIS 3.0 Cable Modem - Retail Packaging - White</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed cable modem designed to deliver internet connectivity for home or office networks, compatible with major cable internet providers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17Ouav-rJ8B3Ij4zLPqh6RoCl29cakfCf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">PCT 1-PORT BI-DIRECTIONAL CABLE TV HDTV AMPLIFIER SIGNAL BOOSTER WITH PASSIVE RETURN PATH</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device enhances the signal quality for cable TV and HDTV by amplifying weak signals and maintaining bidirectional communication capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E5ERKVPwDl0eSD0VAYM4o6tFy8GLYIwz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed Braided HDMI cable with Ethernet 6.6 Feet (2m) - Supports 3D and Audio return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable, high-speed braided HDMI cable designed for transmitting high-definition video and audio with Ethernet support, suitable for connecting devices like TVs, computers, and gaming consoles, and compatible with 3D technology and audio return channel.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rfbpT4NSLtV6qqpfscwS34qqt3tm7JzD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mediasonic HW-150PVR HomeWorx ATSC Digital TV Converter Box with Media Player and Recording PVR Function/HDMI Out (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts over-the-air digital TV signals to analog for older TVs, while also functioning as a media player and personal video recorder with HDMI output.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1osby40ARsJAJgQ3Wu88c2TECkrKVBEtE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Roku 3 Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition device that connects to your TV, enabling access to a wide range of streaming services and channels via the internet.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1PneOY8b9NS37LaJDhk9NsEKizVUvbbvw&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">ARRIS / Motorola SurfBoard SB6141 DOCSIS 3.0 Cable Modem - Retail Packaging - White</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-speed cable modem designed to deliver internet connectivity for home or office networks, compatible with major cable internet providers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1V6KrpCHFYoWUyODGT3Z_FvGvZG1EMn_E&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Plugable 7 Port High Speed USB 2.0 Hub with 3A Power Adapter</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact device that expands a single USB port into seven high-speed USB 2.0 ports, powered by a 3A adapter for enhanced connectivity and performance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17Ouav-rJ8B3Ij4zLPqh6RoCl29cakfCf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">PCT 1-PORT BI-DIRECTIONAL CABLE TV HDTV AMPLIFIER SIGNAL BOOSTER WITH PASSIVE RETURN PATH</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device enhances the signal quality for cable TV and HDTV by amplifying weak signals and maintaining bidirectional communication capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QRL1jzgLGSwP1CFhWMqapwBrosQ2mw9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Google Chromecast HDMI Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device is a compact digital media player that plugs into your TV's HDMI port, allowing you to stream online content from your phone or computer directly to your television.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E5ERKVPwDl0eSD0VAYM4o6tFy8GLYIwz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed Braided HDMI cable with Ethernet 6.6 Feet (2m) - Supports 3D and Audio return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable, high-speed braided HDMI cable designed for transmitting high-definition video and audio with Ethernet support, suitable for connecting devices like TVs, computers, and gaming consoles, and compatible with 3D technology and audio return channel.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rfbpT4NSLtV6qqpfscwS34qqt3tm7JzD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mediasonic HW-150PVR HomeWorx ATSC Digital TV Converter Box with Media Player and Recording PVR Function/HDMI Out (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts over-the-air digital TV signals to analog for older TVs, while also functioning as a media player and personal video recorder with HDMI output.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1056_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1056_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1056_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1057",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1057_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1osby40ARsJAJgQ3Wu88c2TECkrKVBEtE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Roku 3 Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition device that connects to your TV, enabling access to a wide range of streaming services and channels via the internet.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E5ERKVPwDl0eSD0VAYM4o6tFy8GLYIwz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed Braided HDMI cable with Ethernet 6.6 Feet (2m) - Supports 3D and Audio return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable, high-speed braided HDMI cable designed for transmitting high-definition video and audio with Ethernet support, suitable for connecting devices like TVs, computers, and gaming consoles, and compatible with 3D technology and audio return channel.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rfbpT4NSLtV6qqpfscwS34qqt3tm7JzD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mediasonic HW-150PVR HomeWorx ATSC Digital TV Converter Box with Media Player and Recording PVR Function/HDMI Out (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts over-the-air digital TV signals to analog for older TVs, while also functioning as a media player and personal video recorder with HDMI output.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1osby40ARsJAJgQ3Wu88c2TECkrKVBEtE&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Roku 3 Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A high-definition device that connects to your TV, enabling access to a wide range of streaming services and channels via the internet.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=17Ouav-rJ8B3Ij4zLPqh6RoCl29cakfCf&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">PCT 1-PORT BI-DIRECTIONAL CABLE TV HDTV AMPLIFIER SIGNAL BOOSTER WITH PASSIVE RETURN PATH</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device enhances the signal quality for cable TV and HDTV by amplifying weak signals and maintaining bidirectional communication capabilities.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1QRL1jzgLGSwP1CFhWMqapwBrosQ2mw9e&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Google Chromecast HDMI Streaming Media Player</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device is a compact digital media player that plugs into your TV's HDMI port, allowing you to stream online content from your phone or computer directly to your television.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1E5ERKVPwDl0eSD0VAYM4o6tFy8GLYIwz&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">BlueRigger High Speed Braided HDMI cable with Ethernet 6.6 Feet (2m) - Supports 3D and Audio return [Latest Version]</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A durable, high-speed braided HDMI cable designed for transmitting high-definition video and audio with Ethernet support, suitable for connecting devices like TVs, computers, and gaming consoles, and compatible with 3D technology and audio return channel.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1rfbpT4NSLtV6qqpfscwS34qqt3tm7JzD&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Mediasonic HW-150PVR HomeWorx ATSC Digital TV Converter Box with Media Player and Recording PVR Function/HDMI Out (Black)</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This device converts over-the-air digital TV signals to analog for older TVs, while also functioning as a media player and personal video recorder with HDMI output.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1057_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1057_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1057_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1058",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1058_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Me4qc67JEB_S6BKJiSnVEmNme_DS9XWl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Metra 70-1761 Radio Wiring Harness For Toyota 87-Up Power 4 Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wiring harness that connects aftermarket radios to the factory wiring in Toyota vehicles from 1987 onward, supporting power and four speakers.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1FbbA1odYeJ1yLCGsWiXHyvbM9uD8QjUa&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Metra 99-8212S Single DIN Installation Kit for 2004-2005 Toyota Solara</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">This is an installation kit designed to securely mount a single DIN radio or stereo unit into the dashboard of a 2004-2005 Toyota Solara.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1OmCbzRd3a7uqiJdu2JlqrfV0ZOm4G7Vv&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Ravelli APLT4 61-inch Light Weight Aluminum Tripod With Bag</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A portable, lightweight aluminum tripod designed for cameras, extending up to 61 inches and includes a carrying bag for easy transport.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Me4qc67JEB_S6BKJiSnVEmNme_DS9XWl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Metra 70-1761 Radio Wiring Harness For Toyota 87-Up Power 4 Speaker</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A wiring harness that connects aftermarket radios to the factory wiring in Toyota vehicles from 1987 onward, supporting power and four speakers.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1058_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1058_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1058_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    },
+    {
+      "name": "electronics_pair_1059",
+      "elements": [
+        {
+          "type": "html",
+          "name": "electronics_pair_1059_html",
+          "html": "\n        <!-- randomise: yes -->\n        <div style=\"\n          max-width:1100px;margin:0 auto;\n          display:flex;gap:64px;align-items:flex-start;justify-content:center;flex-wrap:nowrap;\">\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 1</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Xp-sIUEHlQzgTthsmvJxdEYswebpvAgl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vizio P42HDTV10A 42 Inch High Definition Widescreen Plasma TV with HDMI Input, P42HDTV - P42HDTV10A</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 42-inch high-definition widescreen plasma TV featuring HDMI input for enhanced video and audio connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uGF-c5p7lXC7a0-1t2Byz3nHSxHVjlge&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Wireless Touch Keyboard K400 with Built-In Multi-Touch Touchpad</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact wireless keyboard with an integrated multi-touch touchpad designed for comfortable control and navigation of computers or smart TVs from a distance.</div>\n    </div>\n    \n          </div>\n          <div style=\"flex:1;min-width:460px;\">\n            <h4 style=\"text-align:center;margin:0 0 8px;\">Bundle 2</h4>\n            \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1Xp-sIUEHlQzgTthsmvJxdEYswebpvAgl&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Vizio P42HDTV10A 42 Inch High Definition Widescreen Plasma TV with HDMI Input, P42HDTV - P42HDTV10A</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A 42-inch high-definition widescreen plasma TV featuring HDMI input for enhanced video and audio connectivity.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=1uGF-c5p7lXC7a0-1t2Byz3nHSxHVjlge&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">Logitech Wireless Touch Keyboard K400 with Built-In Multi-Touch Touchpad</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact wireless keyboard with an integrated multi-touch touchpad designed for comfortable control and navigation of computers or smart TVs from a distance.</div>\n    </div>\n    \n    <div style=\"border-radius:8px;padding:12px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06);margin-bottom:16px;\">\n      <img src=\"https://drive.google.com/thumbnail?id=19Yd-8Mme0zlMgK4WPF60oPi4x_y5U-ph&sz=w320\" alt=\"\" style=\"width:100%;max-height:260px;object-fit:contain;display:block;margin:0 auto 8px;\">\n      <div style=\"font-weight:700;margin:6px 0 4px;line-height:1.25;\">SanDisk Cruzer 4GB USB 2.0 Flash Drive, Frustration-Free Packaging- SDCZ36-004G-AFFP</div>\n      <div style=\"font-size:14px;line-height:1.35;color:#444;\">A compact 4GB USB flash drive designed for easy data storage and transfer, packaged to reduce waste and frustration.</div>\n    </div>\n    \n          </div>\n        </div>\n        "
+        },
+        {
+          "type": "radiogroup",
+          "name": "electronics_pair_1059_choice",
+          "title": "Which bundle is better \u2014 bundle 1 or bundle 2?",
+          "choices": [
+            {
+              "value": "bundle_1",
+              "text": "Bundle 1 is better"
+            },
+            {
+              "value": "bundle_2",
+              "text": "Bundle 2 is better"
+            }
+          ],
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1059_bundle1_rating",
+          "title": "Rate bundle 1:",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "electronics_pair_1059_bundle2_rating",
+          "title": "Rate bundle 2",
+          "rateMin": 1,
+          "rateMax": 5,
+          "rateStep": 1,
+          "isRequired": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+    "0": {
+        "input": "Intent: Batteries\nBundle Items:\n1. Wasabi Power Battery for Canon LP-E6 and Canon EOS 5D Mark II, EOS 5D Mark III, EOS 6D, EOS 7D, EOS 60D, EOS 60Da, EOS 70D\n2. Belkin 3-Outlet Mini Travel Swivel Charger Surge Protector with Dual USB Ports, 5 Charging Outlets Total (1 AMP / 5 Watt)\n3. Laptop/Notebook Battery for Dell Inspiron\n4. Mophie Juice Pack Air Battery Case for iPhone 5 and 5S\n",
+        "target_score": 1.0,
+        "annotations": "The bundle lacks functionality integration as there is no clear way to connect all the items coherently. The Wasabi Power Battery implies the user has a camera, the Battery for Dell Inspiron requires that specific laptop, and the iPhone case implies the user has an iPhone 5. The items are not similar at all, and do not complement each other. The diversity of the bundle only adds confusion."
+    },
+    "1": {
+        "input": "Intent: Local area network for home or office\nBundle Items:\n1. SANOXY&reg; USB 6 LED PC Webcam Camera plus + Night Vision MSN, ICQ, AIM, Skype, Net Meeting and compatible with Win 98 / 2000 / NT / Me / XP / Vista\n2. VideoSecu LCD Monitor TV Wall Mount Articulating Arm Bracket for most 12&quot;-24&quot;, some up to 27&quot; with VESA 100/75mm LED Flat Panel Screen TV ML10B 1E9\n3. Etekcity&reg; USB Wireless Wi-Fi Network Adapter with Dual 6 dBi Antennas - 802.11 B/G/N 300Mbps\n",
+        "target_score": 4.0,
+        "annotations": "This bundle is tailored to a user which specifically wants to setup a small video conferencing room. The TV wall mount is to hold a TV in place, the webcam is to let people in the online meeting see the users in the room, and the WiFi extender is used to ensure all participants in the meeting have good internet connection. The wall mount decreases the similarity and complementarity of the bundle as it specifically requires the user to require to mount a TV for a video conference meeting, whereas, if it were not present, it could be used for an individual home office setup. However, the diversity of the bundle is improved and it makes a lot of sense for specific users."
+    },
+    "2": {
+        "input": "Intent: Based on the high demand.\nBundle Items:\n1. Kodak ZxD Pocket Video Camera (Black)\n2. Scosche Automotive Wire Harness -1988-up GM Micro/Delco Antenna Adapter\n3. Sony Walkman E-340 Series 8 GB Video MP3 Player (Black)\n4. SANOXY&reg; USB 6 LED PC Webcam Camera plus + Night Vision MSN, ICQ, AIM, Skype, Net Meeting and compatible with Win 98 / 2000 / NT / Me / XP / Vista\n5. Metra 70-1858 Radio Wiring Harness For GM 88-05 Harness\n6. SD/MMC/USB/MP3 Wireless In Car FM Transmitter with Remote (Black)\n7. VideoSecu LCD Monitor TV Wall Mount Articulating Arm Bracket for most 12&quot;-24&quot;, some up to 27&quot; with VESA 100/75mm LED Flat Panel Screen TV ML10B 1E9\n8. Etekcity&reg; USB Wireless Wi-Fi Network Adapter with Dual 6 dBi Antennas - 802.11 B/G/N 300Mbps\n9. Metra 99-3105 Dash Kit For Saturn Din Mount  with Pocket 95-99\n",
+        "target_score": 1.0,
+        "annotations": "The bundle has items which are not similar at all. There are items related to a car antenna specific to the General Motors brand, and also camera and webcam related items. There is no discernable pattern, the items do not complement each other and the diversity only adds confusion to the bundle where there seems to not be any clear use for this bundle."
+    },
+    "3": {
+        "input": "Intent: Camera and its equipments\nBundle Items:\n1. Sony HDRPJ260V High Definition Handycam 8.9 MP Camcorder with 30x Optical Zoom, 16 GB Embedded Memory and Built-in Projector (2012 Model)\n2. Delkin Secure Digital (SD) 8 Card Carrying Case DDACC-SD8\n3. Sony LCSU5 Soft Carrying Case for Camcorder\n4. 64GB SD XC Class 10 SCT Secure Digital Ultimate Extreme High Speed SDXC Flash Memory Card 64G 64 GIGS GB FOR Digital Camera SLR Tablet Computer GPS\n5. Wasabi Power Battery (2-Pack) and Charger for Sony NP-FV100 and Sony DCR-SR15, SR21, SR68, SR88, SX15, SX21, SX44, SX45, SX63, SX65, SX83, SX85, FDR-AX100, HDR-CX105, CX110, CX115, CX130, CX150, CX155, CX160, CX190, CX200, CX210, CX220, CX230, CX260V, CX290, CX300, CX305, CX330, CX350V, CX360V, CX380, CX430V, CX520V, CX550V, CX560V, CX580V, CX700V, CX760V, CX900, HC9, PJ10, PJ30V, PJ50, PJ200, PJ230, PJ260V, PJ340, PJ380, PJ430V, PJ540, PJ580V, PJ650V, PJ710V, PJ760V, PJ790V, PJ810, TD10, TD20V, TD30V, XR150, XR155, XR160, XR260V, XR350V, XR550V, HXR-NX3D1U, NX30U, NX70U, NEX-VG10, VG30, VG30H, VG900\n",
+        "target_score": 5.0,
+        "annotations": "Bundle is clearly for a photographer. The camcorder has case with memory cards and a memory card case, with a battery pack. The items are similar and adhere to a specific idea. The diversity is improved with the memory card and case and all items complement each other."
+    },
+    "4": {
+        "input": "Intent: Camera\nBundle Items:\n1. Sony HDRPJ260V High Definition Handycam 8.9 MP Camcorder with 30x Optical Zoom, 16 GB Embedded Memory and Built-in Projector (2012 Model)\n2. Sony LCSU5 Soft Carrying Case for Camcorder\n3. 64GB SD XC Class 10 SCT Secure Digital Ultimate Extreme High Speed SDXC Flash Memory Card 64G 64 GIGS GB FOR Digital Camera SLR Tablet Computer GPS\n",
+        "target_score": 5.0,
+        "annotations": "Bundle is clearly for a photographer. It is a basic starter kit for a camera bundle. The items are similar and adhere to a specific idea, diversity could be improved with perhaps a memory card case, but all items complement each other."
+    },
+    "5": {
+        "input": "Intent: Led Light\nBundle Items:\n1. CMVision IR110 - 114 LED Indoor/Outdoor Long Range 200-300ft IR Illuminator With Free 3A 12VDC Adaptor\n2. CMVision IR130 - 198 LED Indoor/Outdoor Long Range 300-400ft IR Illuminator With Free 3A 12VDC Adaptor\n",
+        "target_score": 4.0,
+        "annotations": "The bundle has a very clear purpose, to improve the detection capabilities of infrared cameras. Although the items are the same, it also makes sense as a single camera may not be able to completely cover the scope of surveillance area. The bundle may lack diversity, perhaps including a set of infrared cameras could improve the bundle further and increase the complementarity of the bundle."
+    },
+    "6": {
+        "input": "Intent: mobile purpuse\nBundle Items:\n1. ASUS Vulcan PRO Gaming Headset (Discontinued by Manufacturer)\n2. Sony BCTRG Travel Charger for G-Series Battery\n",
+        "target_score": 1.0,
+        "annotations": "It is hard to see how the items would function together. The G-Series battery implies that the intended user is camera user but as for why the Pro gaming headset is included is unclear. The items do not complement each other and are not similar in the sense they do not fulfill a specific function together."
+    },
+    "7": {
+        "input": "Intent: Item 2 may be useful to charge item 6 battery\nBundle Items:\n1. Sony BCTRG Travel Charger for G-Series Battery\n2. Fortress Security Store (TM) S02-A Wireless Home Security Alarm System DIY Kit Auto Dial\n",
+        "target_score": 1.0,
+        "annotations": "It is hard to see how the items would function together. The G-series battery is for cameras whilst the wireless home security alarm would not have its power supplied by the battery. The bundle does not serve a clear purpose and the items are dissimilar and do not complement each other. Increasing diversity will not save this bundle."
+    },
+    "8": {
+        "input": "Intent: Photography\nBundle Items:\n1. Professional 72-inch TRIPOD FOR All Canon Sony, Nikon, Samsung, Panasonic, Olympus, Kodak, Fuji, Cameras And Camcorders + BP MicroFiber Cleaning Cloth\n2. WD My Book Live 1TB Personal Cloud Storage NAS Share Files and Photos\n",
+        "target_score": 3.0,
+        "annotations": "The bundle is clearly for photographer. However, the items do not directly complement each other. Rather, we should increase the diversity of the bundle to include perhaps a memory card, and memory card case to increase the overall value of the bundle. It is very hard to see a tripod and cloud storage as a standalone purchase, so increasing the diversity can also aim to support the complementarity of the bundle."
+    },
+    "9": {
+        "input": "Intent: camera accessories\nBundle Items:\n1. Kodak PlaySport (Zx5) HD Waterproof Pocket Video Camera - Red  (2nd Generation)\n2. Case Logic TBC-312 Pocket Video Camcorder Case with Storage (Black)\n",
+        "target_score": 4.0,
+        "annotations": "This is a camera + protection bundle. It serves a clear function and the items complement each other. However, it could be improved by perhaps including a memory card or other accessories for diversity."
+    },
+    "10": {
+        "input": "Intent: Items for q camera to work. Along with a camera\nBundle Items:\n1. Canon PowerShot SX50 HS 12MP Digital Camera with 2.8-Inch LCD (Black)\n2. Case Logic DCB-304 Compact System/Hybrid Camera Case (Black)\n3. Transcend 8 GB Class 10 SDHC Flash Memory Card (TS8GSDHC10E)\n",
+        "target_score": 5.0,
+        "annotations": "This is camera + case + memory card bundle. It serves a clear purpose, each item complements each other, and all items are similar enough to serve a singular purpose. The diversity of the bundle is high with 3 bundle items."
+    },
+    "11": {
+        "input": "Intent: Tools\nBundle Items:\n1. DisplayPort to DVI Adapter for Select Dell OptiPlex Desktops / Latitude / Alienware Laptops / Precision Mobile WorkStations\n2. ePhoto High Quality New Speedlite Cold Shoe Hotshoe 1/4 Screw to Flash Hot Shoe Mount Adapter Nikon Canon H6800R\n3. Smallrig 3/8&quot;-16 Female to 1/4&quot;-20 Male Tripod Thread Reducer / Adapter Brass NEW (2-pack)\n4. Stroboframe Bracket Shoe Mount\n",
+        "target_score": 3.0,
+        "annotations": "This bundle seems to mainly focus on very niche camera accessories, such as the shoe mount, and tripod thread reducer to facilitate compatibility. However, the inclusion of the displayport to DVI adapter does not complement the rest of the items within the bundle. The adapter does not fulfill a similar purpose to the rest of the items, and if that is removed, it could prove a very strong bundle for a specific photography users. However, as the current bundle does not provide good value."
+    },
+    "12": {
+        "input": "Intent: Camera accessories\nBundle Items:\n1. ePhoto High Quality New Speedlite Cold Shoe Hotshoe 1/4 Screw to Flash Hot Shoe Mount Adapter Nikon Canon H6800R\n2. Smallrig 3/8&quot;-16 Female to 1/4&quot;-20 Male Tripod Thread Reducer / Adapter Brass NEW (2-pack)\n3. Stroboframe Bracket Shoe Mount\n",
+        "target_score": 5.0,
+        "annotations": "The Quarter inch adapter complements the \u00bc inch Screw to Flash Hot Shoe Mount adapter for the Nikon Canon. Another shoe mount is also provided which provides utility to the bundle, able to attach flashes or microphones, separate to the camera. This is a fantastic and thoughtful bundle for a specific niche user."
+    },
+    "13": {
+        "input": "Intent: camera accessories\nBundle Items:\n1. Canon EF 50mm f/1.4 USM Standard &amp; Medium Telephoto Lens for Canon SLR Cameras\n2. Professional Gear Backpack for Digital SLR Canon Cameras , up to 17&quot; Laptops and Device Accessories- Works with Canon EOS Rebel SL1 , T5i , T4i , T3i , T2i , 70D , 100D , 700D , 6D &amp; More DSLR , Micor Four Thirds , Point and Shoot Cameras , Video Cameras , Lens Kits , Tripods , etc!\n3. TASCAM BP-6AA External Battery Pack for Portable Digital Recorder\n4. Fotodiox Lens Mount Adapter, Nikon Lens to Canon EOS Camera Body, for Canon EOS 1D, 1DS, Mark II, III, IV, 1DX, 1DC, 5D, 5D Mark II, II 7D, 10D, 20D, 30D, 40D, 50D, 60D, 70D Digital Rebel T2i, T3, T3i, T4i. T5i, C300, C500\n5. NEEWER&reg; 67MM Infrared Filter - IR850 - for Kodak, Fuji, Sony, Canon, Nikon + MORE!\n6. TASCAM DR DR-60D Linear PCM Recorder for DSLR Filmmaking and Field Recording\n7. TASCAM PS-P515U AC Adapter for Select Portable Digital Recorders\n8. 67MM Altura Photo Neutral Density Professional Photography Filter Set (ND2 ND4 ND8) + Premium MagicFiber Microfiber Cleaning Cloth\n9. Rode NTG-3 Location Sound Booming Kit with Rode BLIMP, and K-Tek KE-79CC Boom Pole\n",
+        "target_score": 5.0,
+        "annotations": "This is the ultimate professional camera kit. All items fulfill a strict purpose for professional photography with enhanced audio with the PCM recorder and enhanced visuals with the many filters and lenses included. To complement these functions, many battery packs are provided and a backpack to securely stall cameras and accessories. This is the absolute benchmark of high quality camera kits. All diverse items contribute to enhance the value of the bundle."
+    },
+    "14": {
+        "input": "Intent: a camera starter pack with protection and extra battery\nBundle Items:\n1. Lowepro LP36324-0WW Tahoe 30 Camera Pouch (Red)\n2. Replacement NB-6L Battery For Canon PowerShot S120, SX170 IS, SX260 HS, SX280 HS, SX500 IS, SX510 HS, SX600 HS, SX700 HS, ELPH 500 HS, D10, D20, D30 Digital Camera + More!!!\n3. Canon PowerShot SX280 12.1MP Digital Camera with 20x Optical Image Stabilized Zoom with 3-Inch LCD (Black)\n",
+        "target_score": 5.0,
+        "annotations": "A canon camera, a case and a spare replacement battery. All items complement each other and serve a single function. They are similar in the sense that together they each increase the integrity of the bundle."
+    },
+    "15": {
+        "input": "Intent: GoPro related accessories\nBundle Items:\n1. SanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter, Frustration-Free Packaging - SDSDQU-064G-AFFP-A\n2. 12 inch Stainless Steel Tether Lanyard for GoPro HERO Cameras by The Accessory Pro\n3. GoPro Suction Cup Mount\n4. XShot 2.0 Camera Extender for Most Cameras XS2379-F\n5. GoPro Tripod Mount\n6. Removable Floaty + Anti-Fog Inserts compatible with all GoPro&reg; HERO&reg; cameras by The Accessory Pro\n7. Wasabi Power Battery (2-Pack) and New Charger for GoPro HD HERO3+, HERO3 and GoPro AHDBT-201, AHDBT-301, AHDBT-302\n",
+        "target_score": 5.0,
+        "annotations": "This is a versatile GoPro camera bundle. The battery pack and memory card serve as the primary bundle, whilst the additional items serve to add diversity and variety to the bundles to be used underwater, and the tripod and camera extender make the GoPro even more versatile. The additional items complement the primary bundle, adding diversity without adding bloat."
+    },
+    "16": {
+        "input": "Intent: cowboy studio\nBundle Items:\n1. CowboyStudio Table Top Photo Studio Light Tent Kit in a Box - 1 Tent, 2 Light Set, 1 Stand, 1 Case\n2. CowboyStudio Table Top Photography Studio Lighting Tent Kit in a Box - 1 Tent, 2 Light Set, 1 Tripod, 1 Display Table Top\n3. CowboyStudio Photo and Video Studio Continuous Lighting Kit, 10 X 20ft Black &amp; White Muslin Backdrops with Heavy Duty Backdrop Support System\n",
+        "target_score": 3.0,
+        "annotations": "There may be situations where buying two light tents, and 4 light sets together would be feasible for some users, but for most users, they may only require a single photography studio setup. Thus, removing photography studio would make the bundle more appealing to most users, as the photography studio + Muslin backdrops for lighting form a coherent bundle and complement each other. The items are thematically similar and work together to fulfill a singular function."
+    },
+    "17": {
+        "input": "Intent: intrested\nBundle Items:\n1. CowboyStudio Table Top Photo Studio Light Tent Kit in a Box - 1 Tent, 2 Light Set, 1 Stand, 1 Case\n2. Kindle Fire HD 7&quot;, Dolby Audio, Dual-Band Wi-Fi, 16 GB\n3. Philips AJ7040D 37 iPod/iPhone Speaker Dock\n4. Aidata LD007P Laptop Cooling Lap Board (Black)\n5. Replacement AC Adapter ADPT40 for Healthometer 349KLX Scale\n6. 50 Ct - Zeiss Pre-Moistened Lens Cleaning Cloths for Cameras, Microscopes, Glasses\n7. CowboyStudio 40-Inch Photo Soft Box Light Tent with 4 Chroma Key Backdrops\n8. CowboyStudio 9-Inch Portable Quick Setup Speedlite Softbox with Velcro Strap for Nikon Canon Flash Light (Black)\n9. CowboyStudio Table Top Photography Studio Lighting Tent Kit in a Box - 1 Tent, 2 Light Set, 1 Tripod, 1 Display Table Top\n10. CowboyStudio Photo and Video Studio Continuous Lighting Kit, 10 X 20ft Black &amp; White Muslin Backdrops with Heavy Duty Backdrop Support System\n",
+        "target_score": 2.0,
+        "annotations": "This mainly is a photography bundle where the additional items adds diversity but does not contribute to the main function of the bundle. For instance, the laptop cooling board + iPod/iPhone speaker dock + Kindle fire are expensive items that distract from the main purpose of the bundle. They are not thematically similar to the photography bundle and do not complement other items."
+    },
+    "18": {
+        "input": "Intent: photo studio\nBundle Items:\n1. HGST LifeStudio Mobile 250GB USB 2.0 Portable External Hard Drive, Graphite (0S02684)\n2. Ravelli APLT4 61-inch Light Weight Aluminum Tripod With Bag\n3. NEEWER&reg; \t250W Studio Photographic Strobe/Flash Light\n4. Flexpod Flexible Tripod\n5. CowboyStudio Flashlight /Hot Shoe/Umbrella Holder with Swivel/Tilt Bracket for Nikon and Canon E430 E580 SB600 SB800 SB900\n",
+        "target_score": 4.0,
+        "annotations": "A strong photography bundle which the purpose of increasing the utility of the photography studio. Whilst the flexible tripod may have some use case over the 61-inch Aluminum tripod, it may distract and not be useful for some users. However, the rest of the items complement each other very well, and are thematically similar, just the flexible tripod does not seem as though it adds enough diversity to the bundle as it overlap in function with the other tripod, most of the time."
+    },
+    "19": {
+        "input": "Intent: Photography\nBundle Items:\n1. HGST LifeStudio Mobile 250GB USB 2.0 Portable External Hard Drive, Graphite (0S02684)\n2. Ravelli APLT4 61-inch Light Weight Aluminum Tripod With Bag\n3. NEEWER&reg; \t250W Studio Photographic Strobe/Flash Light\n4. Flexpod Flexible Tripod\n5. CowboyStudio 33 inch Black and Silver Photo Studio Reflective Umbrella\n6. Roku 2 XS 1080p Streaming Player (Old Model)\n7. CowboyStudio Flashlight /Hot Shoe/Umbrella Holder with Swivel/Tilt Bracket for Nikon and Canon E430 E580 SB600 SB800 SB900\n",
+        "target_score": 3.0,
+        "annotations": "A very strong photography bundle which serves to offer a versatile photography bundle. However, the streaming player does not contribute and complement the function of the bundle and should be removed as the added diversity it offers seems out of place."
+    },
+    "20": {
+        "input": "Intent: for Cameras, photo or video\nBundle Items:\n1. Hildozine Remote Transceiver Caddy for Pocket Wizard Units\n2. Nikon 35mm f/1.8G AF-S DX Lens for Nikon Digital SLR Cameras\n3. PBL Pro Heavy Duty 8' Light Stand, Air Cushioned, for Photo or Video\n4. PBL 12ft Backdrop Background Support System, Heavy Duty, Air Cushioned, Adjustable Crossbar\n",
+        "target_score": 4.0,
+        "annotations": "A strong photography bundle which fulfills the purpose of setting up a photography studio. All the items complement each other, though it adding items could increase the diversity and further improve how each item complements each other. For instance, an item that increases the flash capabilities of the Nikon camera, and adding lighting backdrops could increase the diversity and value of the bundle, and improve the overall quality at the same time."
+    },
+    "21": {
+        "input": "Intent: studio setup\nBundle Items:\n1. Plugable USB 2.0 Flash Memory Card Reader for Windows, Mac, Linux, and Certain Android Systems - Supports SD cards (SDHC, Mini SD, Micro SD / T-Flash, etc) and MS, MS Pro Duo, MMC, More\n2. Westcott 130  9 x 10 Feet Green Screen Backdrop Wrinkle Resistant\n3. PocketWizard Plus X Radio Trigger with 10 Channels (Set of 2) + Carrying Bag for 2 Triggers + Bonus Focus Gift Card!\n4. Hildozine Remote Transceiver Caddy for Pocket Wizard Units\n5. Nikon 35mm f/1.8G AF-S DX Lens for Nikon Digital SLR Cameras\n6. PBL Pro Heavy Duty 8' Light Stand, Air Cushioned, for Photo or Video\n7. AmazonBasics High-Speed HDMI Cable - 15 Feet ( 4.6 Meters) Supports Ethernet\n8. PBL 12ft Backdrop Background Support System, Heavy Duty, Air Cushioned, Adjustable Crossbar\n",
+        "target_score": 3.0,
+        "annotations": "A coherent photography studio bundle. However, the one item, the HDMI cable seems out of place and does not seem to complement any other item. Otherwise all items are thematically similar and the bundle has a lot of diversity without seeming like bloat."
+    },
+    "22": {
+        "input": "Intent: different sd cards\nBundle Items:\n1. SanDisk 4GB Extreme SDHC Class 10 Memory Card\n2. Sony 8GB SDHC/SDXC Class 10 UHS-1 R40 Memory Card (SF8UY/TQMN)\n",
+        "target_score": 2.0,
+        "annotations": "A bundle for memory storage. Purchasing two different memory cards on their own does not make much sense. However, if the diversity of the bundle was increased, by adding a memory card case, then the value of both individual memory cards are increased as they both complement the memory card place. Right now, both memory cards are too thematically similar, and more diversity should be added to the bundle."
+    },
+    "23": {
+        "input": "Intent: HDMI PIN\nBundle Items:\n1. Wasabi Power Battery (2-Pack) and Charger for Canon LP-E8 and Canon EOS 550D, EOS 600D, EOS Rebel T2i, EOS Rebel T3i, EOS Rebel T4i, EOS Rebel T5i\n2. Wasabi Power Battery (2-Pack) and New Charger for GoPro HD HERO3+, HERO3 and GoPro AHDBT-201, AHDBT-301, AHDBT-302\n",
+        "target_score": 1.0,
+        "annotations": "The bundle serves to function as backup power for both a GoPro and Canon camera. However, the value of the bundle hinges on the user possessing both devices. Thus, the items do not complement each other and serves to only be useful to a very select group of people. Instead, the bundle should have a single focus, either the Canon camera or the GoPro, to improve the thematic similarity. "
+    },
+    "24": {
+        "input": "Intent: Camera accesories\nBundle Items:\n1. Fotodiox Eyecup for Canon EOS Digital Rebel T5i, T4i, T3i, T3, T2i, T1i, XS, XSi, XTi, XT, 300D, 10D-60D 70D, 1D, 1D MkII, 1Ds MkII, 6D, 5D, 5D MkII\n2. Wasabi Power Battery (2-Pack) and Charger for Canon LP-E8 and Canon EOS 550D, EOS 600D, EOS Rebel T2i, EOS Rebel T3i, EOS Rebel T4i, EOS Rebel T5i\n3. Manfrotto 323 RC2 Rapid Connect Adapter with 200PL-14 Quick Release Plate - Replaces 3299-Black\n4. 58MM Altura Photo Collapsible Rubber Lens Hood for for CANON Rebel T5i T4i T3i T3 T2i T1i XT XTi XSi SL1, CANON EOS 700D 650D 600D 550D 500D 450D 400D 350D 300D 1100D 100D 60D + MagicFiber Microfiber Lens Cleaning Cloth\n5. Canon RC-6 Wireless Remote Controller for Canon XT/XTi, XSi, T1i and T2i Digital SLR Cameras\n",
+        "target_score": 4.0,
+        "annotations": "It seems like a strong photography bundle, however, the Rapid Connect Adapter item assumes the existence of a tripod. This is because it is a plate system that allows fast attachment or detachment of cameras to tripods. Thus, the bundle would need to include a tripod to further increase the complementarity of the bundle. Items share a thematic similarity and diversity could be further increased with the tripod."
+    },
+    "25": {
+        "input": "Intent: Nikon D800 Camera\nBundle Items:\n1. SMDV RFN-4s Slim Wireless Remote Shutter Cable Release, Transmitter, and Receiver Kit for Nikon Camera for Nikon D800, D800e, D4, D3, D2, D1, D300, D300s, and D200 (Replaces Nikon Cable MC-30)\n2. SMDV Remote Shutter Release Cable for Nikon D1, D1H, D1X, D2H, D2X, D2Hs, D2Xs, D3, D3x, D3s, D4, D200, D300, D300s, D700, D800, D800E, Replaces Nikon MC-30\n3. Fotasy CokinP18in1Set Rainbowimaging 18-In-1 Square Filter Kit Compatible for Cokin P Series\n4. Lezbuddy Body Cap for Nikon - D800 - B/w\n",
+        "target_score": 3.0,
+        "annotations": "The bundles serves to complement the Nikon D800 camera. However, there are two remote Shutter Release cables in this bundle. Only one release cable is necessary, as the two items are too similar and overlap in function. The filter kit also does not complement the other bundle items, which are the protective cap and the remote shutter release, so more diversity and other items to complement the filter kit and the camera bundle could help increase its value."
+    },
+    "26": {
+        "input": "Intent: GoPro Mounts\nBundle Items:\n1. Adjustable Chest Mount Harness For GoPro HD Hero 2 &amp; 3 Camera - Black by Genneric\n2. GoPro Tripod Mount\n3. GoPro Head Strap Camera Mount\n",
+        "target_score": 5.0,
+        "annotations": "This bundle serves to mount a GoPro in different scenarios, a standard mount, a chest mount, and a head mount. This bundle has a very clear function to serve, and each item complements one another and share a thematic similarity. However, the blackout cloth does not contribute to the idea of the bundle, and while it does add diversity, it does not contribute to the functionality of the bundle."
+    },
+    "27": {
+        "input": "Intent: Video\nBundle Items:\n1. Adjustable Chest Mount Harness For GoPro HD Hero 2 &amp; 3 Camera - Black by Genneric\n2. GoPro Tripod Mount\n3. GoPro Head Strap Camera Mount\n4. Carl's Blackout Cloth, 16:9, 110x200, Projector Screen Material, White, 1.0\n",
+        "target_score": 3.0,
+        "annotations": "This bundle serves to mount a GoPro in different scenarios, a standard mount, a chest mount, and a head mount. This bundle has a very clear function to serve, and each item complements one another and share a thematic similarity. However, the blackout cloth does not contribute to the idea of the bundle, and while it does add diversity, it does not contribute to the functionality of the bundle."
+    },
+    "28": {
+        "input": "Intent: gopros accessories\nBundle Items:\n1. GoPro Head Strap Camera Mount\n2. Carl's Blackout Cloth, 16:9, 110x200, Projector Screen Material, White, 1.0\n",
+        "target_score": 2.0,
+        "annotations": "The blackout cloth is used for a surface for video projection, or if it were to be used in conjunction with a camera, it would not be a GoPro. Thus, these items do not complement each other. One item should be removed, and other items added to increase the complementarity and diversity of the bundle while adhering to a specific function."
+    },
+    "29": {
+        "input": "Intent: photographer bundle\nBundle Items:\n1. Nikon 18-200mm f/3.5-5.6G AF-S ED VR II Nikkor Telephoto Zoom Lens for Nikon DX-Format Digital SLR Cameras\n2. Nikon D5300 24.2 MP CMOS Digital SLR Camera with Built-in Wi-Fi and GPS Body Only (Black)\n",
+        "target_score": 5.0,
+        "annotations": "A very strong standalone bundle, adding a Nikon Zoom lens to a Nikon camera. Both items are highly complementary and there is a thematic similarity. The diversity of the bundle could be improved with more items but it is a perfectly fine bundle."
+    }
+}

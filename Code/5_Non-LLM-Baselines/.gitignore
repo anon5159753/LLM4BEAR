@@ -1,0 +1,10 @@
+# secrets -- never commit API keys
+.env
+*.key
+
+# local-only junk
+venv/
+__pycache__/
+*.pyc
+
+# output/ and judge_scores/ are committed here for reproducibility

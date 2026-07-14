@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Local dev clone of the LLM4BEAR repo data (siblings once deployed as a subfolder)
+# _repo/
+
+# Pipeline outputs (built artifacts; upstream results ship in the repo's own folders)
+output/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Scratch / working files
+scratch_cells/

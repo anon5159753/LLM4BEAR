@@ -1,0 +1,23 @@
+# Core (all stages)
+numpy
+pandas
+python-dotenv
+
+# Stage 3 & 4 helpers
+numba                 # JIT cosine similarity (common.py)
+
+# LLM access (stages 1-3)
+openai
+
+# Stage 3 embeddings (candidate retrieval)
+sentence-transformers
+torch
+
+# Stage 2 statistics (ICC / Pearson / Spearman + Excel export)
+scipy
+statsmodels
+openpyxl
+
+# Stage 1 EGPO engine
+pyyaml
+wandb                 # optional; only for EGPO logging (set WANDB_KEY, or skip)
