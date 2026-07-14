@@ -41,6 +41,8 @@ python -m venv venv
 ./venv/bin/python stage4_make_dataset.py
 ```
 
+For the mock run with low amount of iterations and samples it should cost ~1 USD.
+
 ---
 
 # LLM4BEAR Framework
