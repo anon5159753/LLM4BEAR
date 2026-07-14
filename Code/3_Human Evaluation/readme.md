@@ -3,6 +3,7 @@
 1. Making_Surveys.ipynb: Code process for how the json surveys were made.
 2. Human_Evaluation_Result_Analysis.ipynb: Use code to analyse the results of the item bundle comparison tasks done by human partipants.
 3. Claude_evaluating_surveyed_bundles.ipynb: Claude to use same item bundle comparison task instructions to rate bundles.
+4. Case_Study.ipynb: Double check for reasons why LLM and human ratings disagreed.
 
 # Human/Claude Participant Instructions for Item Bundle Comparison
 
