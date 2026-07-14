@@ -41,6 +41,8 @@ python -m venv venv
 ./venv/bin/python stage4_make_dataset.py
 ```
 
+Note: Stage 1 may still take ~30 minutes even under mock conditions.
+
 ---
 
 # LLM4BEAR Framework
