@@ -52,11 +52,12 @@ python -m venv venv
 
 The project is divided into six distinct stages, each corresponding to a specific notebook/process:-
 - **0. LLM4BEAR Framework:** Annotating Bundles
-- **1. LLM4BEAR Framework:** EGPO (Estimated Cost: $30 AUD total, can reduce the number of iterations to 2 or 3. Many experiments were done so this is only an estimation)
-- **2. LLM4BEAR Framework:** Bundle Refinement (Estimated Cost: $200 AUD total, bundle (~5000 bundles total. I did many ablation studies one after another so I can't be precise.)
+- **1. LLM4BEAR Framework:** EGPO 
+- **2. LLM4BEAR Framework:** Bundle Refinement
 - **3. Validation:** Human Evaluation
-- **4. Validation:** Downstream Bundle Generation (not part of LLM4BEAR framework) (Estimated Cost: $100, OpenAI's supervised fine-tuning is the most expensive, otherwise individual API calls for bundle generation do not cost much)
-- **5. LLM4BEAR Dataset Construction**
+- **4. Validation:** Downstream Bundle Generation (not part of LLM4BEAR framework)
+- **5. Non-LLM-Baselines:** Bundle Generation for original BundleRec dataset as LLM4BEAR lacks user-data interaction data.
+- **6. LLM4BEAR Dataset Construction**
 
 ## 0. Annotating Bundles - [[View Code](Code/0_Annotating%20Bundles)] (API Key Not Required)
 The initial phase where bundles and their constituent items have had their images manually downloaded from Google Images. This was done to ensure rigorous quality of the annotated bundles. Anyone can access and review the bundles annotated for this paper as well as the bundle score and bundle annotations provided. This code provides the basis of deriving the ground-truth for the EGPO mechanism.
