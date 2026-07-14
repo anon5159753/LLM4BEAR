@@ -12,6 +12,7 @@ Welcome to the **LLM4BEAR** repository. **L**arge **L**anguage **M**odels for **
 
 All core logic and experimentation reside in the **Jupyter Notebooks** located within the `Code/` folder. 
 
+* **Anonymous Repository:** Even !git clone commands have been replaced by this anonymous author. I have done all within my power to fulfill requirements.
 * **Full LLM4BEAR Pipeline:** A streamlined pipeline has been provided.
 * **Standalone Execution:** Each notebook for each step of our process is designed to run independently.
 * **LLM Outputs Saved:** To ensure accessibility and reproducibility, all LLM outputs required by the code have been pre-generated and provided as resources on the front page of this repository. The notebooks are downloadable and your own API key can be added to Google Colab for ease of use in order to cross-check our process.
