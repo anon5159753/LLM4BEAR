@@ -41,8 +41,6 @@ python -m venv venv
 ./venv/bin/python stage4_make_dataset.py
 ```
 
-For the mock run with low amount of iterations and samples it should cost ~1 USD.
-
 ---
 
 # LLM4BEAR Framework
@@ -198,7 +196,7 @@ Interestingly, both $\bar{s}$ and $cs$ produce consistent relative rankings acro
 
 Overall, **LLM4BEAR** exhibits the best balance of high-quality bundle completion rate while balancing effective catalogue utilisation (maximising diversity of items in the bundle dataset).
 
-## 3. Human Evaluation – [[View Code](Code/3_Human%20Evaluation)] [[View Surveys](3_Human%20Evaluation)] (API Key Not Required)
+## 3. Human Evaluation – [[View Code](Code/3_Human%20Evaluation)] [[View Surveys](3_Human%20Evaluation)] [[View Code](Code/3_Human%20Evaluation/Case_Study.ipynb)] (API Key Not Required)
 This details the process in which we designed our surveys to provide to willing human participants. First, while we manually scanned Google Images to annotate the representative subset of bundles for annotations, doing so for ~10000 images would be too tedious and time-consuming. Thus, we used a Google Search API key in order to scrape images off the internet. While some images are less accurate, the bundle survey instructions for participants explicitly detailed that discrepancies between item titles and images could be present, and to focus more on the item titles. Links to sample surveys have been provided, with the highlighted surveys that have already been completed being closed. No names for participants have been disclosed.
 
 
