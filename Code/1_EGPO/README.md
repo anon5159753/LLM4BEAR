@@ -2,6 +2,7 @@
 
 1. EGPO.ipynb: Running the EGPO mechanism
 2. Determining_Best_Prompts.ipynb: Determining which mode of EGPO performed the best (i.e., with/without natural language metrics, with/without natural language expert explanations, with/without importance graph reasoning)
+3. Prompt_score_distributions.ipynb: Inter-evaluator agreement and showing score distributions.
 
 ## EGPO Prompts
 
