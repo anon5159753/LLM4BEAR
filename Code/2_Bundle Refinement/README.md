@@ -208,16 +208,8 @@ Experts have provided analysis to aid you in the addition operation:
 You must perform the following two parts.
 
 **Part 1: Multi-Scenario Analysis**
-For **EACH** item in the 'Candidate Items to Add' list, create a separate, hypothetical "Importance Graph". This graph should show how the bundle would be ranked if that specific candidate were added. Follow this format for each candidate:
+For **EACH** item in the 'Candidate Items to Add', provide a thorough analysis of how the addition of each item would change the overall value of the bundle.
 
----
-**Importance Graph for adding [Candidate Item Name]:**
-a. [Item 1 from bundle or candidate] — [Role: Primary/Secondary/Tertiary]
-   Reason: [Your explanation for this item's rank in this specific scenario]
-b. [Item 2 from bundle or candidate] — [Role: Primary/Secondary/Tertiary]
-   Reason: [Your explanation]
-(...and so on for all original items plus the one candidate)
----
 
 **Part 2: Final Recommendation**
 After you have created an Importance Graph for every candidate, compare the outcomes. Decide which addition creates the most cohesive and valuable bundle overall. Summarize your final decision in the JSON format below.
