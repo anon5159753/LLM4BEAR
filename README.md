@@ -54,7 +54,7 @@ Note: Stage 1 may still take ~30 minutes even under mock conditions.
 
 The project is divided into six distinct stages, each corresponding to a specific notebook/process:-
 - **0. LLM4BEAR Framework:** Annotating Bundles
-- **1. LLM4BEAR Framework:** EGPO 
+- **1. LLM4BEAR Framework:** EGPO – [[View Prompts (.txt file)](LLM4BEAR%20Dataset)]
 - **2. LLM4BEAR Framework:** Bundle Refinement
 - **3. Validation:** Human Evaluation
 - **4. Validation:** Downstream Bundle Generation (not part of LLM4BEAR framework)
